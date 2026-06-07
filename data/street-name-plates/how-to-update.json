@@ -1,0 +1,428 @@
+{
+  "id": "6d667d21-4b96-421c-9ffb-1ada037a8c3f",
+  "type": "page",
+  "content": {
+    "title": "Процесс согласования и установки новой адресной таблички"
+  },
+  "children": [
+    {
+      "id": 41,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Как выбрать адресную табличку",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Как выбрать адресную табличку",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "98cf627b-feac-4a84-bed9-329f107cf76d",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/98cf627b-feac-4a84-bed9-329f107cf76d.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 42,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Процедура согласования",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Процедура согласования",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "519bf990-95b9-4e4a-93c8-74c1d1d5b823",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Место размещения адресных табличек на зданиях, за исключением объектов культурного наследия, определяется в соответствии со схемой дополнительных элементов и устройств паспорта фасадов здания.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Место размещения адресных табличек на зданиях, за исключением объектов культурного наследия, определяется в соответствии со схемой дополнительных элементов и устройств паспорта фасадов здания.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "aac8f467-5692-43bd-a388-a822f282d2f1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Согласование паспорта фасадов здания осуществляется путем направления на электронную почту Департамента архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Согласование паспорта фасадов здания осуществляется путем направления на электронную почту Департамента архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "dag@ekadm.ru",
+              "link": {
+                "url": "mailto:dag@ekadm.ru"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "dag@ekadm.ru",
+            "href": "mailto:dag@ekadm.ru"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " (адрес: г. Екатеринбург, пр-т Ленина, 24А, каб. 215) письма и паспорта фасадов здания, строения, сооружения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " (адрес: г. Екатеринбург, пр-т Ленина, 24А, каб. 215) письма и паспорта фасадов здания, строения, сооружения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1565dc13-7059-4c3b-aa75-4079f57aeb6e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Форма паспорта фасадов утверждена Постановлением Администрации города Екатеринбурга от 09.11.2015 № 3198.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Форма паспорта фасадов утверждена Постановлением Администрации города Екатеринбурга от 09.11.2015 № 3198.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fe551cf9-dd38-48f7-b7d7-6b795e511f27",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Все указанные муниципальные нормативно-правовые акты опубликованы на официальном сайте Администрации города Екатеринбурга: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Все указанные муниципальные нормативно-правовые акты опубликованы на официальном сайте Администрации города Екатеринбурга: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "екатеринбург.рф",
+              "link": {
+                "url": "https://xn--80acgfbsl1azdqr.xn--p1ai/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "екатеринбург.рф",
+            "href": "https://xn--80acgfbsl1azdqr.xn--p1ai/"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9b7d7557-9dab-481c-80b4-a3de745492c8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение адресной таблички необходимо согласовать с ответственным за эксплуатацию здания — управляющей компанией или ТСЖ.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение адресной таблички необходимо согласовать с ответственным за эксплуатацию здания — управляющей компанией или ТСЖ.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e0fadc35-6174-4826-8ab0-af7dbb5937f8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "При размещении адресной таблички на объекте культурного наследия рекомендуется направить в адрес Управления государственной охраны объектов культурного наследия Свердловской области на электронную почту ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "При размещении адресной таблички на объекте культурного наследия рекомендуется направить в адрес Управления государственной охраны объектов культурного наследия Свердловской области на электронную почту ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "uokn@egov66.ru",
+              "link": {
+                "url": "mailto:uokn@egov66.ru"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "uokn@egov66.ru",
+            "href": "mailto:uokn@egov66.ru"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " письмо и эскиз размещения адресной таблички на фасаде здания для рассмотрения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " письмо и эскиз размещения адресной таблички на фасаде здания для рассмотрения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9e01934e-45dc-4bf3-82d2-59078f850756",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2eae753a-d269-496f-905d-3572b38dbc12",
+      "type": "callout",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В случае соблюдения требований, указанных в настоящих методических рекомендациях, согласование паспорта фасадов для размещения адресной таблички не требуется.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "green"
+            },
+            "plain_text": "В случае соблюдения требований, указанных в настоящих методических рекомендациях, согласование паспорта фасадов для размещения адресной таблички не требуется.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "icon",
+          "icon": {
+            "name": "emoji-winking",
+            "color": "green"
+          }
+        },
+        "color": "yellow"
+      },
+      "children": []
+    },
+    {
+      "id": "76e3a220-d4cb-48c6-913f-b4d140eb593f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Процесс согласования и установки новой адресной таблички",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Процесс согласования и установки новой адресной таблички",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "dx%3FB",
+        "type": "number",
+        "number": 4
+      },
+      "pageUrl": {
+        "id": "cFkb",
+        "type": "url",
+        "url": "how-to-update"
+      }
+    },
+    "cover": null
+  }
+}

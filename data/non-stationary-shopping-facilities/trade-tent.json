@@ -1,0 +1,81 @@
+{
+  "id": "be8a955e-87fc-4d58-b3b5-fef1caa55fa7",
+  "type": "page",
+  "content": {
+    "title": "Торговая палатка"
+  },
+  "children": [
+    {
+      "id": "079c9b9c-d116-42ac-871a-db74611cef1c",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/079c9b9c-d116-42ac-871a-db74611cef1c.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "e52e254c-2dca-4f01-ae24-7d0c7b179932",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/e52e254c-2dca-4f01-ae24-7d0c7b179932.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "d9763a5b-e576-4182-a807-0460977da70a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Торговая палатка",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Торговая палатка",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 5
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "trade-tent"
+      }
+    },
+    "cover": null
+  }
+}

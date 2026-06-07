@@ -1,0 +1,497 @@
+{
+  "id": "bdd83ef2-158d-4e6d-a4dd-2b2529ef166e",
+  "type": "page",
+  "content": {
+    "title": "Глоссарий"
+  },
+  "children": [
+    {
+      "id": "298572b8-6cd9-41a8-8c49-bfd7dcf2244a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Городское пространство",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Городское пространство",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – организованная среда обитания человека, обеспечивающая его жизнедеятельность, сформированная материальными элементами и обладающая\nэкономической, эстетической и смысловой ценностью.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – организованная среда обитания человека, обеспечивающая его жизнедеятельность, сформированная материальными элементами и обладающая\nэкономической, эстетической и смысловой ценностью.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "169c9dd6-518c-405d-9de8-461e8698b275",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Городская среда",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Городская среда",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – система материальных и смысловых структур, выражающих архитектурно-художественный характер и эстетическое содержание среды, а также создающих комфортные условия для жизнедеятельности горожан.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – система материальных и смысловых структур, выражающих архитектурно-художественный характер и эстетическое содержание среды, а также создающих комфортные условия для жизнедеятельности горожан.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "66a7ace6-8582-4f6d-b0c7-fc28b6b47fc4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Качество городской среды",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Качество городской среды",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – основные показатели (характеристики) общедоступных пространств города, определяющие предметное наполнение, уровень содержания и благоустройства.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – основные показатели (характеристики) общедоступных пространств города, определяющие предметное наполнение, уровень содержания и благоустройства.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "42022a7a-1e72-4d95-9967-6e59a5e166a5",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Комфорт городской среды",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Комфорт городской среды",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – созданные условия в границах общедоступных участков города, соответствующие требованиям горожан к качеству благоустройства, функциональному наполнению и доступности.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – созданные условия в границах общедоступных участков города, соответствующие требованиям горожан к качеству благоустройства, функциональному наполнению и доступности.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fc3e88d9-01b1-45f6-93a2-2e5e983849f5",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Общественные пространства",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Общественные пространства",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – общедоступные участки городской среды, предназначенные для различных видов активностей (творческой, спортивной, познавательной) и коммуникации горожан.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – общедоступные участки городской среды, предназначенные для различных видов активностей (творческой, спортивной, познавательной) и коммуникации горожан.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0e8a9a81-e598-42c8-8a1e-5b497c6ce884",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекреационные пространства ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекреационные пространства ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "– разновидность общественных пространств, озеленение которых составляет более 50% поверхности территории, которые характеризуются высоким качеством элементов ландшафта, предназначенных для массового отдыха горожан и гостей города.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "– разновидность общественных пространств, озеленение которых составляет более 50% поверхности территории, которые характеризуются высоким качеством элементов ландшафта, предназначенных для массового отдыха горожан и гостей города.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "114089e8-1d72-4771-a92e-26e130a5990f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Система общественных пространств",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Система общественных пространств",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – совокупность локальных, общественных и рекреационных пространств различного размера и функционального назначения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – совокупность локальных, общественных и рекреационных пространств различного размера и функционального назначения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "19f69387-21f6-4ffc-ac96-719bbb6e27a7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Оживление общественных пространств",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Оживление общественных пространств",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – реализуемый посредством благоустройства и программ социальнокультурных мероприятий процесс активного и разнообразного использования общественных пространств, направленный на формирование комфортной, безопасной и привлекательной городской среды.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – реализуемый посредством благоустройства и программ социальнокультурных мероприятий процесс активного и разнообразного использования общественных пространств, направленный на формирование комфортной, безопасной и привлекательной городской среды.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e77f78cd-133b-45b6-a748-80f7623b2116",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пешеходная зона",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Пешеходная зона",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – городская территория, предназначенная для пешеходного движения, где запрещено передвижение на автотранспортных средствах, за исключением автомобилей спецслужб, коммунальной техники, маршрутного транспорта, транспорта для инвалидов, а также обслуживания магазинов (при отсутствии альтернативного маршрута).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – городская территория, предназначенная для пешеходного движения, где запрещено передвижение на автотранспортных средствах, за исключением автомобилей спецслужб, коммунальной техники, маршрутного транспорта, транспорта для инвалидов, а также обслуживания магазинов (при отсутствии альтернативного маршрута).",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "44355c7f-fa22-431e-85f0-95413fe02c8a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Календарь событий",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Календарь событий",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – перечень мероприятий, направленных на реализацию программы оживления общественного пространства, составляемый оператором общественного пространства на один сезон (год).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – перечень мероприятий, направленных на реализацию программы оживления общественного пространства, составляемый оператором общественного пространства на один сезон (год).",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Глоссарий",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Глоссарий",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 2
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "glossary"
+      }
+    },
+    "cover": null
+  }
+}

@@ -1,0 +1,1316 @@
+{
+  "id": "b1f01d2e-2ede-495a-9476-f6571bfc610a",
+  "type": "page",
+  "content": {
+    "title": "Общие положения"
+  },
+  "children": [
+    {
+      "id": "a8cdd76c-c118-4fb2-8e21-5a91d3fbe954",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Настоящие методические рекомендации адресованы всем субъектам города Екатеринбурга, вовлеченным в процесс комплексного благоустройства и развития рекреационных и общественных пространств: подразделениям Администрации города Екатеринбурга, коммерческим и общественным организациям, экспертам и активным горожанам.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Настоящие методические рекомендации адресованы всем субъектам города Екатеринбурга, вовлеченным в процесс комплексного благоустройства и развития рекреационных и общественных пространств: подразделениям Администрации города Екатеринбурга, коммерческим и общественным организациям, экспертам и активным горожанам.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4ca7d97f-c042-4b92-b2f5-61ca47356c83",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Целью разработки методических рекомендаций является формирование общего видения, принципов, методов и подходов к комплексному благоустройству рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург» на основе принятой типологии объектов благоустройства с учетом уникальных особенностей города Екатеринбурга, потребностей его жителей и гостей.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Целью разработки методических рекомендаций является формирование общего видения, принципов, методов и подходов к комплексному благоустройству рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург» на основе принятой типологии объектов благоустройства с учетом уникальных особенностей города Екатеринбурга, потребностей его жителей и гостей.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2df2bc2d-52d7-4328-beae-07448d8ed840",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Задачи разработки методических рекомендаций: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Задачи разработки методических рекомендаций: ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "ac7e6389-dde1-4dc3-980a-1925d061e884",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "сформировать видение комплексного благоустройства рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург»;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "сформировать видение комплексного благоустройства рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург»;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "bbbd7e49-c083-4ea6-bbed-f00e515fbafc",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "предложить концепцию и стратегические принципы развития рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург»;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "предложить концепцию и стратегические принципы развития рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург»;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "d82c7924-8fe0-4370-9337-0ceeebb51968",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "определить типологию рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург»; ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "определить типологию рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург»; ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "2f1d9c17-6258-4183-a1ac-c84550a4173d",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "определить методы и этапы создания рекреационных и общественных пространств на основании принятой типологии;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "определить методы и этапы создания рекреационных и общественных пространств на основании принятой типологии;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "e27638d8-d42d-4a1c-8fbc-bb7e29070e05",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "определить содержание и порядок разработки стандартов благоустройства рекреационных и общественных пространств на основании принятой типологии.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "определить содержание и порядок разработки стандартов благоустройства рекреационных и общественных пространств на основании принятой типологии.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Очередность разработки стандартов благоустройства рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург»",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Очередность разработки стандартов благоустройства рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург»",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "45f361cb-8b7b-4dbe-ada1-9abaa2fb1450",
+      "type": "table",
+      "content": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false
+      },
+      "children": [
+        {
+          "id": "dc1d44dd-156b-4492-957b-115c1050a953",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2019",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2019",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Методические\nрекомендации\n«Концепция\nкомплексного\nблагоустройства\nрекреационных и\nобщественных\nпространств на\nтерритории\nмуниципального\nобразования «город\nЕкатеринбург»",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Методические\nрекомендации\n«Концепция\nкомплексного\nблагоустройства\nрекреационных и\nобщественных\nпространств на\nтерритории\nмуниципального\nобразования «город\nЕкатеринбург»",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "7db0f3df-cb95-4c20-a264-272fa80c7fb4",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2020",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2020",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Улицы",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Улицы",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "570d3c8b-539b-466d-a571-5d2a45846ed8",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2021",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2021",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Набережные",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Набережные",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "d8f8b304-3bd9-4897-a9b6-c1dbaaaace5c",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2022",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2022",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Городские леса, лесные парки, парки, скверы, бульвары",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Городские леса, лесные парки, парки, скверы, бульвары",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "e2c14436-1bdc-40bd-b455-7283b33aded9",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2023",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2023",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Площади",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Площади",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "2dd8a0c2-52fc-41f9-acd3-6375cae5f23f",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2024",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2024",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Дворы",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Дворы",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Содержание стандартов благоустройства рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург»",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Содержание стандартов благоустройства рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург»",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "numbered_list_folder",
+      "children": [
+        {
+          "id": "c4247853-99e2-431a-884c-f4a518828a7c",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Общие положения",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Общие положения",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "22b8bf7d-04b3-49a3-a953-3da449213e5b",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Типология",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Типология",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "3c4abb52-ce2d-4889-b24e-8a494580f79f",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Принципиальное зонирование согласно типологии",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Принципиальное зонирование согласно типологии",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "80379ab9-295a-46e3-9a79-c5ef2c426a8e",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Сочетание элементов благоустройства согласно типологии",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Сочетание элементов благоустройства согласно типологии",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "ff005357-cb06-4bc8-a1d1-7933c4157de2",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Наполнение зон элементами благоустройства согласно типологии",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Наполнение зон элементами благоустройства согласно типологии",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "7f07861d-a6bd-4913-88d7-580977ab56d4",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Типовые решения сопряжений элементов благоустройства, конструктивных узлов",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Типовые решения сопряжений элементов благоустройства, конструктивных узлов",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "dce277a2-252a-4fb5-87b0-aa525ff47ac0",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Рекомендации по разработке и реализации проекта благоустройства",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Рекомендации по разработке и реализации проекта благоустройства",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "6219f8af-3c97-49f4-bd34-a45bafe717ef",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Рекомендации по эксплуатации объекта благоустройства",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Рекомендации по эксплуатации объекта благоустройства",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Основания для разработки методических рекомендаций (правовые акты и иные документы)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Основания для разработки методических рекомендаций (правовые акты и иные документы)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "8d1187b7-6543-4477-9f52-d3c773dd9373",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Федеральный закон от 29.12.2004 № 190-ФЗ «Градостроительный кодекс\nРоссийской Федерации»",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Федеральный закон от 29.12.2004 № 190-ФЗ «Градостроительный кодекс\nРоссийской Федерации»",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "2404780c-aa79-4908-b8ad-c9f4343625e8",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Федеральный закон от 05.04.2013 № 44-ФЗ «О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд»",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Федеральный закон от 05.04.2013 № 44-ФЗ «О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд»",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "d878eff1-90f7-4901-930f-f75ac1e4e4ee",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Федеральный закон от 25.06.2002 № 73-ФЗ «Об объектах культурного наследия (памятниках истории и культуры) народов Российской Федерации»",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Федеральный закон от 25.06.2002 № 73-ФЗ «Об объектах культурного наследия (памятниках истории и культуры) народов Российской Федерации»",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "82fe993a-5781-4664-8995-a40d7f13c242",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Федеральный закон от 09.02.2007 № 16-ФЗ «О транспортной безопасности»",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Федеральный закон от 09.02.2007 № 16-ФЗ «О транспортной безопасности»",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "9cf236ba-7f35-4480-84a1-350f0d16f342",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Паспорт приоритетного проекта по основному направлению стратегического развития Российской Федерации «Формирование комфортной городской среды»",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Паспорт приоритетного проекта по основному направлению стратегического развития Российской Федерации «Формирование комфортной городской среды»",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "aed36ee4-4be8-4f34-bed8-0d6bb0ae3d37",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Закон Свердловской области от 15.06.2015 № 45-ОЗ «О стратегическом планировании в Российской Федерации, осуществляемом на территории Свердловской области»",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Закон Свердловской области от 15.06.2015 № 45-ОЗ «О стратегическом планировании в Российской Федерации, осуществляемом на территории Свердловской области»",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "8f2a8d91-392e-4a8e-b545-fb0de800b8a7",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Закон Свердловской области от 21.11.2005 № 105-ОЗ «Об особо охраняемых природных территориях областного и местного значения в Свердловской области»",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Закон Свердловской области от 21.11.2005 № 105-ОЗ «Об особо охраняемых природных территориях областного и местного значения в Свердловской области»",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "1b85344f-04b8-4804-a116-73cf59d5aec0",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Решение Екатеринбургской городской Думы от 26.06.2012 № 29/61 «Об утверждении Правил благоустройства территории муниципального образования «город Екатеринбург»",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Решение Екатеринбургской городской Думы от 26.06.2012 № 29/61 «Об утверждении Правил благоустройства территории муниципального образования «город Екатеринбург»",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "87985e22-954a-4fc3-b2c1-ea48885f7fd7",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Решение Екатеринбургской городской Думы от 26.10.2010 № 67/30 «О внесении изменений в Решение Екатеринбургской городской Думы от 10 июня 2003 года № 40/6 «О Стратегическом плане развития Екатеринбурга»",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Решение Екатеринбургской городской Думы от 26.10.2010 № 67/30 «О внесении изменений в Решение Екатеринбургской городской Думы от 10 июня 2003 года № 40/6 «О Стратегическом плане развития Екатеринбурга»",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "ee6c8b73-d1e7-419d-9656-889ed75eb59a",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Постановление Администрации города Екатеринбурга от 29.11.2016 № 2353 «Об утверждении Муниципальной программы «Улучшение благоустройства территории муниципального образования «город Екатеринбург» на 2017 – 2020 годы»",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Постановление Администрации города Екатеринбурга от 29.11.2016 № 2353 «Об утверждении Муниципальной программы «Улучшение благоустройства территории муниципального образования «город Екатеринбург» на 2017 – 2020 годы»",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "1d32fc41-3379-45b2-9597-a37bb445b955",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Постановление Администрации города Екатеринбурга от 28.12.2017 № 2613 «Об утверждении Муниципальной программы «Формирование современной городской среды в муниципальном образовании «город Екатеринбург» на 2018 – 2022 годы»",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Постановление Администрации города Екатеринбурга от 28.12.2017 № 2613 «Об утверждении Муниципальной программы «Формирование современной городской среды в муниципальном образовании «город Екатеринбург» на 2018 – 2022 годы»",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "790fb24a-7627-4834-8147-534f03ec8ca0",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Лесохозяйственный регламент Муниципального бюджетного учреждения «Екатеринбургское лесничество»",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Лесохозяйственный регламент Муниципального бюджетного учреждения «Екатеринбургское лесничество»",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "889a2764-b897-4558-a6c8-a9a5789b37c6",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Проект Генерального плана развития городского округа – муниципального образования «город Екатеринбург» на период до 2035 года",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Проект Генерального плана развития городского округа – муниципального образования «город Екатеринбург» на период до 2035 года",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "012d1d81-781e-4f0e-b5ef-8b86c01a121d",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Правила землепользования и застройки городского округа – муниципального образования «город Екатеринбург», утвержденные Решением Екатеринбургской городской Думы от 19.06.2018 № 22/83 (актуальная редакция)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Правила землепользования и застройки городского округа – муниципального образования «город Екатеринбург», утвержденные Решением Екатеринбургской городской Думы от 19.06.2018 № 22/83 (актуальная редакция)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "5b3e2e7e-beb8-4f61-b58d-ed6a5b89ad92",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Нормативы градостроительного проектирования городского округа – муниципального образования «город Екатеринбург», утвержденные Решением Екатеринбургской городской Думы от 22.12.2015 № 61/44 (актуальная редакция)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Нормативы градостроительного проектирования городского округа – муниципального образования «город Екатеринбург», утвержденные Решением Екатеринбургской городской Думы от 22.12.2015 № 61/44 (актуальная редакция)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "6b66d73a-8449-404b-9838-498b9fb9948a",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Методика формирования индекса качества городской среды муниципальных образований Российской Федерации",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Методика формирования индекса качества городской среды муниципальных образований Российской Федерации",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "21780de0-c30a-4f4f-9811-290799d1cec8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Общие положения",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Общие положения",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 1
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "general-provisions"
+      }
+    },
+    "cover": null
+  }
+}

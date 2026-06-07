@@ -1,0 +1,3187 @@
+{
+  "id": "18ec87ed-a485-4426-be38-8951b9399af0",
+  "type": "page",
+  "content": {
+    "title": "Вывески"
+  },
+  "children": [
+    {
+      "id": "1d599fbc-6310-4847-b38f-dc181b3c52ac",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/1d599fbc-6310-4847-b38f-dc181b3c52ac.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "3e3b51d3-d765-4e77-9ff4-8b8fd2c6b395",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вывеска\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вывеска\n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещаемый на фасаде здания, строения, сооружения объект, который содержит информацию о юридических лицах или индивидуальных предпринимателях, органах государственной власти или местного самоуправления, а также сведения и материалы, доведение которых до потребителя является обязательным в соответствии с федеральным законодательством",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещаемый на фасаде здания, строения, сооружения объект, который содержит информацию о юридических лицах или индивидуальных предпринимателях, органах государственной власти или местного самоуправления, а также сведения и материалы, доведение которых до потребителя является обязательным в соответствии с федеральным законодательством",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 270,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Типология вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Типология вывесок",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 271,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вывеска на крыше",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вывеска на крыше",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7b5a0e88-db9e-4951-81d3-38981977c0f7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение отдельных букв и знаков на крышах зданий с использованием конструктивных решений.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение отдельных букв и знаков на крышах зданий с использованием конструктивных решений.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c3c03b3d-be3c-46ad-a779-3ba78355a750",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/c3c03b3d-be3c-46ad-a779-3ba78355a750.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "18497426-71a7-440b-8d78-1cc3e90fe5b6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 272,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Настенная вывеска без подложки",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Настенная вывеска без подложки",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5fac25d6-daf1-4623-8fff-7ce618ebb09d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение отдельных букв и знаков непосредственно на фасаде. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение отдельных букв и знаков непосредственно на фасаде. ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "14c55946-9bf6-4856-b4cc-5b76e3f3ecec",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/14c55946-9bf6-4856-b4cc-5b76e3f3ecec.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "9086f365-6fd8-48d3-b013-ab00471a0c09",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 273,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Настенная вывеска с подложкой",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Настенная вывеска с подложкой",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "91914b3f-5c8c-4fdb-aadf-9cbe64b6e66c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение отдельных букв и знаков на конструкции, закрепленной на поверхности фасада, параллельно его плоскости.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение отдельных букв и знаков на конструкции, закрепленной на поверхности фасада, параллельно его плоскости.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b323aafc-09a4-43ad-9f13-dc6c06f5c589",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/b323aafc-09a4-43ad-9f13-dc6c06f5c589.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "ef72e3f8-56ed-4603-96f1-ba4959d59654",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f2a9b816-f12e-4fed-a02d-fbd406c7e4f4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Настенная вывеска в виде светового короба (lightbox) ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Настенная вывеска в виде светового короба (lightbox) ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "— размещение отдельных букв, знаков и декоративных элементов на источнике света с плоской поверхностью, закрепленной на плоскости фасада.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "— размещение отдельных букв, знаков и декоративных элементов на источнике света с плоской поверхностью, закрепленной на плоскости фасада.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 274,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вывески на остеклении",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вывески на остеклении",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c25e36e0-433c-4d34-94b7-8d3d6a9b9a22",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение на остеклении витрин отдельных плоских или объемных букв, знаков и декоративных элементов либо методом нанесения трафаретной печати, либо методом аппликации.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение на остеклении витрин отдельных плоских или объемных букв, знаков и декоративных элементов либо методом нанесения трафаретной печати, либо методом аппликации.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8b62bb50-51f8-4abe-95b6-1e528c484d4e",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/8b62bb50-51f8-4abe-95b6-1e528c484d4e.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "023c3172-d600-4f67-b1e7-2e657a42524e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 275,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Консольная вывеска, закрепленная на расстоянии от стены",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Консольная вывеска, закрепленная на расстоянии от стены",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0a134167-dc90-4461-868d-c942d5b56673",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение букв, знаков и декоративных элементов на конструкции, закрепленной перпендикулярно плоскости фасада, подвесным креплением на расстоянии от стены.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение букв, знаков и декоративных элементов на конструкции, закрепленной перпендикулярно плоскости фасада, подвесным креплением на расстоянии от стены.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "283fa246-b398-4388-9737-b2c1e5d2c5ae",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/283fa246-b398-4388-9737-b2c1e5d2c5ae.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "c08eb364-6d9b-47bb-990b-72ba692ea2e0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 276,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Консольная вывеска, закрепленная вплотную к стене ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Консольная вывеска, закрепленная вплотную к стене ",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9b1f4fd0-cf13-4251-95c4-50344d6a08b7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение букв, знаков и декоративных элементов на конструкции, закрепленной перпендикулярно плоскости фасада, невидимым креплением вплотную к стене.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение букв, знаков и декоративных элементов на конструкции, закрепленной перпендикулярно плоскости фасада, невидимым креплением вплотную к стене.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fd102c2f-74b6-4589-a6af-4f552ee058c3",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/fd102c2f-74b6-4589-a6af-4f552ee058c3.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "72820955-0f32-4611-8d44-68cd1a752ff9",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "35e8aeb2-f589-42c8-b928-80ba8283a561",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Навигационные вывески ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Навигационные вывески ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "—",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "—",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " группа вывесок, расположенных относительно друг друга по вертикальной или горизонтальной оси в едином формате.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " группа вывесок, расположенных относительно друг друга по вертикальной или горизонтальной оси в едином формате.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 277,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение вывесок на крыше",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение вывесок на крыше",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ded077e5-5b02-4090-b948-136b6a2ac9f1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вывески на крыше выполняются в виде отдельных букв и знаков (как плоских, так и объемных) с внутренней подсветкой.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вывески на крыше выполняются в виде отдельных букв и знаков (как плоских, так и объемных) с внутренней подсветкой.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a9ef3971-4e68-476d-b076-52e3b2c11b67",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Предельно допустимый размер букв вывесок на крыше зависит от этажности:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Предельно допустимый размер букв вывесок на крыше зависит от этажности:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "14e8d69c-8779-4120-a1c6-cf05dadb2877",
+      "type": "table",
+      "content": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false
+      },
+      "children": [
+        {
+          "id": "ab7a027b-b37e-43bc-8d75-7f52e8503e48",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Этажность дома",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Этажность дома",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Предельная «высота» букв",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Предельная «высота» букв",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "06c45031-66d7-4b83-867f-d3e15f13f652",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "1–3",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "1–3",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "0,8 метра",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "0,8 метра",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "721f05a1-cd20-4e16-bb2d-ebcd5248f4cd",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4–6",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4–6",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "1,2 метра",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "1,2 метра",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "7b8a6eea-31e5-4399-b578-4c31093f3398",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "7–9",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "7–9",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "1,8 метра",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "1,8 метра",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "ed5b9bc8-7c79-4d58-81f8-df7b43993eff",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "10–14",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "10–14",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2,2 метра",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2,2 метра",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "7e9dc94a-0ada-4266-9f42-edd10c156d44",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "15 и более",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "15 и более",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "3 метра",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "3 метра",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "b7f02f5f-f81f-4d33-9c1f-544b73255e8f",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/b7f02f5f-f81f-4d33-9c1f-544b73255e8f.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "1b1c74b3-0884-4863-8449-acf6bd112a43",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 280,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение настенных вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение настенных вывесок",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3639c377-9b80-4c12-9e9e-bf106e0fd19c",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "a508f48b-6304-420e-8c19-3d7c6074a642",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "ae87c430-2810-47ab-9ad6-a0c401445ecb",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Максимально допустимый размер букв настенных вывесок не более 0,4 метра.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Максимально допустимый размер букв настенных вывесок не более 0,4 метра.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "d5508dd2-1a33-4092-a216-81b5df31f304",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Максимально допустимый размер знаков настенных вывесок не более 0,75 метра.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Максимально допустимый размер знаков настенных вывесок не более 0,75 метра.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "afdfaf71-5012-4e35-a57f-d487a9dd4a70",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "fdaf8278-d809-41e2-a6ff-a22504866977",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Настенные вывески без подложки размещаются на плоских участках фасада, свободных от архитектурных элементов, на единой горизонтальной оси на уровне линии перекрытий между первым и вторым этажами либо ниже указанной линии.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Настенные вывески без подложки размещаются на плоских участках фасада, свободных от архитектурных элементов, на единой горизонтальной оси на уровне линии перекрытий между первым и вторым этажами либо ниже указанной линии.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "ff7b8312-6fbd-452b-a6f2-122a5339d366",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Настенные вывески рекомендуется выравнивать по центральной оси витрин, оконных и дверных проемов.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Настенные вывески рекомендуется выравнивать по центральной оси витрин, оконных и дверных проемов.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a816a82f-64db-4c2b-80dd-3a95fa519208",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/a816a82f-64db-4c2b-80dd-3a95fa519208.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "9afe8cd0-5332-49d7-96b8-e1998876f2ae",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c0d6be14-e5d4-4f39-8237-9bee423cce85",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "b31dece6-6ca1-4633-bf8c-a3fd80bcf399",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "141ce160-4c2c-4018-a8c3-6d24e7e9fa02",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Несколько настенных вывесок без подложки размещаются в один высотный ряд и на единой горизонтальной линии.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Несколько настенных вывесок без подложки размещаются в один высотный ряд и на единой горизонтальной линии.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "bdc5302e-c9df-4c6a-be41-5d45731797c2",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Настенные вывески и группы настенных вывесок, занимающие пространство над несколькими витринами, оконными и дверными проемами, рекомендуется располагать с учетом границ и осей указанных элементов.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Настенные вывески и группы настенных вывесок, занимающие пространство над несколькими витринами, оконными и дверными проемами, рекомендуется располагать с учетом границ и осей указанных элементов.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6232b781-d4a2-46c7-9d86-7f45694cce72",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "b9c1b5dc-e309-4cb1-ab33-f859a740e71d",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Несколько настенных вывесок с подложкой должны иметь единую высоту, стиль и цвет подложки.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Несколько настенных вывесок с подложкой должны иметь единую высоту, стиль и цвет подложки.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "d1af2aa5-cf4d-49a7-abb0-505d19158f9b",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Подложка должна размещаться в пределах занимаемых помещений.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Подложка должна размещаться в пределах занимаемых помещений.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "0ad36e72-a75a-4955-a2b0-dde62fe7ef57",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Недопустимо сочетать подряд вывески без подложки и с подложкой.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Недопустимо сочетать подряд вывески без подложки и с подложкой.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "emoji",
+                  "emoji": "❌"
+                },
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "412422b6-baaa-4ec7-beb5-b711119e69d1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "139597d0-2784-4cd6-8cac-cc68995bde18",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/139597d0-2784-4cd6-8cac-cc68995bde18.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "1fb279c1-8c9f-4d5a-99ac-6d0eb6a41127",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Несколько вывесок должны располагаться на единой горизонтальной оси",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Несколько вывесок должны располагаться на единой горизонтальной оси",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8c046a8c-3d24-42fb-bd5f-5fe7f620ce80",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "68cb63c8-592f-4f7c-ab5a-f5b0eee55d19",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/68cb63c8-592f-4f7c-ab5a-f5b0eee55d19.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "340905c3-35d3-42d6-98dd-a9001638a691",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Настенная вывеска с подложкой",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Настенная вывеска с подложкой",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b9255a3f-6b57-4fbe-8faf-478a8e0d27a5",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c2a6539d-0099-464c-a050-c6c11685b9da",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8232e6a8-492f-486b-92ec-8bd21891415b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "17458864-176d-4d96-8d5d-be0c4a9195a4",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "79c6a7ab-9e0f-4276-8588-2cd9f10ced8a",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "1c0337cd-b7a1-4ae6-97d6-9578238ec695",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/1c0337cd-b7a1-4ae6-97d6-9578238ec695.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "216148eb-c088-4e91-b739-8777d87dbddc",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Настенная вывеска без подложки на старинном фасаде",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Настенная вывеска без подложки на старинном фасаде",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "8f4fa605-64bb-4291-8538-b424a3b08f00",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "c9811a8b-7d1c-4e33-8af0-a23a95e5fe19",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/c9811a8b-7d1c-4e33-8af0-a23a95e5fe19.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "15465339-9640-4e14-9a37-519aa498d8ce",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Настенная вывеска без подложки на старинном фасаде с контражурным подсветом",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Настенная вывеска без подложки на старинном фасаде с контражурным подсветом",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "cd6f88fc-65dc-4974-b024-033f75400bbc",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "3e474cd6-6da3-482f-8de1-74f11db44023",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/3e474cd6-6da3-482f-8de1-74f11db44023.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "38674a8d-4df0-470f-93f5-34b8e16479d2",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Настенная вывеска без подложки на старинном фасаде с контражурным подсветом",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Настенная вывеска без подложки на старинном фасаде с контражурным подсветом",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a13b37eb-3794-4105-bf2e-68279a033f5c",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "51823e0e-539a-4378-a05f-60e1b2fdd4fc",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/51823e0e-539a-4378-a05f-60e1b2fdd4fc.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "064fd797-48cd-4c2d-9e70-35da5d62425d",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Настенная вывеска с подложкой на современном фасаде",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Настенная вывеска с подложкой на современном фасаде",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "7f61f317-c36f-4cbf-ae1a-664853ed17c1",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "a7a60c34-4035-4cbf-b4d2-68917de8b12c",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/a7a60c34-4035-4cbf-b4d2-68917de8b12c.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "0d59d296-bfff-4da5-9f28-154e00007eff",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Настенная вывеска с подложкой на современном фасаде",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Настенная вывеска с подложкой на современном фасаде",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "91f8918a-ffcc-4b8c-b696-08bf7570ab8c",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31b6daed-f08f-4fd4-ad90-15a27d7e2985",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ab17e253-814f-4536-94af-d516b40bef9b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d6506f6f-ab80-4e0d-89f8-c645e53af1de",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2ad599c0-0bdd-4654-88e5-609d7ce67ca5",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4b59e352-83de-4741-aa99-42f35158a1db",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 285,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение вывесок на остеклении",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение вывесок на остеклении",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3e2ecfcc-3fdf-4e84-a4e6-f0968eec216d",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "35aa72c7-26f6-4743-9a32-a2a1f6eb6352",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "bb09598d-a76c-4e01-84c9-e7cbf0a5a288",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Вывеска на витрине не должны перекрывать более 1/3 остекления витрины.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Вывеска на витрине не должны перекрывать более 1/3 остекления витрины.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b4f9e996-b843-4068-8df3-98a2a1a2dbda",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "5d5dfdf4-9533-49e6-95dc-f5b468fb2a55",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Запрещено размещение на остеклении электронных носителей (бегущих строк и медиа-экранов).",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Запрещено размещение на остеклении электронных носителей (бегущих строк и медиа-экранов).",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "1fa41b45-3231-47d6-ba88-950733d58e88",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Запрещена замена остекления витрин световыми коробами или систем динамической смены изображений (роллерные системы, системы поворотных панелей).",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Запрещена замена остекления витрин световыми коробами или систем динамической смены изображений (роллерные системы, системы поворотных панелей).",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7c36f809-056a-4e47-a481-421e6c593d69",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/7c36f809-056a-4e47-a481-421e6c593d69.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "915b7c38-feec-43b6-9e40-271fb675f4cc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "bbeb741b-851a-4674-9559-dd4659bfc895",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "17aa0e4e-2e7a-4f55-846f-6c904e980fb7",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "c2b5d2d0-5968-4674-a989-3f9184e1b4b2",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/c2b5d2d0-5968-4674-a989-3f9184e1b4b2.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "731f10b7-7cd6-4649-93d8-98cc236dea05",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "e604201b-0824-4c67-aa44-28ad6a4b11f4",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/e604201b-0824-4c67-aa44-28ad6a4b11f4.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5cb30264-602e-4565-963a-d108865468db",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вывеска на остеклении в виде объемных букв",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вывеска на остеклении в виде объемных букв",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "16a379d7-b102-4108-b33b-9accec5df883",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1a0329dc-87bd-43ac-8b63-19b0ad71349c",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "967f7220-9dd7-41d6-bdb5-29ecce0f7ea0",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "9697cac4-17cd-4274-91a5-ff048038fdd4",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/9697cac4-17cd-4274-91a5-ff048038fdd4.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "2590ee66-1474-468a-a5a1-42a104afe8f1",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Вывеска на остеклении, выполненная методом аппликации",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Вывеска на остеклении, выполненная методом аппликации",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "903b5e4a-85b0-4ad3-9b0e-eb78bde2d4f1",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "26ffc9a6-29ff-430f-9f1c-94a637f301cd",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/26ffc9a6-29ff-430f-9f1c-94a637f301cd.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "cdc33cbc-3810-4b0d-ae40-e8607bdff579",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Вывеска на остеклении, выполненная методом аппликации",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Вывеска на остеклении, выполненная методом аппликации",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ebc56eca-91d6-42b3-b5d8-cd5fb0003a69",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3b39d23f-bf59-4edb-ab11-380e95e165eb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 298,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение консольных вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение консольных вывесок",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e3fb606c-e801-4007-9052-977d4d208e93",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "59a9ef12-8427-48df-b699-b75725f9a3a3",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "a2a46d3b-3671-472a-b476-a004ebd9aecf",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Консольные вывески располагаются в одной горизонтальной оси с настенными вывесками, у арок, на границах и внешних углах здания, строения, сооружения.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Консольные вывески располагаются в одной горизонтальной оси с настенными вывесками, у арок, на границах и внешних углах здания, строения, сооружения.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "1197a167-69d0-4d36-9d8b-eadf7a1635f1",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Максимально допустимая высота и ширина консольной вывески не более 0,75 метра.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Максимально допустимая высота и ширина консольной вывески не более 0,75 метра.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0fa2f786-283a-43cb-a7d5-833ec83ce985",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "819f874a-eac1-40c0-a66e-afc1d51ac615",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Рекомендуются следующие типы крепления консольных вывесок:",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Рекомендуются следующие типы крепления консольных вывесок:",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "type": "bulleted_list_folder",
+              "children": [
+                {
+                  "id": "a3845c82-d267-4a50-8fba-c0354a522f5a",
+                  "type": "bulleted_list_item",
+                  "content": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "подвесное крепление на расстоянии от стены",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "подвесное крепление на расстоянии от стены",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": []
+                },
+                {
+                  "id": "3cbd3f4f-7484-40f5-ab72-cb02aecd7548",
+                  "type": "bulleted_list_item",
+                  "content": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "невидимое крепление вплотную к стене",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "невидимое крепление вплотную к стене",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c7dbf2bb-d3f1-44fd-92c9-1b9007059e6e",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/c7dbf2bb-d3f1-44fd-92c9-1b9007059e6e.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "4c0c44fb-bd33-4399-a431-92d6dc4889ef",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "ae2bdee7-39bd-455c-bb8e-1eaefd0a3eca",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.625
+          },
+          "children": [
+            {
+              "id": "e2605f50-6253-432c-b83d-b36f9243116b",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/e2605f50-6253-432c-b83d-b36f9243116b.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "5986667a-6092-4ea4-8aaf-aded44af5177",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Консольные вывески с креплением на расстоянии от стены",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Консольные вывески с креплением на расстоянии от стены",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "a5119c27-fb1b-4b8d-a9f3-4a5ae64a615a",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7a988456-7452-4008-a3ee-29e2300e8509",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.37499999999999994
+          },
+          "children": [
+            {
+              "id": "b69180fc-a098-4d9b-8e9b-d751550d4bfc",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/b69180fc-a098-4d9b-8e9b-d751550d4bfc.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "6582bc85-26ea-4991-be9c-92869a0edccb",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Консольная вывеска с невидимым креплением вплотную к стене",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Консольная вывеска с невидимым креплением вплотную к стене",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "9d9ed9b5-1c52-41d1-9ed8-c659500cf65d",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение навигационных вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение навигационных вывесок",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "bc81c06b-a01e-4662-bb95-b1312c623702",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "7d2a6edd-73f2-4334-a041-a863732cac36",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "5853729d-296c-4c5a-bc43-4e104ab6a3b7",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Рекомендуется формировать группы навигационных вывесок в едином формате, имеющем четкие границы, структуру и стилистику наполнения, в соответствии с архитектурным обликом здания.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Рекомендуется формировать группы навигационных вывесок в едином формате, имеющем четкие границы, структуру и стилистику наполнения, в соответствии с архитектурным обликом здания.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "267d6222-8fb4-4d55-b834-9c638ce6eacb",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "5e1829f3-3101-48cd-99ec-dde2ce6903ba",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Навигационные вывески располагаются на уровне глаз в границах горизонтальных осей, задаваемых дверными проемами, на уровне не менее чем 0,5 метра от основания фасада в едином формате, имеющем четкие границы, структуру и стилистику наполнения, в соответствии с архитектурным обликом здания.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Навигационные вывески располагаются на уровне глаз в границах горизонтальных осей, задаваемых дверными проемами, на уровне не менее чем 0,5 метра от основания фасада в едином формате, имеющем четкие границы, структуру и стилистику наполнения, в соответствии с архитектурным обликом здания.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "66d9f6ec-e739-440d-b51a-fd458d4cd822",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "971c8655-33be-4f50-bbc3-3eff45194306",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "2776cb01-6b22-40e2-a97d-77c5beeabbbf",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "1a09fd28-cf6a-4116-964c-9e0b95ccbfdc",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/1a09fd28-cf6a-4116-964c-9e0b95ccbfdc.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "84f1f8fb-23a4-48ec-bedb-394d3b07df13",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Пример отсутствия единообразия и нарушение уровня расположения навигационных вывесок",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Пример отсутствия единообразия и нарушение уровня расположения навигационных вывесок",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5145b635-dccc-4897-b965-05c0d09b2874",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "317231c1-c50a-4102-b414-4c6de0518629",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/317231c1-c50a-4102-b414-4c6de0518629.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "2472b946-a835-4a34-9eb6-9258cab93239",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Пример правильного размещения и оформления группы навигационных вывесок",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "green"
+                    },
+                    "plain_text": "Пример правильного размещения и оформления группы навигационных вывесок",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29cc9836-f91f-4469-803c-621aae8d54bc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6cf3c05b-bdae-4f7d-8aa6-b83249e7d750",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 306,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещено",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещено",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d637783f-941b-49ec-a9e1-101b7b96258c",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "bf289351-e078-4a89-92fd-cae807a10f25",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "a7a6b2ef-fcc6-4f82-8062-200b52d28afc",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Размещение вывески, в конструкции которой используется баннерная ткань.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Размещение вывески, в конструкции которой используется баннерная ткань.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "3cdf2104-117a-4f62-a951-6347d72dc835",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Размещение вывески и её элементов на ограждающих конструкциях (заборах, шлагбаумах, иных конструкциях).",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Размещение вывески и её элементов на ограждающих конструкциях (заборах, шлагбаумах, иных конструкциях).",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "6460c2a3-f035-41f3-bd5a-d2f72595a8ea",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Размещение вывески с полным или частичным перекрытием оконных и дверных проемов, витрин, наименования улиц и нумерации домов (информационных указателей).",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Размещение вывески с полным или частичным перекрытием оконных и дверных проемов, витрин, наименования улиц и нумерации домов (информационных указателей).",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "f73a76dd-2869-4c4a-9149-681014b58519",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Размещение вывески с нанесением на поверхность стены букв, знаков и декоративных элементов способом покраски или аппликации.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Размещение вывески с нанесением на поверхность стены букв, знаков и декоративных элементов способом покраски или аппликации.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "30cf8360-afe8-4eb0-b4fe-8fa8b5d983aa",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "4804410c-416a-4a5f-98b8-9afe827d1313",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Размещение вывески без внутренней подсветки.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Размещение вывески без внутренней подсветки.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "7dd21377-ccfb-4ea1-a500-20843ba90984",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Размещение вывески с внешней подсветкой софитами.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Размещение вывески с внешней подсветкой софитами.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "2ea49195-e8a9-454e-9e8f-60ca22cae003",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Размещение настенных вывесок в виде светового короба.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Размещение настенных вывесок в виде светового короба.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "5924f275-2f9a-4cf2-ab4a-513908ee5952",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Размещение вывески, несоответствующей единой системе осей фасада.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Размещение вывески, несоответствующей единой системе осей фасада.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "6c9ea4e3-72dd-4a4f-9d96-fc0f744ff6f4",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Размещение вывески с использованием электронных носителей (бегущих строк, медиа-экранов).",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Размещение вывески с использованием электронных носителей (бегущих строк, медиа-экранов).",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "5f5fde74-6cdb-4ef1-be32-3edf106cc967",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вывески",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вывески",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 3
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "signboards"
+      }
+    },
+    "cover": null
+  }
+}

@@ -1,0 +1,818 @@
+{
+  "id": "5488e882-78c4-4173-851a-9e157d68cb6e",
+  "type": "page",
+  "content": {
+    "title": "Введение"
+  },
+  "children": [
+    {
+      "id": "310ee8f1-4544-401f-9ad8-524bd6710ab1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Настоящий каталог разработан в целях обеспечения реализации комплексного благоустройства и является руководством по определению дизайна элементов благоустройства, а также рекомендуемого ассортимента растений при разработке проектов общественных и рекреационных пространств, расположенных на территории муниципального образования «город Екатеринбург». ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Настоящий каталог разработан в целях обеспечения реализации комплексного благоустройства и является руководством по определению дизайна элементов благоустройства, а также рекомендуемого ассортимента растений при разработке проектов общественных и рекреационных пространств, расположенных на территории муниципального образования «город Екатеринбург». ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6d1cb8e7-a478-4338-a006-7f4368b2a5ff",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Данный каталог определяет минимальные рекомендации по характеристикам элементов благоустройства и не отменяет возможность разработки уникальных объектов. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Данный каталог определяет минимальные рекомендации по характеристикам элементов благоустройства и не отменяет возможность разработки уникальных объектов. ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4a04af2a-a5f2-4413-8e64-ac1b238f9f95",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "К элементам благоустройства в настоящем\nкаталоге относятся:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "К элементам благоустройства в настоящем\nкаталоге относятся:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "45226a62-48ed-4a30-835d-d6b07bd2a962",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "покрытия;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "покрытия;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "15c8f2d2-d0d8-43eb-a785-8a93b94e8f3c",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "малые архитектурные формы\nи городская мебель;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "малые архитектурные формы\nи городская мебель;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "baea67b0-3266-4a3d-bcd7-1ca15997b9ad",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "водные устройства;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "водные устройства;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "5b622fdd-de7b-46df-aeff-7afcc39fdfa1",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "игровое и спортивное оборудование;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "игровое и спортивное оборудование;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "31bf5fcb-3698-45c8-9fb4-e524f70ddca0",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "элементы озеленения;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "элементы озеленения;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "557718f1-7163-4d23-b3d8-3fa9739b992d",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "элементы освещения;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "элементы освещения;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "bb5b7080-dd7d-4feb-a282-ebc00a2ddb05",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "уличное коммунально-бытовое\nи техническое оборудование;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "уличное коммунально-бытовое\nи техническое оборудование;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "cd32b005-43fc-4c78-be12-e980a15d65d5",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "ограждения;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "ограждения;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "17b5d6e4-ef83-4c67-be6c-7af1cecae7e4",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "средства размещения информации\nи рекламные конструкции;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "средства размещения информации\nи рекламные конструкции;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "cb7eac91-143b-49bc-9f8e-de1eec3c8546",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "некапитальные строения, сооружения",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "некапитальные строения, сооружения",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "41cd362a-9ae5-47c0-81d3-5dc5599c3b66",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4f89ee06-3254-4e2b-b161-b5252342c8bd",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рассмотрение и согласование дизайн-проектов элементов благоустройства, а также концепций и дизайн-проектов рекреационных и общественных пространств осуществляются путем направления письма с приложением дизайн-проекта в печатном и электронном виде в адрес Департамента архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга. Дизайн-проекты и концепции особо значимых городских территорий подлежат рассмотрению в рамках заседания совета по развитию рекреационных и общественных пространств в муниципальном образовании «город Екатеринбург».",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рассмотрение и согласование дизайн-проектов элементов благоустройства, а также концепций и дизайн-проектов рекреационных и общественных пространств осуществляются путем направления письма с приложением дизайн-проекта в печатном и электронном виде в адрес Департамента архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга. Дизайн-проекты и концепции особо значимых городских территорий подлежат рассмотрению в рамках заседания совета по развитию рекреационных и общественных пространств в муниципальном образовании «город Екатеринбург».",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2dfe8479-38b5-45ea-85ae-e023153b7a3e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 666,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекреационные и общественные пространства, в отношении которых рекомендуется применять данный каталог",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекреационные и общественные пространства, в отношении которых рекомендуется применять данный каталог",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 667,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Бульвар",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Бульвар",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "62cc851a-ea90-4ab0-a34a-7b5f186cef21",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Озеленённая территория общего пользования вдоль магистралей, набережных либо в зоне жилой или общественной застройки в виде полосы различной ширины, предназначенная для пешеходного транзитного движения и кратковременного отдыха.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Озеленённая территория общего пользования вдоль магистралей, набережных либо в зоне жилой или общественной застройки в виде полосы различной ширины, предназначенная для пешеходного транзитного движения и кратковременного отдыха.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 668,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Набережная",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Набережная",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1dff6445-6d75-44ed-a8e5-7206ff827452",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Линейное открытое общественное пространство, примыкающее к водному объекту (ручью, реке, озеру, пруду), предназначенное для отдыха или пешеходного транзитного движения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Линейное открытое общественное пространство, примыкающее к водному объекту (ручью, реке, озеру, пруду), предназначенное для отдыха или пешеходного транзитного движения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 669,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Парк",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Парк",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "50da6c09-8652-4808-9803-7787d31a8ef9",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Озеленённая территория общего пользования, представляющая собой самостоятельный архитектурно-ландшафтный объект многофункционального или специализированного направления рекреационной деятельности с развитой системой благоустройства, предназначенная для отдыха населения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Озеленённая территория общего пользования, представляющая собой самостоятельный архитектурно-ландшафтный объект многофункционального или специализированного направления рекреационной деятельности с развитой системой благоустройства, предназначенная для отдыха населения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 670,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Площадь",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Площадь",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "69ae80d1-aa50-4e59-84de-1c737a70f735",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Примыкающее к улицам плоскостное открытое общественное пространство, озеленение которого не превышает 50% поверхности территории.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Примыкающее к улицам плоскостное открытое общественное пространство, озеленение которого не превышает 50% поверхности территории.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 671,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Сквер",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Сквер",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "97c51a97-cf19-4a42-83b1-96aa140c6143",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Компактная озелененная территория общего пользования, являющаяся элементом архитектурно-художественного оформления отдельных частей города, городских площадей, общественных и административных зданий, монументов, используемая для повседневного кратковременного отдыха населения и пешеходного транзитного движения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Компактная озелененная территория общего пользования, являющаяся элементом архитектурно-художественного оформления отдельных частей города, городских площадей, общественных и административных зданий, монументов, используемая для повседневного кратковременного отдыха населения и пешеходного транзитного движения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 672,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Улица",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Улица",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "56413b13-8c0d-4e2d-8205-1cedcde2d6d7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Линейное открытое общественное пространство для движения различных видов транспорта и пешеходов, ограниченное линией застройки или другими искусственными и естественными рубежами.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Линейное открытое общественное пространство для движения различных видов транспорта и пешеходов, ограниченное линией застройки или другими искусственными и естественными рубежами.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Введение",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Введение",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 1
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "_index"
+      }
+    },
+    "cover": null
+  }
+}

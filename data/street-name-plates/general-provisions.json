@@ -1,0 +1,636 @@
+{
+  "id": "5604e072-5f79-4708-b909-4b7ce49a46f7",
+  "type": "page",
+  "content": {
+    "title": "Введение"
+  },
+  "children": [
+    {
+      "id": 46,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "О стандарте",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "О стандарте",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9fe2c60c-f737-45c4-8ddd-7fa3f8c74754",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Данное руководство разработано в целях создания единой системы навигации города Екатеринбурга и формирования взаимосвязанных требований по размещению адресных табличек с наименованиями улиц и номерами домов, предусмотренных для размещения на фасадах зданий, расположенных на территории города Екатеринбурга.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Данное руководство разработано в целях создания единой системы навигации города Екатеринбурга и формирования взаимосвязанных требований по размещению адресных табличек с наименованиями улиц и номерами домов, предусмотренных для размещения на фасадах зданий, расположенных на территории города Екатеринбурга.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c5bd55d0-b5be-4bdf-9f20-869929561e19",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Руководство содержит информацию и рекомендации по типологии, дизайну и правилам размещения адресных табличек.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Руководство содержит информацию и рекомендации по типологии, дизайну и правилам размещения адресных табличек.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5419ac84-92f9-4c51-8fc0-4bf9bff10d86",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Руководство рекомендовано к использованию для лиц, ответственных за эксплуатацию зданий, собственников и арендаторов помещений, застройщиков жилых комплексов и проектировщиков.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Руководство рекомендовано к использованию для лиц, ответственных за эксплуатацию зданий, собственников и арендаторов помещений, застройщиков жилых комплексов и проектировщиков.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 47,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Проблемы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Проблемы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8769bc79-5b2f-4dd6-a9d4-1af71b2ac89e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "По итогам проведённого анализа фасадов зданий выявлено, что размещение адресных табличек не имеет единого подхода. Различные варианты дизайна адресных табличек приводят к сложностям в ориентации на улицах города, а также портят облик исторических зданий. Из-за отсутствия требований к расположению адресных табличек они часто размещаются без учёта архитектурных элементов фасадов зданий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "По итогам проведённого анализа фасадов зданий выявлено, что размещение адресных табличек не имеет единого подхода. Различные варианты дизайна адресных табличек приводят к сложностям в ориентации на улицах города, а также портят облик исторических зданий. Из-за отсутствия требований к расположению адресных табличек они часто размещаются без учёта архитектурных элементов фасадов зданий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "61b3c2f6-92ad-417e-94c4-89f2d221f52a",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "dd3d9642-1e92-4373-8e08-72d37d56d413",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.3333333333333333
+          },
+          "children": [
+            {
+              "id": "47d465d9-e70b-4747-b3bb-580ad67e5c54",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/47d465d9-e70b-4747-b3bb-580ad67e5c54.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fca30b45-5dd7-4351-b6f9-874f1aaae820",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.33333333333333337
+          },
+          "children": [
+            {
+              "id": "8bcede73-9764-45a8-8e9d-3af39b870346",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/8bcede73-9764-45a8-8e9d-3af39b870346.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "77f63caa-87d0-49d5-92df-117a002f2b04",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.33333333333333337
+          },
+          "children": [
+            {
+              "id": "d4912c70-deaf-430f-b907-aae19561bbd2",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/d4912c70-deaf-430f-b907-aae19561bbd2.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f55eaee6-89f8-4600-9576-516ff65589b4",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "61bafc4c-d168-448c-ad2a-6f49767f1535",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "7a4df913-02e0-4471-a21b-da91d8257d7b",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/7a4df913-02e0-4471-a21b-da91d8257d7b.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7ea9836c-cc52-42c1-b0fe-237aa1bc0f04",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "da499c78-c017-47e0-9723-08d387ef8989",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/da499c78-c017-47e0-9723-08d387ef8989.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "78c092c5-14cd-43f4-b610-36ae2c24f7c3",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "5d7082f4-2f3d-4f38-adf0-c5c8cac07033",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.33333333333333337
+          },
+          "children": [
+            {
+              "id": "52b77149-0b82-468c-850b-9c3d679e5509",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/52b77149-0b82-468c-850b-9c3d679e5509.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "102974cc-182b-4069-b454-f9b0cb295b71",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.3333333333333334
+          },
+          "children": [
+            {
+              "id": "7b7af24b-a323-4796-8153-296671cb5fa0",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/7b7af24b-a323-4796-8153-296671cb5fa0.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "51fc888a-5367-47c5-9887-63a196c1b35c",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.3333333333333333
+          },
+          "children": [
+            {
+              "id": "614bc54c-1fc3-4701-9899-246c2e573004",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/614bc54c-1fc3-4701-9899-246c2e573004.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Задачи",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Задачи",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "numbered_list_folder",
+      "children": [
+        {
+          "id": "5699cbe1-710f-485a-abfe-c5a7633e53b2",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Выявить архитектурные, исторические, культурные и социальные особенности Екатеринбурга при формировании дизайна адресных табличек.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Выявить архитектурные, исторические, культурные и социальные особенности Екатеринбурга при формировании дизайна адресных табличек.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "01a9a14f-bf5f-4650-9b83-1bfdd0249d93",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Сформулировать методику, в соответствии с которой дизайн адресных табличек должен иметь типологию.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Сформулировать методику, в соответствии с которой дизайн адресных табличек должен иметь типологию.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "93d536ca-f7d9-4053-8a71-0db93a9aec29",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Провести анализ нормативной базы в области размещения адресных табличек и сформулировать предложения по её корректировке (правила благоустройства).",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Провести анализ нормативной базы в области размещения адресных табличек и сформулировать предложения по её корректировке (правила благоустройства).",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "450d1c1b-cff1-4e3f-ae95-08c11720f891",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определить типологию адресных табличек.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определить типологию адресных табличек.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "932d91e3-48a8-4735-a871-7e605770514a",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определить дизайн адресных табличек в соответствии с типологией.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определить дизайн адресных табличек в соответствии с типологией.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "ace2d048-5deb-4a59-9d05-a2f55c294bda",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определить рекомендации по размещению адресных табличек на фасадах зданий.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определить рекомендации по размещению адресных табличек на фасадах зданий.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "2bb06429-6a34-40ff-b83c-acb5bf5fdb95",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определить перечень технических и конструктивных решений.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определить перечень технических и конструктивных решений.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "deff10d8-2536-4c29-bf4f-c2a13c22f680",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Введение",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Введение",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "dx%3FB",
+        "type": "number",
+        "number": 1
+      },
+      "pageUrl": {
+        "id": "cFkb",
+        "type": "url",
+        "url": "general-provisions"
+      }
+    },
+    "cover": null
+  }
+}

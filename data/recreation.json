@@ -1,0 +1,57 @@
+{
+  "id": "9c753ba9-6957-46b2-8b66-82a9b3c7b45f",
+  "type": "page",
+  "content": {
+    "title": "Зелёный каркас"
+  },
+  "children": [
+    {
+      "id": "7aae93ca-de97-4a45-9a50-3f002bef7aa3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Зелёный каркас",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Зелёный каркас",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "SaHT",
+        "type": "number",
+        "number": 40
+      },
+      "pageUrl": {
+        "id": "%3Ez%7DR",
+        "type": "url",
+        "url": "recreation"
+      }
+    },
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/b58e66a4-d31e-4085-be12-e8a4238316ec/b0850ff7-51b4-4b1c-8144-f13385d51346/Screenshot_2022-06-21_at_17.17.56.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QMEQPOCC%2F20260607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260607T211827Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD3YlE9yAil%2FDYjPqoAxCySLYyZ75Y0REekt56jfPtFcAIhANlLGRlEoUtOk%2B5sIHXeF1YtisM31VUaHxMQSEJ1juTzKogECKP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxX79QNGE4ua1GOwrUq3AMipdxxGl8Cm32LLnNv2Hb7OcSFv97okxRT3lZpdQPTuzqQWvDTDeFlNyVSQVwXCKmdyciImz%2FwFH%2BG6ZEAe60Q17SKVFeDcFh6HuYXEaUHRw8UNTLqrssfTWeGLzeHoMMW%2Fr2pNud3FqJePMePk6l9fdK6rPqnHwkfWuMOG%2BJfaC0UZI0fHDy6kTFHdEoFdoMkiazMLhtAB2LnBtw67rxJrmNZore0zAWOBBqENbwXwLSNYCCjpWx%2FFavBjvCZY3zoOBx41TEnc1wWzsfw0TI6DG0P5Q%2FOd84uXhtKr4HDnVU8aaXel2skeSRlIkyoBupT0ZDLzsug1zlqjMNr0TcSiQy8Bz7r8jbm%2FVzCl7O%2B0tLv3Bugs%2F0YRoafbwlnLfWHfElMwH5G14ZHcLmK3WaJzV99esm%2B4aoFTxzA9K%2Fn%2FNMoY7VWk8VnfkVlbQhsGg4tje94K3cyBAQUD2lVl84SgRrl2BHBT2oS%2Bp6XOHrAXZ7kt896nSmjPHRfhXM3AeYCXNtZfWVhhSQAQ2FKT6xXzYqJkmbQX9oRTYtg91oTzyZub2zQUu%2BV9uSb%2B9yODrOv3uC18l%2FMkwoeJ35zyM38%2Fl46PQQBlSSJ9RE%2FkKu0f%2BkGi5929GIUutFl2TCu4JbRBjqkAexw0n6xK26IH61Shw59ynuHS9NDyOkyHA3odIH1sPQngqJnaMQRMUMP98TkLCmyriO%2FqyzHQ3Ym9eY9d2XCJGhY3MppftkkzvFCp9vbFB%2FqXG8O0aDKtYhGIQ2NO2Y%2FoRQT0po%2FFwWxOVvZwo8NMs3jG8hIJAQRIzXqxVavvi1UByUhmJ0inC%2BMFz4rm8jhcp0RhDaSLLI1%2FHh5edzvRsbeRxu8&X-Amz-Signature=570a587f5218b1daec34d2e719540de5933590248dc1d99c46e481ebec8869dc&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+  }
+}

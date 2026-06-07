@@ -1,0 +1,119 @@
+{
+  "id": "dc161934-495a-4259-a1d1-476b6c48d2be",
+  "type": "page",
+  "content": {
+    "title": "Модуль 2"
+  },
+  "children": [
+    {
+      "id": "f3dbbc84-6cc0-4fe1-81ce-7ad52790ed88",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/f3dbbc84-6cc0-4fe1-81ce-7ad52790ed88.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "d0550a92-6906-4018-9983-aff21cfee74d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0310a7c8-4d11-47dd-857b-aa02f9396a2a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Развертки фасадов модуля 2",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Развертки фасадов модуля 2",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a325271a-e931-4942-94c5-00ce8111a01d",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/a325271a-e931-4942-94c5-00ce8111a01d.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "9ccb820d-fd47-402a-9869-f047a584a4f3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Модуль 2",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Модуль 2",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 2
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "module-2"
+      }
+    },
+    "cover": null
+  }
+}

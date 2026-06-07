@@ -1,0 +1,116 @@
+{
+  "id": "da9d3cb7-5658-4739-881e-8d9ea183b83a",
+  "type": "page",
+  "content": {
+    "title": "Карта внедрения дизайн-кода"
+  },
+  "children": [
+    {
+      "id": "0b7e21f9-7eb2-4e66-bf16-476440b6143c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Для удобства поиска и внедрения все разработанные развертки фасадов размещены на интерактивной онлайн-карте по адресу ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Для удобства поиска и внедрения все разработанные развертки фасадов размещены на интерактивной онлайн-карте по адресу ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "map.ekaterinburg.city",
+              "link": {
+                "url": "https://map.ekaterinburg.city/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "map.ekaterinburg.city",
+            "href": "https://map.ekaterinburg.city/"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b8d5a78a-a3d2-4757-b415-2b2ca346c314",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/b8d5a78a-a3d2-4757-b415-2b2ca346c314.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "3deb6c02-6c7c-465a-9913-464bc655ebaf",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Карта внедрения дизайн-кода",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Карта внедрения дизайн-кода",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 6
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "map"
+      }
+    },
+    "cover": null
+  }
+}

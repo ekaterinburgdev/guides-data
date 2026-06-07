@@ -1,0 +1,807 @@
+{
+  "id": "980ada5c-c71c-4bd3-ad41-67e84e1c35eb",
+  "type": "page",
+  "content": {
+    "title": "Анализ ситуации"
+  },
+  "children": [
+    {
+      "id": 236,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекреационные и общественные пространства",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекреационные и общественные пространства",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "78dc89a9-0361-4fac-9bf5-3812d7d866a7",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/78dc89a9-0361-4fac-9bf5-3812d7d866a7.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "905f2e57-2b8c-4b70-9f65-8041eb73db62",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "03df866e-9476-4ae0-9276-83b552772861",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "✅ Наличие лесов в границах муниципального образования",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "✅ Наличие лесов в границах муниципального образования",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "31d5f4fc-dcb2-4be9-9557-e666012f0c46",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/31d5f4fc-dcb2-4be9-9557-e666012f0c46.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "7a639d8b-8cd5-4fc9-aca6-7b6c292a5b03",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6a75b3c6-a599-4edd-b26a-7a5a7736560d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "✅ Потенциал развития образовательных практик",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "✅ Потенциал развития образовательных практик",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c2e03ed4-4fd6-4d1b-86b2-3ce8ac2ce293",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/c2e03ed4-4fd6-4d1b-86b2-3ce8ac2ce293.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "0fbc6078-c4c3-4e16-bf61-964b6f423b19",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4ab26b0c-24d3-42e3-b113-0c9fdd50837d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "❌ Низкая функциональность рекреационных пространств",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "❌ Низкая функциональность рекреационных пространств",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1911b166-3ab3-46d9-acaa-0dd2ac04c779",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/1911b166-3ab3-46d9-acaa-0dd2ac04c779.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "8796a435-8075-4cce-8334-cf47706705ce",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1e2249cc-e3dc-4962-b85d-77b6439256f3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "❌ Морально устаревшее оборудование",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "❌ Морально устаревшее оборудование",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "aecedef3-07f4-4e6e-8791-65e48cc88802",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/aecedef3-07f4-4e6e-8791-65e48cc88802.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 237,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Водные объекты",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Водные объекты",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e8a8b507-2564-4137-945e-78f973a704f8",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/e8a8b507-2564-4137-945e-78f973a704f8.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "ea46a4ec-2a3b-4154-a022-fb475c68ae8f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ed569786-5925-4f5e-9219-0c9715c35c44",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "✅ Наличие рек, озёр и прудов в границах города",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "✅ Наличие рек, озёр и прудов в границах города",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3c990de0-eea7-4246-bcbd-7af0dbd4ed14",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/3c990de0-eea7-4246-bcbd-7af0dbd4ed14.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "c838d01a-b05e-4b5a-a669-dd7c64b87904",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "85d300e0-b489-4af8-8b68-bca4f281f183",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "✅ Река Исеть, проходящая через центр города",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "✅ Река Исеть, проходящая через центр города",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "18b7ad92-1d3e-4831-bab5-f8eebc658731",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/18b7ad92-1d3e-4831-bab5-f8eebc658731.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "0280f79c-acb2-4d03-84fc-04b4b608efe2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cdfef000-0166-4d1d-aa74-2012d93c6ed0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "❌ Изолированность акваторий водных объектов",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "❌ Изолированность акваторий водных объектов",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d435e78a-77e9-475b-9949-e788c71dc1cf",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/d435e78a-77e9-475b-9949-e788c71dc1cf.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "65caa00f-3030-45d6-8c7d-bb205b7250dc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8aefebc1-e5f9-4b9d-bd28-34f5ceae186b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "❌ Неразвитость инфраструктуры для отдыха у воды",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "❌ Неразвитость инфраструктуры для отдыха у воды",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7058c2eb-b420-4a91-b180-29b43b37e23c",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/7058c2eb-b420-4a91-b180-29b43b37e23c.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 238,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Улицы и площади",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Улицы и площади",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "04797e62-38a7-4580-80b4-030862dbed51",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/04797e62-38a7-4580-80b4-030862dbed51.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "9c9e41b8-8cf7-4a48-97b9-54132b93b3f4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4d4b7857-c711-4d11-89e8-020d5f6cf45c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "✅ Наличие резерва для ландшафтного осмысления",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "✅ Наличие резерва для ландшафтного осмысления",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "60d651d2-6a75-4d4c-a018-02709757f73f",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/60d651d2-6a75-4d4c-a018-02709757f73f.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "d0b5cc17-1f91-4fdb-b3d4-91cb99a7f13c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "28b44184-4866-4eee-926e-ccc4f9025cce",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "❌ Организация автостоянок без учета иных функций городского пространства",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "❌ Организация автостоянок без учета иных функций городского пространства",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c675b7bd-7256-4b14-b14e-ac4f5e916732",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/c675b7bd-7256-4b14-b14e-ac4f5e916732.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "d0c8ac2e-c7eb-45a9-8d48-78ac9993f90d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "de9fd2cc-279b-497e-924d-3617fcefb7b8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "❌ Наличие развязок в разных уровнях в городской ткани",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "❌ Наличие развязок в разных уровнях в городской ткани",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f215e0db-7bc2-4e94-8a20-e52d3be5274e",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/f215e0db-7bc2-4e94-8a20-e52d3be5274e.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "c94f2d71-d4a1-45da-80e3-44e7cd914ca1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "441a0bd9-2922-42a7-a5c4-53c8c29a04a2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "❌ Деградация существующих площадей",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "❌ Деградация существующих площадей",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e20ff6f1-4fa5-4635-812c-41edc07ac901",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/e20ff6f1-4fa5-4635-812c-41edc07ac901.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 239,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Выводы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Выводы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8e02423a-60f0-450a-b3cd-9eacbccef0dc",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/8e02423a-60f0-450a-b3cd-9eacbccef0dc.webp"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Анализ ситуации",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Анализ ситуации",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 3
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "analysis"
+      }
+    },
+    "cover": null
+  }
+}

@@ -1,0 +1,2455 @@
+{
+  "id": "6c0b5316-8621-4002-aa16-d3634e080e90",
+  "type": "page",
+  "content": {
+    "title": "Общие положения"
+  },
+  "children": [
+    {
+      "id": 499,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Основания для разработки стандарта",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Основания для разработки стандарта",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8674991d-4f1f-4ea0-a95e-b7dd49fbb170",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "«Стандарт комплексного благоустройства улично-дорожной сети города Екатеринбурга» (далее Стандарт) выполнен по заказу Департамента архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "«Стандарт комплексного благоустройства улично-дорожной сети города Екатеринбурга» (далее Стандарт) выполнен по заказу Департамента архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "60de6b06-2533-40a8-8a01-602aa5ae5670",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Стандарт разработан с учетом:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Стандарт разработан с учетом:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "e96c921d-cb29-411e-9da0-bfa07cf65604",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Стратегии пространственного развития Екатеринбурга до 2030 года.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Стратегии пространственного развития Екатеринбурга до 2030 года.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "50b1192e-6f1a-4c6e-aa5d-d416f8221f92",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Каталога элементов благоустройства, рекомендуемых для использования на территории города Екатеринбурга.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Каталога элементов благоустройства, рекомендуемых для использования на территории города Екатеринбурга.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "80248280-a050-4d51-8772-894e84a39279",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Элементов туристической навигации, разработанные в рамках работы над дизайн-кодом\nЕкатеринбурга.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Элементов туристической навигации, разработанные в рамках работы над дизайн-кодом\nЕкатеринбурга.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "148cc107-6e33-45a0-bade-a4ac52b6faa3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Настоящий Стандарт является первым документом из серии стандартов, разработка которых заложена Методическими рекомендациями «Концепция комплексного благоустройства рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург», утвержденными Распоряжением начальника Департамента архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга № 1127/46/21 от 08.07.2020 г.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Настоящий Стандарт является первым документом из серии стандартов, разработка которых заложена Методическими рекомендациями «Концепция комплексного благоустройства рекреационных и общественных пространств на территории муниципального образования «город Екатеринбург», утвержденными Распоряжением начальника Департамента архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга № 1127/46/21 от 08.07.2020 г.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "bde96a69-fc61-4005-a873-6414c9dc1057",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Требования по комплексному благоустройству города, заложенные Стандартом, основываются на принципах Стратегии пространственного развития Екатеринбурга на период до 2030 г:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Требования по комплексному благоустройству города, заложенные Стандартом, основываются на принципах Стратегии пространственного развития Екатеринбурга на период до 2030 г:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "50913a3e-9ba1-42c4-a68c-abc7212b83c9",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "эффективное, рациональное и бережливое использование городского пространства",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "эффективное, рациональное и бережливое использование городского пространства",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "03a1f615-e9c4-4ced-a36b-92781836a1d2",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "улучшение качества экологии",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "улучшение качества экологии",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "52ae4228-8387-4ede-b9fb-9fc8ac20d319",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "функциональное и пространственное разнообразие",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "функциональное и пространственное разнообразие",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "5c8fdcff-a864-4834-915b-9a1dcfeda17e",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "учет природных ландшафтов",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "учет природных ландшафтов",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "b05e8768-533d-4a4b-b7de-d83df07def20",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "приоритет комфортного городского транспорта",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "приоритет комфортного городского транспорта",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "bcfc546b-2d2f-442e-a846-91ecf19e8781",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "создание системы качественных общественных пространств",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "создание системы качественных общественных пространств",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "8d8606e0-e6dc-437a-94fe-91e673076f12",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "соразмерный человеку масштаб архитектурной среды",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "соразмерный человеку масштаб архитектурной среды",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "a414cc05-aec4-40c9-8d0d-765f0d57a02b",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "своеобразие и узнаваемость",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "своеобразие и узнаваемость",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "16fb99eb-4793-4fe9-b7b8-a9b9d229fd27",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 500,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Область применения стандарта",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Область применения стандарта",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "65ad8176-f32e-49bc-bdd5-8672d382d088",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Стандарт является методологическим документом, действующим на территории МО «город Екатеринбург» в отношении объектов благоустройства улично-дорожной сети, дополняющий Правила благоустройства городского округа — муниципального образования «город Екатеринбург», Правила землепользования и застройки городского округа — муниципального образования «город Екатеринбург», а также иные нормативные правовые акты Администрации города Екатеринбурга.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Стандарт является методологическим документом, действующим на территории МО «город Екатеринбург» в отношении объектов благоустройства улично-дорожной сети, дополняющий Правила благоустройства городского округа — муниципального образования «город Екатеринбург», Правила землепользования и застройки городского округа — муниципального образования «город Екатеринбург», а также иные нормативные правовые акты Администрации города Екатеринбурга.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3099a712-fa59-44c4-818a-af27d0f5bb0b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Настоящий документ содержит требования к проектированию при новом строительстве, разработке градостроительной документации, реконструкции, капитальном ремонте и благоустройстве объектов улично-дорожной сети города Екатеринбурга, а также требования к производству работ по комплексному благоустройству территории, рекомендации по социально-культурному программированию и содержанию пространства улично-дорожной сети города, порядок определения границ проектирования и алгоритм отнесения участков улично-дорожной сети к типу в соответствии с разработанной типологией.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Настоящий документ содержит требования к проектированию при новом строительстве, разработке градостроительной документации, реконструкции, капитальном ремонте и благоустройстве объектов улично-дорожной сети города Екатеринбурга, а также требования к производству работ по комплексному благоустройству территории, рекомендации по социально-культурному программированию и содержанию пространства улично-дорожной сети города, порядок определения границ проектирования и алгоритм отнесения участков улично-дорожной сети к типу в соответствии с разработанной типологией.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "39ce0858-4cc1-4066-8452-c4bd751e84ff",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 501,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Цель и задачи разработки стандарта",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Цель и задачи разработки стандарта",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 502,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Цель",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Цель",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2bece911-a2d0-4068-8ca6-50464a6c40d7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Закрепление принципов, методов и подходов к комплексному благоустройству, а также функциональное зонирование и элементное наполнение объектов улично-дорожной сети муниципального образования «город Екатеринбург» на основе принятой типологии улиц с учетом особенностей и проблем городской среды улиц, потребностей и интересов горожан и гостей Екатеринбурга, обеспечивающих комфорт пребывания на улицах города и прилегающих к ним территориях.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Закрепление принципов, методов и подходов к комплексному благоустройству, а также функциональное зонирование и элементное наполнение объектов улично-дорожной сети муниципального образования «город Екатеринбург» на основе принятой типологии улиц с учетом особенностей и проблем городской среды улиц, потребностей и интересов горожан и гостей Екатеринбурга, обеспечивающих комфорт пребывания на улицах города и прилегающих к ним территориях.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8da7a669-d479-4e7a-aecd-cadd840e36ca",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 503,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Задачи",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Задачи",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "numbered_list_folder",
+      "children": [
+        {
+          "id": "88cce3ce-7b7e-4da3-b600-598606671ead",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Выявить особенности использования пространства улиц города Екатеринбург и пути устранения проблем методами комплексного благоустройства.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Выявить особенности использования пространства улиц города Екатеринбург и пути устранения проблем методами комплексного благоустройства.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "f9057541-6961-4192-943b-93c1f594da7c",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определить типологию улиц и описать характеристики типов улиц с учетом их особенностей и выявленной проблематики.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определить типологию улиц и описать характеристики типов улиц с учетом их особенностей и выявленной проблематики.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "a057b463-504a-4961-87c5-240986d1425c",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Предложить перечень мероприятий, способов комплексного благоустройства для улиц каждого типа.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Предложить перечень мероприятий, способов комплексного благоустройства для улиц каждого типа.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "9f6cc559-b299-4b51-a87b-811e94f9327a",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определить перечень технических решений для применения при проектировании и производстве работ по комплексному благоустройству улиц города Екатеринбург в зависимости от типологии.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определить перечень технических решений для применения при проектировании и производстве работ по комплексному благоустройству улиц города Екатеринбург в зависимости от типологии.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "a6190d7c-35dd-4c64-93ff-a0af995d106e",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Описать программы социально-культурного программирования и требования к эксплуатации объектов комплексного благоустройства улиц города Екатеринбург.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Описать программы социально-культурного программирования и требования к эксплуатации объектов комплексного благоустройства улиц города Екатеринбург.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "054f7327-2649-46c2-8a13-8bbf81a42c80",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 504,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Глоссарий",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Глоссарий",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 505,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Комплексное благоустройство территории",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Комплексное благоустройство территории",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6ce5a73e-9f3b-4132-9290-76bfd27e433f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Деятельность, направленная на формирование комфортной, безопасной и художественно выразительной городской среды, осуществляемая с использованием различных элементов благоустройства.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Деятельность, направленная на формирование комфортной, безопасной и художественно выразительной городской среды, осуществляемая с использованием различных элементов благоустройства.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "61241b76-6a1f-49d4-98de-fcc455f9144a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 506,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Улица",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Улица",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "307a549e-332a-4dfa-abfa-728e2c90a3a0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Линейное открытое общественное пространство для движения различных видов транспорта и пешеходов, ограниченное линией застройки или другими искусственными и естественными рубежами.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Линейное открытое общественное пространство для движения различных видов транспорта и пешеходов, ограниченное линией застройки или другими искусственными и естественными рубежами.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1b6c643a-0bb3-4d59-910c-9661a2bbaf97",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 507,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Общественные пространства",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Общественные пространства",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b8e6afd7-8ec8-4944-afd9-c4f4795026eb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Общедоступные участки городского пространства, предназначенные для различных видов активностей (творческой, спортивной, познавательной и пр.) и коммуникации горожан.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Общедоступные участки городского пространства, предназначенные для различных видов активностей (творческой, спортивной, познавательной и пр.) и коммуникации горожан.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "35928e6c-868a-4852-bdf5-49f25c3b70ae",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 508,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Категория улицы или городской дороги в населенных пунктах",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Категория улицы или городской дороги в населенных пунктах",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b3d08e59-e550-483e-8b4b-9e1c2a3934d5",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Характеристика, отражающая градостроительную значимость и функциональное назначение улицы или дороги и определяющая параметры проектирования.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Характеристика, отражающая градостроительную значимость и функциональное назначение улицы или дороги и определяющая параметры проектирования.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e9b14b54-2c74-4955-a107-66a34538fdc8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 509,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Тип улицы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Тип улицы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7e4d90ea-8202-4491-b2f3-50ec638cff5c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Группа участков улиц. имеющих одинаковый характер использования и учитывающий характеристику ландшафта территории города.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Группа участков улиц. имеющих одинаковый характер использования и учитывающий характеристику ландшафта территории города.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b8fd6142-4542-487f-adc9-d40de2881329",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 510,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Участок улицы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Участок улицы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "55d9147c-6954-43ae-8f8a-9d9eb8dbc20b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Территория, подлежащая комплексному благоустройству, ограниченная визуальными границами улицы. разрывами фронта улиц, а также перекрестками, внутриквартальными проездами, пешеходными переходами и иными элементами улично-дорожной сети.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Территория, подлежащая комплексному благоустройству, ограниченная визуальными границами улицы. разрывами фронта улиц, а также перекрестками, внутриквартальными проездами, пешеходными переходами и иными элементами улично-дорожной сети.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "be35c1ae-2940-4cec-b92f-1524b8798c0e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 511,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Активность фронта улицы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Активность фронта улицы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "469acb73-01ac-426d-b14d-7371e0da4f6f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Наличие витрин и входных групп предприятий обслуживания и коммерческих организаций с разнообразными функциями вдоль линии застройки, являющихся точками притяжения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Наличие витрин и входных групп предприятий обслуживания и коммерческих организаций с разнообразными функциями вдоль линии застройки, являющихся точками притяжения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "836d8410-ac63-4a08-87fa-ceedfa98780b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 512,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Визуальные границы улицы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Визуальные границы улицы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6a7dddc8-3f00-4586-ab75-6e98c2c1438d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Объекты, выступающие естественными границами улицы в соответствии с принципом единства визуально-пространственного восприятия: фасады зданий и иные элементы уличного фронта, глухие ограждения территорий и полупрозрачные выше 1,5 м, шумозащитные экраны, перепады рельефа и иные аналогичные элементы, ограничивающие территорию общего пользования, примыкающую к линейным объектам (улицы, дороги).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Объекты, выступающие естественными границами улицы в соответствии с принципом единства визуально-пространственного восприятия: фасады зданий и иные элементы уличного фронта, глухие ограждения территорий и полупрозрачные выше 1,5 м, шумозащитные экраны, перепады рельефа и иные аналогичные элементы, ограничивающие территорию общего пользования, примыкающую к линейным объектам (улицы, дороги).",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8d313ff7-254d-40ca-9f4e-5a7a86fcebc9",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 513,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Элементы благоустройства",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Элементы благоустройства",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c6cd94ed-a451-4f2d-8c38-ddb2807c8aa8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Декоративные, технические, планировочные, конструктивные устройства, элементы озеленения, различные виды оборудования и оформления, в том числе фасадов зданий, строений, сооружений, малые архитектурные формы, некапитальные нестационарные строения и сооружения, информационные щиты и указатели, применяемые как составные части благоустройства территории.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Декоративные, технические, планировочные, конструктивные устройства, элементы озеленения, различные виды оборудования и оформления, в том числе фасадов зданий, строений, сооружений, малые архитектурные формы, некапитальные нестационарные строения и сооружения, информационные щиты и указатели, применяемые как составные части благоустройства территории.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9bd3bfb7-c87f-4182-ba9c-9df99bf695c5",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 514,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Оператор объекта комплексного благоустройства",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Оператор объекта комплексного благоустройства",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "42d923ee-56e4-4852-9c3d-14250ee829a2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Городской субъект, организующий технологические операции по эксплуатации объекта комплексного благоустройства.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Городской субъект, организующий технологические операции по эксплуатации объекта комплексного благоустройства.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "05fbc2ef-5bdd-4882-a936-77724c66090c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 515,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Городские субъекты",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Городские субъекты",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c18dcb36-a5e2-4324-9e9e-7b2994f2bb60",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Крупные и малые социальные общности, имеющие разный уровень внутренней сложности и специфику деятельности: органы государственной и муниципальной власти, местного самоуправления, коммерческие, некоммерческие, общественные, образовательные, спортивные и иные организации, общественные движения, организованные социальные группы и физические лица, расположенные либо постоянно проживающие в городе Екатеринбург.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Крупные и малые социальные общности, имеющие разный уровень внутренней сложности и специфику деятельности: органы государственной и муниципальной власти, местного самоуправления, коммерческие, некоммерческие, общественные, образовательные, спортивные и иные организации, общественные движения, организованные социальные группы и физические лица, расположенные либо постоянно проживающие в городе Екатеринбург.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b0b2fd06-bf2b-4041-90e6-0cac2d71232c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 516,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Локальная идентичность",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Локальная идентичность",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f0164561-4003-43d0-acee-af596b37a204",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Осознаваемая горожанами специфика культуры региона, города и отдельных его частей. Проявляется в виде базовых элементов: представлений о локальной географии, значимых местах, символических ценностях (предметах гордости и значимых исторических событиях, пантеоне реальных и мифических героев, представлениях горожан о самих себе и о структуре городского сообщества, общих праздниках. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Осознаваемая горожанами специфика культуры региона, города и отдельных его частей. Проявляется в виде базовых элементов: представлений о локальной географии, значимых местах, символических ценностях (предметах гордости и значимых исторических событиях, пантеоне реальных и мифических героев, представлениях горожан о самих себе и о структуре городского сообщества, общих праздниках. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Ссылка на статью",
+              "link": {
+                "url": "http://phisci.ru/files/issues/2016/01/RJPS_2016-01_Evstifeev.pdf"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ссылка на статью",
+            "href": "http://phisci.ru/files/issues/2016/01/RJPS_2016-01_Evstifeev.pdf"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fe062473-03d9-4e8c-8330-326c406d2d49",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 517,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Социокультурная программа",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Социокультурная программа",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6f85a969-687b-4032-9cd3-997ed96915d0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Набор видов деятельности оператора объекта комплексного благоустройства, направленных на развитие городской среды.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Набор видов деятельности оператора объекта комплексного благоустройства, направленных на развитие городской среды.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ee13a839-2f9b-46c7-a177-78ad2bcc7b32",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 518,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Функциональные зоны улиц",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Функциональные зоны улиц",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "01ec84cf-395b-46e8-b27e-488f9eb8b91a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Зоны улиц, различающиеся по функциональному назначению, характеру использования, наполнению элементами комплексного благоустройства: проезжая часть, перекресток, пешеходный переход, выделенная полоса и/ или обособленное полотно для общественного транспорта, зона автомобильной парковки, разделительная полоса, технический тротуар, велодорожка и/или велополоса, транзитная зона тротуара, прифасадная зона, зона озеленения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Зоны улиц, различающиеся по функциональному назначению, характеру использования, наполнению элементами комплексного благоустройства: проезжая часть, перекресток, пешеходный переход, выделенная полоса и/ или обособленное полотно для общественного транспорта, зона автомобильной парковки, разделительная полоса, технический тротуар, велодорожка и/или велополоса, транзитная зона тротуара, прифасадная зона, зона озеленения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "458afda2-4ef5-41b0-bb1b-777ab7f88a15",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 519,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Характер использования участка улицы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Характер использования участка улицы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "453e844e-388d-4ca3-bc68-3d89adf4951d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Комплекс параметров, описывающий распределение пространства улицы между различными группами пользователей (пешеходы, велосипедисты, общественный транс - порт, личный транспорт), в зависимости от градостроительной классификации, место - положения и значения улицы в городе, наличия активного фронта улиц, служащих в качестве основания для выделения улиц разного типа.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Комплекс параметров, описывающий распределение пространства улицы между различными группами пользователей (пешеходы, велосипедисты, общественный транс - порт, личный транспорт), в зависимости от градостроительной классификации, место - положения и значения улицы в городе, наличия активного фронта улиц, служащих в качестве основания для выделения улиц разного типа.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e67f1fcf-50fa-4bdb-b6b6-50af6238abd8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 520,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Природный (водно-зеленый) каркас города",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Природный (водно-зеленый) каркас города",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "da1b0534-2972-4a91-8d42-e0e6f2f6d918",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Это система открытых озелененных пространств, природных комплексов, формируемая на базе гидрографической сети с учётом геоморфологии и рельефа и во взаимосвязи с природным окружением.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Это система открытых озелененных пространств, природных комплексов, формируемая на базе гидрографической сети с учётом геоморфологии и рельефа и во взаимосвязи с природным окружением.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8f08d04e-0330-4025-8974-b89d40c456e7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 521,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Велотранспортная инфраструктура",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Велотранспортная инфраструктура",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "17e97921-ba6e-4b63-8366-4c3c6c1889ec",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Это система конструктивных элементов велосипедной сети (велосипедные полосы, дорожки и др.) и ее обустройства (знаки, разметка, светофоры и др.). ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Это система конструктивных элементов велосипедной сети (велосипедные полосы, дорожки и др.) и ее обустройства (знаки, разметка, светофоры и др.). ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Ссылка на статью",
+              "link": {
+                "url": "https://transport.mos.ru/common/upload/public/file/albom_velo.pdf"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ссылка на статью",
+            "href": "https://transport.mos.ru/common/upload/public/file/albom_velo.pdf"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e34bd731-e0cf-4691-a6bc-e0169db872d8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 522,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Парклет",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Парклет",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "13d0d88e-1736-4c13-84c5-3f0b414c0292",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Это продолжение тротуара, которое обеспечивает больше пространства и возможностей для пешеходов ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Это продолжение тротуара, которое обеспечивает больше пространства и возможностей для пешеходов ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Ссылка на статью",
+              "link": {
+                "url": "https://cyberleninka.ru/article/n/parklety-v-sovremennoy-gorodskoy-arhitekture-kak-effektivnoe-sredstvo-sozdaniya-blagopriyatnoy-sredy/viewer"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ссылка на статью",
+            "href": "https://cyberleninka.ru/article/n/parklety-v-sovremennoy-gorodskoy-arhitekture-kak-effektivnoe-sredstvo-sozdaniya-blagopriyatnoy-sredy/viewer"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2b3dc1a8-6aa5-44e9-8a75-5bd630e71a08",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 523,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендации по определению границ проектирования объектов комплексного благоустройства",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендации по определению границ проектирования объектов комплексного благоустройства",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "08fca293-9873-4a57-bbf7-883c040ad2f8",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/08fca293-9873-4a57-bbf7-883c040ad2f8.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "d00e01e0-99aa-4fa5-929f-8772317bfea8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Границами проектирования объектов комплексного благоустройства улично-дорожной сети должны становиться визуальные границы улиц. Одновременно с этим возникает вопрос землепользования, который ограничивает возможности производства работ на немуниципальных территориях. В целях реализации целостного подхода концепция благоустройства и дизайн проект должен быть разработан до визуальных границ. На этапе разработки проектно-сметной документации и рабочей документации требуется инициация со стороны комитетов Администрации г. Екатеринбурга процедуры изъятия требуемых для комплексного благоустройства земельных участков в муниципальную собственность. Если изъятие не представляется возможным, то дальнейшее благоустройство прилегающих к фасадам территорий, выходящих за красные линии и не входящих в территории общего пользования, ведется в полном соответствии с утвержденной концепцией и дизайн-проектом.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Границами проектирования объектов комплексного благоустройства улично-дорожной сети должны становиться визуальные границы улиц. Одновременно с этим возникает вопрос землепользования, который ограничивает возможности производства работ на немуниципальных территориях. В целях реализации целостного подхода концепция благоустройства и дизайн проект должен быть разработан до визуальных границ. На этапе разработки проектно-сметной документации и рабочей документации требуется инициация со стороны комитетов Администрации г. Екатеринбурга процедуры изъятия требуемых для комплексного благоустройства земельных участков в муниципальную собственность. Если изъятие не представляется возможным, то дальнейшее благоустройство прилегающих к фасадам территорий, выходящих за красные линии и не входящих в территории общего пользования, ведется в полном соответствии с утвержденной концепцией и дизайн-проектом.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "54d67e3c-6666-40d1-a240-3c10df91f093",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Основной пространственной единицей при разработке мероприятий по благоустройству является участок улицы, в отношении которого разрабатывается проект комплексного благоустройства. Границы участка улицы, как объекта благоустройства, устанавливаются по принципу единства визуально-пространственного восприятия по линии застройки и иным визуальным границам.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Основной пространственной единицей при разработке мероприятий по благоустройству является участок улицы, в отношении которого разрабатывается проект комплексного благоустройства. Границы участка улицы, как объекта благоустройства, устанавливаются по принципу единства визуально-пространственного восприятия по линии застройки и иным визуальным границам.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "bfab69c7-4d29-47af-be76-e4572440a32f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Границы объекта благоустройства определяются в каждом случае индивидуально заказчиком разработки проекта, Администрацией города Екатеринбурга, в процессе подготовки задания на проектирование объекта благоустройства. При выборе границ объекта благоустройства предпочтительно устанавливать их по естественным границам участков улиц.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Границы объекта благоустройства определяются в каждом случае индивидуально заказчиком разработки проекта, Администрацией города Екатеринбурга, в процессе подготовки задания на проектирование объекта благоустройства. При выборе границ объекта благоустройства предпочтительно устанавливать их по естественным границам участков улиц.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "054e6660-f661-4511-884d-937408592196",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Естественными границами участка улиц могут быть перекрестки, пешеходные переходы, пересечения с внутриквартальными проездами и иными элементами городской улично-дорожной сети, разрывы фронта улиц, границы курдонеры, скверы, примыкающие к красной линии улицы.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Естественными границами участка улиц могут быть перекрестки, пешеходные переходы, пересечения с внутриквартальными проездами и иными элементами городской улично-дорожной сети, разрывы фронта улиц, границы курдонеры, скверы, примыкающие к красной линии улицы.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4a56e735-6306-40e2-b4ca-1f9e3b3bd4dc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 524,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Алгоритм изменения типа участков улицы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Алгоритм изменения типа участков улицы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "31025c1a-3c34-410a-a4f7-13666a71ee1e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Изменение типа участка улицы осуществляется вследствие изменения характера использования при внесении изменений в Генеральный план развития городского округа — муниципального образования «город Екатеринбург» при изменении категории или изменении распределения пространства улицы между пользователями.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Изменение типа участка улицы осуществляется вследствие изменения характера использования при внесении изменений в Генеральный план развития городского округа — муниципального образования «город Екатеринбург» при изменении категории или изменении распределения пространства улицы между пользователями.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3e3c7f8b-7200-43d6-ab2d-b1d2a9962846",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Следующим этапом разрабатывается проект планировки территории, на которой располагается участок улицы или проект планировки линейного объекта — участка улицы, который должен учитывать рекомендации по функциональному зонированию и требования к размещению элементов поперечного профиля, предусмотренного настоящим Стандартом для нового типа участка улицы.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Следующим этапом разрабатывается проект планировки территории, на которой располагается участок улицы или проект планировки линейного объекта — участка улицы, который должен учитывать рекомендации по функциональному зонированию и требования к размещению элементов поперечного профиля, предусмотренного настоящим Стандартом для нового типа участка улицы.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8222a711-81a1-4eba-8618-a9afb4119401",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 525,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Алгоритм изменения типа участков улицы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Алгоритм изменения типа участков улицы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "854320a3-8fb4-453d-a708-fd8a090a6bcb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Стандарт утверждается Думой города Екатеринбурга и является обязательным для применения на территории города для подразделений Администрации города Екатеринбурга и государственных учреждений, разработчиков проектов комплексного благоустройства, градостроительной документации, реконструкции, капитального ремонта объектов улично-дорожной сети, а также для эксплуатирующих, коммерческих и общественных организаций.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Стандарт утверждается Думой города Екатеринбурга и является обязательным для применения на территории города для подразделений Администрации города Екатеринбурга и государственных учреждений, разработчиков проектов комплексного благоустройства, градостроительной документации, реконструкции, капитального ремонта объектов улично-дорожной сети, а также для эксплуатирующих, коммерческих и общественных организаций.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Общие положения",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Общие положения",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 1
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "general"
+      }
+    },
+    "cover": null
+  }
+}

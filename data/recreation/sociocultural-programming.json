@@ -1,0 +1,1490 @@
+{
+  "id": "2eadbedf-7798-40d9-9561-7f7833327fc1",
+  "type": "page",
+  "content": {
+    "title": "Социокультурное программирование"
+  },
+  "children": [
+    {
+      "id": "67acf667-9a62-44a2-97c3-4374f9e875a7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Модели управления + социокультурная программа + календарь событий",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Модели управления + социокультурная программа + календарь событий",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 140,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Обобщенная модель управления",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Обобщенная модель управления",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "92b9430d-1b24-47c4-bf78-76e2d47ebbc0",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/92b9430d-1b24-47c4-bf78-76e2d47ebbc0.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "f2675c49-b6e3-49e5-b997-61fbc7e38d34",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Результатом совместной работы заинтересованных субъектов является принятие комплекса решений о ключевых целевых аудиториях общественного пространства, способах взаимодействия и распределения обязанностей, операторе, ключевых функциях и локализации деятельности в пространстве и времени.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Результатом совместной работы заинтересованных субъектов является принятие комплекса решений о ключевых целевых аудиториях общественного пространства, способах взаимодействия и распределения обязанностей, операторе, ключевых функциях и локализации деятельности в пространстве и времени.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 141,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендации по разработке календаря событий",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендации по разработке календаря событий",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cda3b729-bd37-4167-bd5d-7d8d050d3059",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/cda3b729-bd37-4167-bd5d-7d8d050d3059.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 142,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Примеры социокультурных программ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Примеры социокультурных программ",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 143,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Сиэтл, программа прогулочной ходьбы SoundSteps",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Сиэтл, программа прогулочной ходьбы SoundSteps",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3faedbed-02bb-42f9-b07d-bcc7a9104989",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Описание",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Описание",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": низкобюджетная программа Оздоровительной ходьбы. Лидеры программы – Волонтеры. 400 участников старше 50 лет, Объединенные в 20 групп, один частично Занятый координатор. Программа началась в 2003 году с 5-летнего гранта для районов с Низким достатком и плохими показателями Здоровья жителей. Есть планировочный Комитет, который помогает планировать пешие Пути, марафоны и другие мероприятия в Зависимости от запроса участников.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": низкобюджетная программа Оздоровительной ходьбы. Лидеры программы – Волонтеры. 400 участников старше 50 лет, Объединенные в 20 групп, один частично Занятый координатор. Программа началась в 2003 году с 5-летнего гранта для районов с Низким достатком и плохими показателями Здоровья жителей. Есть планировочный Комитет, который помогает планировать пешие Пути, марафоны и другие мероприятия в Зависимости от запроса участников.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f2a9a476-964a-4c0b-b49e-a61d2dda8729",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Взнос",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Взнос",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": минимум $9 – 22 за событие и полевой выезд для покрытия расходов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": минимум $9 – 22 за событие и полевой выезд для покрытия расходов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d4fce096-fbdc-44d5-9533-e699f79ebf43",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Бюджет",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Бюджет",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": оплата работы одного частично занятого координатора – за счет гранта. Другие расходы на полевые выходы и марафон покрываются за счет фандрайзинга. Спонсоры предоставляют $ 2000.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": оплата работы одного частично занятого координатора – за счет гранта. Другие расходы на полевые выходы и марафон покрываются за счет фандрайзинга. Спонсоры предоставляют $ 2000.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "26b6eee8-f6c4-4389-b313-7a6b3b7086e2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Маркетинг",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Маркетинг",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": презентации в общественных центрах, адресная рассылка.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": презентации в общественных центрах, адресная рассылка.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e2fe3e58-1a0e-4aed-bc72-fc26295a8268",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ссылка",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ссылка",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "seattle.gov/parks/seniors/soundsteps.htm",
+              "link": {
+                "url": "http://seattle.gov/parks/seniors/soundsteps.htm"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "seattle.gov/parks/seniors/soundsteps.htm",
+            "href": "http://seattle.gov/parks/seniors/soundsteps.htm"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c1166044-23ea-492c-a228-bd1420e0efb0",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/c1166044-23ea-492c-a228-bd1420e0efb0.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 144,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Копенгаген, зимняя программа оживления площади",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Копенгаген, зимняя программа оживления площади",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1ebb9a69-433d-446f-b959-c8ecdcd5e59a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Описание",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Описание",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": сезонная программа оживления пустующей в зимнее время площади Офелия Пладс. Часть пространства отдана спагородку, где горожане могут купаться, посещать сауны, спа, даже арендовать джакузи c теплой водой, Wi-Fi и собственным шкипером, чтобы пройтись по каналам городского центра. Вода греется на дровах, что создает уникальный для города аромат туристического кемпинга. Функционирует в рамках муниципально-частного партнерства.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": сезонная программа оживления пустующей в зимнее время площади Офелия Пладс. Часть пространства отдана спагородку, где горожане могут купаться, посещать сауны, спа, даже арендовать джакузи c теплой водой, Wi-Fi и собственным шкипером, чтобы пройтись по каналам городского центра. Вода греется на дровах, что создает уникальный для города аромат туристического кемпинга. Функционирует в рамках муниципально-частного партнерства.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e04f4682-34f8-4c23-9142-c50be1427c39",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Взнос",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Взнос",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": стоимость сервисов от 40 до 300 EUR в зависимости от размера группы.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": стоимость сервисов от 40 до 300 EUR в зависимости от размера группы.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c1b73289-d0b6-439b-9e34-49a54bb129b3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Бюджет",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Бюджет",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": 50,000 EUR без учета затрат на лицензирование и зарплату.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": 50,000 EUR без учета затрат на лицензирование и зарплату.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cd0c2f95-d9cb-46f0-af85-1146cfbf7cff",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Маркетинг",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Маркетинг",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": собственный сайт, доступно бронирование через ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": собственный сайт, доступно бронирование через ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "booking.com",
+              "link": {
+                "url": "http://booking.com/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "booking.com",
+            "href": "http://booking.com/"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8b427482-5acb-4cce-8e3d-cb96ef0fcbb0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ссылка",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ссылка",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "copenhot.com",
+              "link": {
+                "url": "http://copenhot.com/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "copenhot.com",
+            "href": "http://copenhot.com/"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "637b34ad-691a-4596-a9ef-c6dfcb768c4e",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/637b34ad-691a-4596-a9ef-c6dfcb768c4e.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "9872d9b3-0380-4590-834f-ee92b0355f41",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 145,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Сиэтл, программы активации парков городского центра",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Сиэтл, программы активации парков городского центра",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "916c7f98-0143-495e-b90a-59df405cf96c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Описание",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Описание",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": программа направлена на решение проблемы антиобщественнного поведения в парках за счет единовременного проведения многих небольших позитивных мероприятий (уличное искусство, концерты в обеденное время, танцы). Департамент муниципалитета действовал в партнерстве с НКО. В парках работают консьержи, отвечающие на вопросы горожан, помогают с установкой игрового оборудования, уборкой, поддерживают проведение мероприятий. Присутствие в парке человека в униформе помогает снизить преступность и антиобщественное поведение.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": программа направлена на решение проблемы антиобщественнного поведения в парках за счет единовременного проведения многих небольших позитивных мероприятий (уличное искусство, концерты в обеденное время, танцы). Департамент муниципалитета действовал в партнерстве с НКО. В парках работают консьержи, отвечающие на вопросы горожан, помогают с установкой игрового оборудования, уборкой, поддерживают проведение мероприятий. Присутствие в парке человека в униформе помогает снизить преступность и антиобщественное поведение.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a392267a-c15d-41c8-b24c-b4ae1d8aad8e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Взнос",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Взнос",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": почти всегда бесплатно.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": почти всегда бесплатно.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2257998c-e9e3-43c0-bef5-0e7ac6c762c4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Бюджет",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Бюджет",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": программа уличных музыкантов в парке стоит примерно $ 25,000. Один из планов по активации двух парков – $ 800,000.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": программа уличных музыкантов в парке стоит примерно $ 25,000. Один из планов по активации двух парков – $ 800,000.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f69da821-d40e-4d8f-a540-23daf1f8d489",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Маркетинг",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Маркетинг",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": рассылка по электронной почте, активное использование социальных сетей.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": рассылка по электронной почте, активное использование социальных сетей.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "988ebda7-a5b2-48d7-82dd-23174f530142",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ссылка",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ссылка",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "seattle.gov/parks/Projects/downtown.asp",
+              "link": {
+                "url": "http://seattle.gov/parks/Projects/downtown.asp"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "seattle.gov/parks/Projects/downtown.asp",
+            "href": "http://seattle.gov/parks/Projects/downtown.asp"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "DowntownSeattle.com",
+              "link": {
+                "url": "http://downtownseattle.com/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "DowntownSeattle.com",
+            "href": "http://downtownseattle.com/"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6f386d9e-d665-467c-9f0c-8da37b2792ef",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/6f386d9e-d665-467c-9f0c-8da37b2792ef.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "a6301c08-64ab-4822-a9c4-e8ac4f9e91c6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 146,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Екатеринбург, cад Нурова",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Екатеринбург, cад Нурова",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e999b860-ec93-4ea7-a358-b59622bd5172",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Описание",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Описание",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": Проект неформального городского сообщества по возрождению исторического сада купца М.А. Нурова в партнерстве с коммерческими организациями города. На участке созданы летняя сцена, импровизированный зал, разбиты цветники и дорожки, проведены дренаж и посадка деревьев. В программу работы с весны по осень входят мастерклассы, фестивали, выступления поэтов и музыкантов. Вся работа по согласованию проектов, благоустройству и подготовке событий – на волонтерских началах.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": Проект неформального городского сообщества по возрождению исторического сада купца М.А. Нурова в партнерстве с коммерческими организациями города. На участке созданы летняя сцена, импровизированный зал, разбиты цветники и дорожки, проведены дренаж и посадка деревьев. В программу работы с весны по осень входят мастерклассы, фестивали, выступления поэтов и музыкантов. Вся работа по согласованию проектов, благоустройству и подготовке событий – на волонтерских началах.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "686c4348-5e81-4019-ab9b-a92b98fe7e00",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Взнос",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Взнос",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": в основном бесплатно, стоимость посадки деревьев от 300 до 10000 руб.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": в основном бесплатно, стоимость посадки деревьев от 300 до 10000 руб.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1ce3a6b0-e919-46d4-b070-d64be41b7f62",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Бюджет",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Бюджет",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": в сезон 2019 года на временные постройки и благоустройство – 175 000 руб.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": в сезон 2019 года на временные постройки и благоустройство – 175 000 руб.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ee8c230d-e57a-473a-9624-4b23ccd0c30c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Маркетинг",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Маркетинг",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": социальные сети, партнерские связи.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": социальные сети, партнерские связи.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "993f8bd6-a142-4d0e-a3dd-0fc657429a9b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ссылка",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ссылка",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "vk.com/sadnurova",
+              "link": {
+                "url": "http://vk.com/sadnurova"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "vk.com/sadnurova",
+            "href": "http://vk.com/sadnurova"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "017fbd00-0b98-47f4-a2dd-248ae1359278",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/017fbd00-0b98-47f4-a2dd-248ae1359278.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 147,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Алгоритм оживления общественных пространств",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Алгоритм оживления общественных пространств",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0dbd8f2f-2ff6-45db-8a0b-c1aea382d1a5",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/0dbd8f2f-2ff6-45db-8a0b-c1aea382d1a5.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "aced5e54-d4a8-49a2-8742-784ee52f8f36",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Алгоритм действий при формировании программ оживления общественных пространств и календарей событий. Муниципалитет инициирует исследования общественных пространств города, составление реестров событий и озеленения, разработку упрощенных требований к малым мероприятиям, создание ресурса в сети Интернет. Совместно с городскими субъектами вырабатываются модели управления общественными пространствами, программы и календари событий, проводится оценка эффективности программ.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Алгоритм действий при формировании программ оживления общественных пространств и календарей событий. Муниципалитет инициирует исследования общественных пространств города, составление реестров событий и озеленения, разработку упрощенных требований к малым мероприятиям, создание ресурса в сети Интернет. Совместно с городскими субъектами вырабатываются модели управления общественными пространствами, программы и календари событий, проводится оценка эффективности программ.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Социокультурное программирование",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Социокультурное программирование",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 10
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "sociocultural-programming"
+      }
+    },
+    "cover": null
+  }
+}

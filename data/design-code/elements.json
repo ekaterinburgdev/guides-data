@@ -1,0 +1,1987 @@
+{
+  "id": "5ec735b7-f030-4a19-a34e-dcfc32a0973b",
+  "type": "page",
+  "content": {
+    "title": "Конструктивные элементы фасада"
+  },
+  "children": [
+    {
+      "id": "26233171-0f21-47f9-9389-8022a97477ea",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Входы в здание, строение, сооружение (входные группы), окна, витрины, маркизы, балконы и лоджии, эркеры, иные элементы, размещение которых на фасаде предусмотрено архитектурным решением.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Входы в здание, строение, сооружение (входные группы), окна, витрины, маркизы, балконы и лоджии, эркеры, иные элементы, размещение которых на фасаде предусмотрено архитектурным решением.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c9c2eabc-5f26-45b6-bb8e-941483cb32bf",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Основные конструктивные элементы фасада, рекомендации по проектированию которых представлены в данном пособии:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Основные конструктивные элементы фасада, рекомендации по проектированию которых представлены в данном пособии:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0d5f1e62-31bc-421f-acba-74c293f8e65e",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "6fa63d58-e8fe-47b8-a7b9-bf84967992c8",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "023ae41a-7157-48a2-afd5-996afe517a77",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Маркизы\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Маркизы\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "конструкции, устанавливаемые над витринами, оконными и дверными проемами для защиты от дождя, снега и яркого солнечного света. Маркизы могут иметь как фиксированный, так и трансформируемый каркас.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "конструкции, устанавливаемые над витринами, оконными и дверными проемами для защиты от дождя, снега и яркого солнечного света. Маркизы могут иметь как фиксированный, так и трансформируемый каркас.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "cb406685-1423-42e6-90f9-d0856d16cfbf",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Балкон\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Балкон\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "выступающая из плоскости стены фасада огражденная площадка.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "выступающая из плоскости стены фасада огражденная площадка.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "af9ac787-eec2-4c9b-a077-a2fe6cf76147",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Лоджия\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Лоджия\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "неотапливаемое помещение встроенное в здание, имеющее стены с трех сторон.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "неотапливаемое помещение встроенное в здание, имеющее стены с трех сторон.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a08b9fb4-6582-4d17-8a7f-42df3387b1e8",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "b4755183-97b7-42ab-946b-133be7290e47",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Эркер\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Эркер\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "выступающая за плоскость фасада часть помещения.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "выступающая за плоскость фасада часть помещения.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "40681a3e-25dd-4066-b402-3b4ea104b838",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Входная группа\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Входная группа\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "единый набор конструкций дверного проема здания, который образует стилистически законченную композицию.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "единый набор конструкций дверного проема здания, который образует стилистически законченную композицию.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "21302405-d1c3-472a-93ef-ad00b126eeaf",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Витринная конструкция\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Витринная конструкция\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "конструкция, располагаемая в витрине с внутренней стороны остекления.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "конструкция, располагаемая в витрине с внутренней стороны остекления.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "57a0c498-209c-464b-ae76-990e87c4e206",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 261,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение маркиз",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение маркиз",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8da6924c-dccf-474d-94be-9d28c056f84e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Расположение маркиз на фасаде производится в соответствии с архитектурным обликом здания и существующим колористическим (цветовым) решением.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Расположение маркиз на фасаде производится в соответствии с архитектурным обликом здания и существующим колористическим (цветовым) решением.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "df18f800-5ea7-45d2-8c6a-662390c32e88",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Маркизы должны соответствовать габаритам и контурам витрин, дверных и оконных проемов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Маркизы должны соответствовать габаритам и контурам витрин, дверных и оконных проемов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "dd4a3660-f751-4d6f-bef9-7cdbebcb18ed",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Маркизы размещаются в пределах витрин, оконных и дверных проемов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Маркизы размещаются в пределах витрин, оконных и дверных проемов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "af4eccff-89dc-4b82-b5e5-7b7b971bfd8e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещено крепление маркиз на архитектурных деталях, элементах декора, поверхностях с ценной отделкой.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещено крепление маркиз на архитектурных деталях, элементах декора, поверхностях с ценной отделкой.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1ac27c3a-82c1-4b9b-88a1-2978baa8c45f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещено размещение на маркизах рекламных материалов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещено размещение на маркизах рекламных материалов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7087859e-82e7-441e-a1db-b7c2d5510898",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "bd20de8e-31ea-4601-b296-44eeeb75b742",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "dafe10b3-076c-455d-bfb7-31e1ba1ba8c8",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/dafe10b3-076c-455d-bfb7-31e1ba1ba8c8.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "d6e0502b-d5c0-4cb3-ba69-bfefa4e412d8",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Прямоугольное окно",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Прямоугольное окно",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3eb06017-1802-423b-8619-2f8f5c426b78",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "ce396a6f-4e5e-4b55-8b39-d3852a1a9fbb",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/ce396a6f-4e5e-4b55-8b39-d3852a1a9fbb.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "3d9d9fe8-e8a9-4cf7-99a3-578cf9b235bc",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Маркиза прямоугольной формы",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Маркиза прямоугольной формы",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a405cc3f-be1e-4447-b83b-c0e183a8944e",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "f91d3f46-e9b9-4b24-90ca-02f1cfb2a969",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/f91d3f46-e9b9-4b24-90ca-02f1cfb2a969.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "4d1c0acb-5117-4309-9cae-fa48b03aea76",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Арочное окно",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Арочное окно",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4880a03f-a8b4-478f-9a4f-120c7db4167b",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "d0a415f8-72f6-4fe6-a0e0-6bc420332476",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/d0a415f8-72f6-4fe6-a0e0-6bc420332476.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "5db06a16-e9be-4dcd-8f0a-d7088f4aa4b6",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Маркиза полукруглой формы",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Маркиза полукруглой формы",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd126a41-f166-4236-8ad3-5678ec2d76c4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9169f596-43ca-468c-8e85-45f3a31c2c17",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "На маркизы могут быть нанесены элементы вывески (буквы и знаки), если внедрение этих элементов не приведет к появлению дополнительных цветов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "На маркизы могут быть нанесены элементы вывески (буквы и знаки), если внедрение этих элементов не приведет к появлению дополнительных цветов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "75a21688-2ab7-4951-8a67-2d789c66b25b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Колористическое решение маркиз должно гармонировать с колористическим решением фасада.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Колористическое решение маркиз должно гармонировать с колористическим решением фасада.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2eb900ce-7892-4f8a-b9ca-957721946812",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "32e749a5-4311-4010-aa13-15c81a863c1a",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/32e749a5-4311-4010-aa13-15c81a863c1a.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "b8abe3e3-4a58-465d-b800-08c4c145d503",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Маркизы с интересным колористическим решением",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Маркизы с интересным колористическим решением",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "652e3b8c-56ac-4121-bb46-e024f29f457a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "551ca3db-35bf-406a-b9a0-81fbf50ff8cb",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/551ca3db-35bf-406a-b9a0-81fbf50ff8cb.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "f7e12cc4-834c-4968-a1b5-59738ce29882",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Маркизы с нанесенными элементами вывески",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Маркизы с нанесенными элементами вывески",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fc8e7025-e631-414f-8172-0a4e18a80d6a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5315d07e-ad02-4d95-b567-49bda9da1a6b",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/5315d07e-ad02-4d95-b567-49bda9da1a6b.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "45c53c66-c915-463a-9e80-931b26041606",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Маркизы над входом в виде козырька",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Маркизы над входом в виде козырька",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ba232d06-e677-44c8-9fbe-a2d05e62eba1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 263,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Реконструкция балконов, лоджий и эркеров",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Реконструкция балконов, лоджий и эркеров",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "731b10c1-5a48-465e-9d04-b06e09407067",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Окраска и остекление балконов и лоджий может производиться только после внесения соответствующих изменений в паспорт фасадов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Окраска и остекление балконов и лоджий может производиться только после внесения соответствующих изменений в паспорт фасадов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3f16ab62-d4e0-4355-9b85-ba5959e261eb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещено покрытие тонированной пленкой или иными материалами остекления балконов, лоджий и эркеров не предусмотренных проектом.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещено покрытие тонированной пленкой или иными материалами остекления балконов, лоджий и эркеров не предусмотренных проектом.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3843a3e0-4b63-422a-bc2e-595c62078ba0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещено изменение форм и размеров балконов, лоджий, эркеров, противоречащее изначальному архитектурному облику здания.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещено изменение форм и размеров балконов, лоджий, эркеров, противоречащее изначальному архитектурному облику здания.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0e897255-bcec-4f7f-88b9-d155bfc7eaa0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещено остекление балконов, противоречащее изначальному архитектурному облику здания.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещено остекление балконов, противоречащее изначальному архитектурному облику здания.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "680e4be2-8f3d-430d-a0da-a3c53e954678",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b75b74b8-1d09-4039-b9c3-34cf6c06299f",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/b75b74b8-1d09-4039-b9c3-34cf6c06299f.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "b713bf6e-61f1-4277-be0b-152db7d0c73d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пример соответствия изначальному архитектурному облику здания",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Пример соответствия изначальному архитектурному облику здания",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1a1b85cb-3a8d-4bfd-97e0-3ab8dd0b0748",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "96e1912d-4d6f-41c3-9fda-22c224d3bf63",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/96e1912d-4d6f-41c3-9fda-22c224d3bf63.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "1b4d2c60-e26a-4b90-96cf-262638692caa",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пример единообразного остекления лоджий",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Пример единообразного остекления лоджий",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8f2cb0b8-090b-4b9d-a84d-1a3c5bcbdad9",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "653c285c-7618-4bf1-bb92-78c8aad4b0bf",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "4ff50879-4311-46df-9676-28587558aa77",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/4ff50879-4311-46df-9676-28587558aa77.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "25c8d5d8-231d-414c-b682-73f4136874ff",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Пример изменения формы балкона, которая противоречит изначальному архитектурному облику здания",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Пример изменения формы балкона, которая противоречит изначальному архитектурному облику здания",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "1a19f823-92b9-42fe-a876-d41acadf0967",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/1a19f823-92b9-42fe-a876-d41acadf0967.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "62b956e5-77d8-4844-9e40-49e2eb445d06",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Пример балконного остекления, которое противоречит изначальному архитектурному облику здания",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Пример балконного остекления, которое противоречит изначальному архитектурному облику здания",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "fb99b17e-8273-412f-8281-3ac4cbd3d32a",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/fb99b17e-8273-412f-8281-3ac4cbd3d32a.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "63836034-f0f8-4bfa-bec0-b87f6d854699",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Пример изменения формы балкона, которая противоречит изначальному архитектурному облику здания",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Пример изменения формы балкона, которая противоречит изначальному архитектурному облику здания",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7e8a5301-ca5c-4241-a5ec-4fd1331db7df",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "78b20075-a175-45ef-bda2-822fea036daa",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/78b20075-a175-45ef-bda2-822fea036daa.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "c0f8b347-f04d-45b5-8765-a50e7d77080f",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Пример соответствия изначальному архитектурному облику здания",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Пример соответствия изначальному архитектурному облику здания",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "d3c85f75-d0b4-4ad4-a051-3956f0292250",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/d3c85f75-d0b4-4ad4-a051-3956f0292250.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "246c3c62-cd61-42fe-8a39-7deb82aba09c",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Пример единообразного остекления лоджий",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Пример единообразного остекления лоджий",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "e8eba03f-6d4b-46a0-93a4-3d19098185fc",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение входных групп",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение входных групп",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cc811071-d3a5-404a-a2ed-8486bb9ec52e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Изменение входных групп должно осуществляться в соответствии с паспортом фасада, единообразно общему архитектурному облику фасада.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Изменение входных групп должно осуществляться в соответствии с паспортом фасада, единообразно общему архитектурному облику фасада.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "bf87824a-d325-476c-8b8e-6d6c969796b7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендуется размещать входные группы под балконами, лоджиями и эркерами.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендуется размещать входные группы под балконами, лоджиями и эркерами.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d37ac6c9-85a2-448b-bf8c-84171e2dfaa4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Если архитектурным решением предусмотрено несколько входных групп в одной плоскости фасада, уровень входа каждой из них должен располагаются на одной горизонтальной оси.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Если архитектурным решением предусмотрено несколько входных групп в одной плоскости фасада, уровень входа каждой из них должен располагаются на одной горизонтальной оси.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "178cdb57-eaf5-4a3f-9910-aced7b7ab157",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Максимально допустимая высота уровня входа не более 1,2 метра.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Максимально допустимая высота уровня входа не более 1,2 метра.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "47fce540-2f57-400e-adfd-3608c1661dfd",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Если архитектурным решением предусмотрено несколько входных групп, рекомендуется объединить их в одном решении, имеющем конструктивное, стилевое и цветовое единство.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Если архитектурным решением предусмотрено несколько входных групп, рекомендуется объединить их в одном решении, имеющем конструктивное, стилевое и цветовое единство.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3106ea25-12c0-45c5-9c76-9f91a24a4b11",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ступени должны быть продублированы пандусом — наклонной площадкой, для преодоления перепада высот инвалидами на креслах-колясках, пешеходов с детскими колясками и других категорий населения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ступени должны быть продублированы пандусом — наклонной площадкой, для преодоления перепада высот инвалидами на креслах-колясках, пешеходов с детскими колясками и других категорий населения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4e11d8e2-ed09-4dc5-9612-3dfb8ac0b19e",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/4e11d8e2-ed09-4dc5-9612-3dfb8ac0b19e.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "04f28fc8-8670-49ac-9096-3d9c2c696f3e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cea5ba09-af7a-4c86-9ab8-3e9950b7e548",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/cea5ba09-af7a-4c86-9ab8-3e9950b7e548.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "5d54f194-6170-419d-a642-afa8a1604b11",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пример отсутствия стилевого единства, организация входных групп на разных высотах",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Пример отсутствия стилевого единства, организация входных групп на разных высотах",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c3d79119-37a1-4831-a3b5-6c5d2a2e7440",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "49ec653c-d01e-403e-8763-c87629948aa2",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/49ec653c-d01e-403e-8763-c87629948aa2.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "920b6b60-4c99-4097-ae58-eba933de86dd",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пример превышения допустимой высоты уровня входа",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Пример превышения допустимой высоты уровня входа",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7a2aded9-e090-47c3-b811-f0319d1f7db6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1ab0f979-b596-49cb-bc9c-8faf6fb1c812",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/1ab0f979-b596-49cb-bc9c-8faf6fb1c812.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "d3454f1c-1583-4c6b-9cc2-78c24277bc67",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пример входной группы с использованием пристроенного тамбура",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Пример входной группы с использованием пристроенного тамбура",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 267,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение витринных конструкций",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение витринных конструкций",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5099aba2-afef-4e04-bbba-3fc586aa4e4e",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "90fab496-81a9-46f4-8e39-c4bff7c23d86",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "82df72a4-a8e2-47b5-9e87-0a54684a8300",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "При размещении витринной конструкции с внутренней стороны витрины расстояние от остекления витрины до витринной конструкции должно составлять не менее 0,15 метра.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "При размещении витринной конструкции с внутренней стороны витрины расстояние от остекления витрины до витринной конструкции должно составлять не менее 0,15 метра.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "b30a2378-5ec2-473b-b5e4-ab3f10b19eb6",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Максимальные высота и длина витринной конструкции не должны быть больше 1/2 высоты и длины остекления витрины соответственно.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Максимальные высота и длина витринной конструкции не должны быть больше 1/2 высоты и длины остекления витрины соответственно.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f8fec35f-fb1e-4ced-94a9-f26c9c1249e7",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "4e7afabd-ae2b-4490-bb98-88f0a588d0ed",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Запрещено использование в качестве витринных конструкций и её элементов электронных носителей (бегущих строк, медиа-экранов).",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Запрещено использование в качестве витринных конструкций и её элементов электронных носителей (бегущих строк, медиа-экранов).",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "265d2efc-fa0a-4d79-a142-375849dd9b8a",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/265d2efc-fa0a-4d79-a142-375849dd9b8a.webp"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Конструктивные элементы фасада",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Конструктивные элементы фасада",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 6
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "elements"
+      }
+    },
+    "cover": null
+  }
+}

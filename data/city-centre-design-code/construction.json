@@ -1,0 +1,387 @@
+{
+  "id": "545e852a-ed13-42ab-b1e9-057053ce6f8f",
+  "type": "page",
+  "content": {
+    "title": "Конструкции вывесок и способы их крепления к фасаду"
+  },
+  "children": [
+    {
+      "id": "25789ad2-98b4-4338-b211-c519e3f9e728",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Для вывесок используются объёмные буквы или плоские буквы на дистанционных держателях.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Для вывесок используются объёмные буквы или плоские буквы на дистанционных держателях.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0f5a8c7a-77cc-4117-9caa-c0e500274ec1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Для объёмных букв применяется подсветка передней или боковой поверхности, элементы подсветки располагаются внутри букв.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Для объёмных букв применяется подсветка передней или боковой поверхности, элементы подсветки располагаются внутри букв.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "492d67b7-fdf5-47fe-bf05-b74b4067ee42",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Для плоских букв применяется контражурная подсветка на задней стороне букв.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Для плоских букв применяется контражурная подсветка на задней стороне букв.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "622c2e48-c93d-454a-9047-3aacdde4eaa5",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/622c2e48-c93d-454a-9047-3aacdde4eaa5.svg"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "c9121197-d64a-4a3c-a160-4538f81d58cf",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8bf87a15-f906-4e99-adc6-80a0f66a81bc",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/8bf87a15-f906-4e99-adc6-80a0f66a81bc.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "de1a72d1-4e92-4c7e-a8a9-6d8c14b65511",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e4d393de-f2b0-4dc7-bd34-e102156c1c89",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/e4d393de-f2b0-4dc7-bd34-e102156c1c89.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "acc5b7e6-a2d9-45f5-aa50-33ebed952114",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 6,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Конструкция объёмных вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Конструкция объёмных вывесок",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6cdfbe82-2062-4536-a197-d9a319fdb963",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Изометрический вид и поперечный разрез:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Изометрический вид и поперечный разрез:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c671a072-706a-4ff6-af3b-69097d0cd252",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "dc7cb633-cc46-41d9-9da8-85e891fe2000",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/dc7cb633-cc46-41d9-9da8-85e891fe2000.svg"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "7ae71808-3613-42a9-bad0-760bbca7fa15",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/7ae71808-3613-42a9-bad0-760bbca7fa15.svg"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "453e70ea-408e-479e-ba06-29b11fd07e99",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 7,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Конструкция плоских вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Конструкция плоских вывесок",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b648aaa5-36be-47fc-99d7-dcebe377d307",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Изометрический вид и поперечный разрез:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Изометрический вид и поперечный разрез:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "83cddc9c-afd8-4f57-a408-91ea4174e57c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "81cc0811-d7bb-411a-bae7-44bd5c515bad",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/81cc0811-d7bb-411a-bae7-44bd5c515bad.svg"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "5ce786a2-eab5-4423-92d8-a43ee69c5759",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/5ce786a2-eab5-4423-92d8-a43ee69c5759.svg"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Конструкции вывесок и способы их крепления к фасаду",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Конструкции вывесок и способы их крепления к фасаду",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 4
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "construction"
+      }
+    },
+    "cover": null
+  }
+}

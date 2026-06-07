@@ -1,0 +1,672 @@
+{
+  "id": "3bf6c8cb-b170-403d-82f5-a0a204158a58",
+  "type": "page",
+  "content": {
+    "title": "Общие положения"
+  },
+  "children": [
+    {
+      "id": 14,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Методические рекомендации",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Методические рекомендации",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d50977d7-cfa2-46db-97c0-3f90165add62",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Настоящие методические рекомендации разработаны в целях создания единого дизайн-кода фасадов и вывесок в границах туристского кода центра города Екатеринбурга.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Настоящие методические рекомендации разработаны в целях создания единого дизайн-кода фасадов и вывесок в границах туристского кода центра города Екатеринбурга.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cce7f791-09d9-4a99-8a11-c95dfb12a8cf",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Методические рекомендации содержат описание типологии, правил размещения и разъяснения по вопросу определения возможных вариантов дизайна вывесок и других элементов фасадов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Методические рекомендации содержат описание типологии, правил размещения и разъяснения по вопросу определения возможных вариантов дизайна вывесок и других элементов фасадов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6a0f5874-473a-48c3-bb9a-6d677402ce1a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Методические рекомендации рекомендованы для использованию лицами, ответственными за эксплуатацию зданий, собственниками и арендаторами помещений, застройщиками жилых комплексов и проектировщиков.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Методические рекомендации рекомендованы для использованию лицами, ответственными за эксплуатацию зданий, собственниками и арендаторами помещений, застройщиками жилых комплексов и проектировщиков.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0b6bb3fd-0274-4cfd-92ed-cf12a753f6b5",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 15,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендации по разработке и внесению изменений в нормативно-правовую базу",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендации по разработке и внесению изменений в нормативно-правовую базу",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "928f80af-8d4e-45f0-a536-d142ff6c907f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Предлагаем провести следующие мероприятия по совершенствованию нормативно-правовой базы в сфере размещения вывесок на фасадах зданий:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Предлагаем провести следующие мероприятия по совершенствованию нормативно-правовой базы в сфере размещения вывесок на фасадах зданий:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "numbered_list_folder",
+      "children": [
+        {
+          "id": "950ac4e2-1a43-4dcf-9f10-d7eaf69aa982",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Внести изменения в Постановление Администрации города Екатеринбурга от 02.12.2015 № 3517 «Об утверждении Требований к содержанию отдельных конструктивных элементов фасадов, к дополнительному оборудованию, дополнительным элементам и устройствам, размещаемым на фасадах зданий, строений, сооружений» в части уточнения требований, предъявляемых к вывескам, с учётом разработанного дизайн-кода.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Внести изменения в Постановление Администрации города Екатеринбурга от 02.12.2015 № 3517 «Об утверждении Требований к содержанию отдельных конструктивных элементов фасадов, к дополнительному оборудованию, дополнительным элементам и устройствам, размещаемым на фасадах зданий, строений, сооружений» в части уточнения требований, предъявляемых к вывескам, с учётом разработанного дизайн-кода.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "280f38b5-83fb-477d-a282-7c88ed4786ce",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Разработать и внести изменения в нормативные правовые акты органов местного самоуправления с целью утверждения административного регламента предоставления муниципальной услуги «Предоставление решения о согласовании дизайн-проекта вывески» (внести изменения в Решение Екатеринбургской городской Думы от 26.06.2012 № 29/61 «Об утверждении Правил благоустройства территории муниципального образования „город Екатеринбург“», разработать проект постановления Администрации города Екатеринбурга «Об утверждении Административного регламента предоставления муниципальной услуги „Предоставление решения о согласовании дизайн-проекта вывески“»).",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Разработать и внести изменения в нормативные правовые акты органов местного самоуправления с целью утверждения административного регламента предоставления муниципальной услуги «Предоставление решения о согласовании дизайн-проекта вывески» (внести изменения в Решение Екатеринбургской городской Думы от 26.06.2012 № 29/61 «Об утверждении Правил благоустройства территории муниципального образования „город Екатеринбург“», разработать проект постановления Администрации города Екатеринбурга «Об утверждении Административного регламента предоставления муниципальной услуги „Предоставление решения о согласовании дизайн-проекта вывески“»).",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "c3ea49f8-02d7-4ef1-bce1-eab65bd5cf69",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Внести изменения в Закон Свердловской области от 14.06.2005 № 52-ОЗ «Об административных правонарушениях на территории Свердловской области» (далее — Закон Свердловской области), предусмотрев административную ответственность за несоблюдение требований к вывескам установленных нормативными правовыми актами органов местного самоуправления.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Внести изменения в Закон Свердловской области от 14.06.2005 № 52-ОЗ «Об административных правонарушениях на территории Свердловской области» (далее — Закон Свердловской области), предусмотрев административную ответственность за несоблюдение требований к вывескам установленных нормативными правовыми актами органов местного самоуправления.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "071dfbca-5564-4e97-9ca2-50460bf480bb",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Дополнить Закон Свердловской области статьёй 17-1 следующего содержания:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Дополнить Закон Свердловской области статьёй 17-1 следующего содержания:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "a821af6a-01a7-4572-b25e-ffec77f07de3",
+      "type": "callout",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Нарушение требований к вывескам, установленных нормативными правовыми актами органов местного самоуправления\n\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Нарушение требований к вывескам, установленных нормативными правовыми актами органов местного самоуправления\n\n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "1) Нарушение требований к размещению вывесок, их виду и количеству, влечёт предупреждение или наложение административного штрафа на граждан в размере от 2000 до 3000 рублей; на должностных лиц — от 3000 до 5000 рублей; на юридических лиц — от 10 000 до 15 000 рублей.\n\n2) Нарушение требований к содержанию вывесок влечёт предупреждение или наложение административного штрафа на граждан в размере от 100 до 1500 рублей; на должностных лиц — от 500 до 2000 рублей; на юридических лиц — от 10 000 до 30 000 рублей.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1) Нарушение требований к размещению вывесок, их виду и количеству, влечёт предупреждение или наложение административного штрафа на граждан в размере от 2000 до 3000 рублей; на должностных лиц — от 3000 до 5000 рублей; на юридических лиц — от 10 000 до 15 000 рублей.\n\n2) Нарушение требований к содержанию вывесок влечёт предупреждение или наложение административного штрафа на граждан в размере от 100 до 1500 рублей; на должностных лиц — от 500 до 2000 рублей; на юридических лиц — от 10 000 до 30 000 рублей.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "icon",
+          "icon": {
+            "name": "gavel",
+            "color": "yellow"
+          }
+        },
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1fd23d07-e25a-4e71-80f3-72a90c0c69e2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 16,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Карта внедрения дизайн-кода",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Карта внедрения дизайн-кода",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fb64eeb8-dc19-47f3-b44c-a658f170d722",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/fb64eeb8-dc19-47f3-b44c-a658f170d722.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "c96a6e8d-bb2e-4c8b-a2c6-93861eeab3fb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 17,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Задачи",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Задачи",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "numbered_list_folder",
+      "children": [
+        {
+          "id": "65db4fd8-8612-4450-ac48-c7e7174b4a59",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Выявить архитектурные, исторические, культурные и социальные особенности Екатеринбурга при формировании дизайн-кода фасадов и вывесок.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Выявить архитектурные, исторические, культурные и социальные особенности Екатеринбурга при формировании дизайн-кода фасадов и вывесок.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "8f55a6ff-ddc0-4990-b93a-9c9e89eb7aaa",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Сформулировать методику, в соответствии с которой дизайн вывесок должен иметь типологию.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Сформулировать методику, в соответствии с которой дизайн вывесок должен иметь типологию.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "328c7c11-34d6-4863-ad4a-8ffaff470d19",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Провести анализ нормативной базы в области размещения вывесок.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Провести анализ нормативной базы в области размещения вывесок.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "b1f9b1e5-eedf-4053-bb63-b3c43d8fdd4c",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определить рекомендации по размещению вывесок на фасадах зданий.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определить рекомендации по размещению вывесок на фасадах зданий.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "f6125f1a-9ccd-4688-9829-e72270482d5c",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определить рекомендации по работе с другими элементами фасадов.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определить рекомендации по работе с другими элементами фасадов.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "88b7363a-78e1-4584-897e-8ad6609380d7",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определить перечень технических и конструктивных решений.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определить перечень технических и конструктивных решений.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "8d1229e2-19ea-478c-b7ed-a34a7fbfacb0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Общие положения",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Общие положения",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 1
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "general-provisions"
+      }
+    },
+    "cover": null
+  }
+}

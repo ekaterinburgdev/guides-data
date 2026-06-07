@@ -1,0 +1,992 @@
+{
+  "id": "535791c6-8cd6-41e4-812f-e6386aa1231e",
+  "type": "page",
+  "content": {
+    "title": "Дополнительное оборудование"
+  },
+  "children": [
+    {
+      "id": "b9e8cbab-ad36-456e-a97c-cc8635ed349d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещаемые на фасадах здания, строения, сооружения системы технического обеспечения эксплуатации зданий, строений, сооружений (наружные блоки систем кондиционирования и вентиляции, вентиляционные трубопроводы, антенны, видеокамеры наружного наблюдения, иное подобное оборудование), элементы архитектурно-художественной подсветки, почтовые ящики, банкоматы и иное оборудование.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещаемые на фасадах здания, строения, сооружения системы технического обеспечения эксплуатации зданий, строений, сооружений (наружные блоки систем кондиционирования и вентиляции, вентиляционные трубопроводы, антенны, видеокамеры наружного наблюдения, иное подобное оборудование), элементы архитектурно-художественной подсветки, почтовые ящики, банкоматы и иное оборудование.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "63eb77a6-9583-4ce7-8bb6-d545a4a82d87",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Схема размещения дополнительного оборудования должна разрабатываться в соответствии с паспортом фасада и данным руководством.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Схема размещения дополнительного оборудования должна разрабатываться в соответствии с паспортом фасада и данным руководством.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "09c69398-4234-4d0a-91f9-60743256f008",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Дополнительное оборудование должно размещаться на фасадах упорядоченно, с привязкой к архитектурному решению здания, строения, сооружения и единой системе осей, при размещении ряда элементов — на общей несущей основе; должно иметь аккуратный внешний вид и надежную конструкцию крепления.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Дополнительное оборудование должно размещаться на фасадах упорядоченно, с привязкой к архитектурному решению здания, строения, сооружения и единой системе осей, при размещении ряда элементов — на общей несущей основе; должно иметь аккуратный внешний вид и надежную конструкцию крепления.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d1be65a6-ac94-43ab-bd71-6cb5f6e49c33",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещено размещение дополнительного оборудования, дополнительных элементов и устройств на архитектурных деталях, элементах декора, поверхностях с ценной отделкой.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещено размещение дополнительного оборудования, дополнительных элементов и устройств на архитектурных деталях, элементах декора, поверхностях с ценной отделкой.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3fb73211-9bec-4487-be84-4e926428f7c8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещено размещение антенн на главных и боковых фасадах.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещено размещение антенн на главных и боковых фасадах.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 268,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение видеокамер",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение видеокамер",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a75d2431-1471-407d-b08b-9dbae47ee196",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "dcfdd54a-7b00-4de1-ac00-b51629d384f8",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "20228897-6c27-4f33-b890-f46937245aee",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Видеокамеры наружного наблюдения должны размещаться под навесами, козырьками, балконами, эркерами, на участках фасада, свободных от архитектурных деталей и элементов декора.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Видеокамеры наружного наблюдения должны размещаться под навесами, козырьками, балконами, эркерами, на участках фасада, свободных от архитектурных деталей и элементов декора.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "57acf922-6ece-4d2a-b934-0a0c255de56d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "bebd40c7-544d-430b-8e0d-6c12eeb9e7b1",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Запрещено — размещение видеокамер наружного наблюдения на колоннах, фронтонах, карнизах, пилястрах, порталах, козырьках, на цоколях балконов.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "red"
+                    },
+                    "plain_text": "Запрещено — размещение видеокамер наружного наблюдения на колоннах, фронтонах, карнизах, пилястрах, порталах, козырьках, на цоколях балконов.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a5fe5f9-3bbc-426a-9677-31358fdf38a5",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6fd8a28d-d671-4aed-92d3-4e7512b208db",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "84982358-d25d-42ec-9614-d5c95477f286",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "10b99728-23bd-4356-b911-b92266ce9414",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/10b99728-23bd-4356-b911-b92266ce9414.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f925eb24-1f42-4e0f-9676-bfab1fcab034",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "dc5e8f3a-78d0-4368-923c-bc68b94c95dc",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/dc5e8f3a-78d0-4368-923c-bc68b94c95dc.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96f5c855-5249-4d02-9ead-16b01b4c12dc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Видеокамеры размещены под архитектурными деталями, а не на них",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Видеокамеры размещены под архитектурными деталями, а не на них",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "dd9c5ad5-96af-4a4b-84a0-6032be82601e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4cc08510-c31a-4049-ac00-c6ec804e25f4",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/4cc08510-c31a-4049-ac00-c6ec804e25f4.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "c0d8ac88-140f-45f6-a614-2e83e174e44b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Видеокамеры размещены на единой горизонтальной оси",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Видеокамеры размещены на единой горизонтальной оси",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e468a969-9267-4ba5-8189-1143bea7b586",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 278,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение кондиционеров",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение кондиционеров",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6b91003e-4532-4adc-99c1-414daeedace0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Наружные блоки систем кондиционирования и вентиляции должны размещаться на лоджиях, в нишах, с использованием маскирующих ограждений (решеток, жалюзи), в окнах подвального этажа без выхода за плоскость фасада, на кровле зданий и сооружений, на дворовых фасадах в единой системе размещения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Наружные блоки систем кондиционирования и вентиляции должны размещаться на лоджиях, в нишах, с использованием маскирующих ограждений (решеток, жалюзи), в окнах подвального этажа без выхода за плоскость фасада, на кровле зданий и сооружений, на дворовых фасадах в единой системе размещения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cd92ab48-9aaa-4af6-8752-938f1eab710e",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/cd92ab48-9aaa-4af6-8752-938f1eab710e.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "bdd93aa0-6166-415d-bb42-e650ff43dca1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пример правильного размещения кондиционеров на внутридвором фасаде",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Пример правильного размещения кондиционеров на внутридвором фасаде",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "93a8cacc-d1bd-45c0-a9c0-b2e92471eefc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4e697b47-3961-47f8-93ff-e61ddab459f3",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/4e697b47-3961-47f8-93ff-e61ddab459f3.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "b8a0c920-f8b2-4c11-92ae-ff40395d2790",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пример правильного размещения кондиционеров на внутридвором фасаде",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Пример правильного размещения кондиционеров на внутридвором фасаде",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4d404e9c-ef73-43c9-9268-1bc3f607b4ba",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 279,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещено",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещено",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "123d131c-ccea-4c20-aebf-74e1979867c0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещено размещение наружных блоков систем кондиционирования и вентиляции в оконных и дверных проемах, если блоки выступают за плоскость фасада и при этом не используются маскирующие ограждения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещено размещение наружных блоков систем кондиционирования и вентиляции в оконных и дверных проемах, если блоки выступают за плоскость фасада и при этом не используются маскирующие ограждения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fa8b577b-3312-4c52-8c1a-3b4fc82624b2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещено размещение наружных блоков систем кондиционирования и вентиляции на поверхности главных фасадов, над тротуарами.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещено размещение наружных блоков систем кондиционирования и вентиляции на поверхности главных фасадов, над тротуарами.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "59375622-0b67-4cf2-b0dd-e87ea52cfcec",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещено размещение наружных блоков систем кондиционирования и вентиляции без привязки к архитектурному решению здания, строения, сооружения и единой системе осей.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещено размещение наружных блоков систем кондиционирования и вентиляции без привязки к архитектурному решению здания, строения, сооружения и единой системе осей.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d3d82b6d-fd38-48f9-b514-9f20903c8796",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fccc4b2b-7681-4719-bfbc-1a7d7b99eeb2",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "a946e530-0b5b-4082-ba2e-19acfcb40e47",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "c9797893-6615-4cb4-a57b-80a280da2562",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/c9797893-6615-4cb4-a57b-80a280da2562.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a5fcb6ea-d9a9-402b-a65a-73eba6533151",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "269740d1-b310-404b-bf70-6a7be4bd8a72",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/269740d1-b310-404b-bf70-6a7be4bd8a72.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5d768296-cbc8-4f16-84c4-cd386fe6395e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пример неправильного размещения кондиционеров на фасаде здания",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Пример неправильного размещения кондиционеров на фасаде здания",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c64ae6fd-8a6c-4e1a-867d-2ca22da35944",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 281,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение терминалов и банкоматов",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение терминалов и банкоматов",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "87930b8c-c5a9-4a86-8f91-1f74c186b439",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендуется встраивать терминалы и банкоматы в дверные и оконные проемы или размещать эти элементы в интерьере здания.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендуется встраивать терминалы и банкоматы в дверные и оконные проемы или размещать эти элементы в интерьере здания.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d97ee51e-76cb-4fbd-92ad-95caaf6a50e4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Встраивание терминала и банкомата должно осуществляться с привязкой к архитектурному решению здания и согласовываться в составе паспорта фасадов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Встраивание терминала и банкомата должно осуществляться с привязкой к архитектурному решению здания и согласовываться в составе паспорта фасадов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b26cee80-c2db-41b1-82e1-0baced572d2c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "312f9162-a6ce-4b9a-af1a-a7623233e19f",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/312f9162-a6ce-4b9a-af1a-a7623233e19f.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "e3febf47-6031-45ca-8484-8493397173cf",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пример расположения банкомата в оконном проеме",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Пример расположения банкомата в оконном проеме",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6cae19ea-f2a9-4563-a897-479678ad8416",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "132e680c-140a-4902-bf4b-fdaa74dff188",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/132e680c-140a-4902-bf4b-fdaa74dff188.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "214ca29d-1ff8-429d-8a61-0440468c3560",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пример расположения банкомата в дверном проеме",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Пример расположения банкомата в дверном проеме",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Дополнительное оборудование",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Дополнительное оборудование",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 4
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "optional-equipment"
+      }
+    },
+    "cover": null
+  }
+}

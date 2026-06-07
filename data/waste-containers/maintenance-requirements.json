@@ -1,0 +1,1320 @@
+{
+  "id": "154c0edc-15c2-4b44-a5cb-33cbc1d788f8",
+  "type": "page",
+  "content": {
+    "title": "Требования к созданию, содержанию и обслуживанию контейнерной площадки"
+  },
+  "children": [
+    {
+      "id": 52,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Общие требования к созданию, обустройству и содержанию контейнерной площадки",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Общие требования к созданию, обустройству и содержанию контейнерной площадки",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5725b7d6-f18d-4dcb-b7dd-cd60f3d80bc6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вывоз твердых коммунальных отходов и санитарная обработка контейнеров осуществляются в соответствии с Санитарноэпидемиологическими правилами и нормативами СанПиН 2.1.2.2645-10 и СанПиН 2.1.7.3550-19.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вывоз твердых коммунальных отходов и санитарная обработка контейнеров осуществляются в соответствии с Санитарноэпидемиологическими правилами и нормативами СанПиН 2.1.2.2645-10 и СанПиН 2.1.7.3550-19.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "33b03cf1-aaf4-480c-83a3-448f50862288",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размеры контейнерной площадки должны обеспечивать установку необходимого количества контейнеров на расстоянии не менее 0,35 м друг от друга. Контейнеры должны иметь маркировку с указанием реквизитов владельцев.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размеры контейнерной площадки должны обеспечивать установку необходимого количества контейнеров на расстоянии не менее 0,35 м друг от друга. Контейнеры должны иметь маркировку с указанием реквизитов владельцев.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c4730ac6-eb1b-4a24-8343-a5e5209d6870",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Контейнерная площадка оснащается специальными табличками, указывающими, что место установки контейнеров служит для сбора мусора, а также имеющими символическое изображение вида отхода, складируемого в контейнер.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Контейнерная площадка оснащается специальными табличками, указывающими, что место установки контейнеров служит для сбора мусора, а также имеющими символическое изображение вида отхода, складируемого в контейнер.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6211922d-87f7-4de3-a750-cdd6197ba2ab",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Максимальное количество контейнеров на площадке - 10 штук.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Максимальное количество контейнеров на площадке - 10 штук.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fe71ea09-86b8-4a08-b46e-bf7febc8d6c4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Проведение промывки и дезинфекции контейнеров осуществляется хозяйствующим субъектом.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Проведение промывки и дезинфекции контейнеров осуществляется хозяйствующим субъектом.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8cf25e39-5733-4538-82a7-9eaf72f38c29",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В случае организации дуальной системы накопления ТКО на контейнеры наносится символическое изображение видов складируемых в контейнеры отходов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В случае организации дуальной системы накопления ТКО на контейнеры наносится символическое изображение видов складируемых в контейнеры отходов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "abbba142-91a4-4eec-bac3-fc5a261decb2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Контейнеры должны быть оснащены крышкой с дополнительным окном, открываемой педальным приводным механизмом.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Контейнеры должны быть оснащены крышкой с дополнительным окном, открываемой педальным приводным механизмом.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9b2dd281-fe95-444b-a00b-8d438ba9b2c7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Конструкция контейнеров должна обеспечивать возможность механизированной погрузки в кузовные и контейнерные мусоровозы.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Конструкция контейнеров должна обеспечивать возможность механизированной погрузки в кузовные и контейнерные мусоровозы.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "779186a4-da4a-4321-89d2-ba39901d4323",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Наличие бетонного или асфальтового основания с уклоном 5 - 10% в сторону проезжей части для отвода талых и дождевых сточных вод.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Наличие бетонного или асфальтового основания с уклоном 5 - 10% в сторону проезжей части для отвода талых и дождевых сточных вод.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "05e5b78b-1977-4a78-b767-51b51cce9dc1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Наличие ограждения высотой 1,0 - 1,5м ( с антикоррозийным покрытием ) и устройство живой изгороди из зеленых насаждений вдоль ограждения, обеспечивающее предупреждение распространения отходов за пределы контейнерной площадки. Наличие специальной площадки для КГО.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Наличие ограждения высотой 1,0 - 1,5м ( с антикоррозийным покрытием ) и устройство живой изгороди из зеленых насаждений вдоль ограждения, обеспечивающее предупреждение распространения отходов за пределы контейнерной площадки. Наличие специальной площадки для КГО.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7bd3907c-d9de-4855-8bbe-c213de19563c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Удаленность контейнерной площадки от застройки, мест отдыха, детских садов, школ и игровых зон на расстояние от 20 до 100 м. Указанное расстояние может быть изменено в порядке, предусмотренном СанПин 2.1.7.3550-19.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Удаленность контейнерной площадки от застройки, мест отдыха, детских садов, школ и игровых зон на расстояние от 20 до 100 м. Указанное расстояние может быть изменено в порядке, предусмотренном СанПин 2.1.7.3550-19.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "32ad4f20-97c1-4cfc-b26f-0150e91e7adf",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ширина проезда к контейнерной площадке при одностороннем движении должна быть не менее 3,5м, при двухстороннем - не менее 6,0 м.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ширина проезда к контейнерной площадке при одностороннем движении должна быть не менее 3,5м, при двухстороннем - не менее 6,0 м.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "618de202-1a42-4673-a679-6b1064733c81",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Проезд к площадке должен быть сквозным, с бордюром, в исключительных случаях допустимо размещение контейнерной площадки на площадке, обеспечивающей полный разворот мусоровоза в два приема ( 15,0 х 15,0 м ).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Проезд к площадке должен быть сквозным, с бордюром, в исключительных случаях допустимо размещение контейнерной площадки на площадке, обеспечивающей полный разворот мусоровоза в два приема ( 15,0 х 15,0 м ).",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ec9ba7fa-9953-47e2-8aca-dcf944826567",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Установка контейнерной площадки должна быть в одном уровне с проезжей частью либо на возвышении, но не более 0,1 м, с устройством сопряжений поверхности, установкой ската для контейнеров с площадки на проезжую часть и обратно.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Установка контейнерной площадки должна быть в одном уровне с проезжей частью либо на возвышении, но не более 0,1 м, с устройством сопряжений поверхности, установкой ската для контейнеров с площадки на проезжую часть и обратно.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2ed5de5f-2e70-490e-8033-df345d150098",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Согласование места размещения контейнерных площадок с администрацией города. Схема размещения контейнерных площадок публикуется в едином реестре, на официальном портале Администрации города Екатеринбурга (",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Согласование места размещения контейнерных площадок с администрацией города. Схема размещения контейнерных площадок публикуется в едином реестре, на официальном портале Администрации города Екатеринбурга (",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "екатеринбург.рф",
+              "link": {
+                "url": "http://xn--80acgfbsl1azdqr.xn--p1ai/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "екатеринбург.рф",
+            "href": "http://xn--80acgfbsl1azdqr.xn--p1ai/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ").",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ").",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d757a6fd-4812-48f3-98e5-1a1781f17c7c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 53,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Схема размещения контейнерной площадки в дворовом пространстве",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Схема размещения контейнерной площадки в дворовом пространстве",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5a6085e6-9a86-4509-8652-2b944711ca8a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Удаленность контейнерной площадки от застройки, мест отдыха, детских садов, школ и игровых зон на расстояние от 20 до 100 м.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Удаленность контейнерной площадки от застройки, мест отдыха, детских садов, школ и игровых зон на расстояние от 20 до 100 м.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d18c6a57-b164-4e56-8aee-3b5b5303807c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Доступность для спецавтотранспорта.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Доступность для спецавтотранспорта.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6210afd4-9281-471a-b9f9-3ef8dc2ec2fb",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/6210afd4-9281-471a-b9f9-3ef8dc2ec2fb.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "44da3325-f462-4096-945e-b2af1f08bbc7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 54,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Схема размещения контейнерной площадки на придомовой территории",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Схема размещения контейнерной площадки на придомовой территории",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e788a68c-234e-4446-bb64-2e1904f7c658",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Схема размещения площадки при сквозном двухстороннем движении транспорта",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Схема размещения площадки при сквозном двухстороннем движении транспорта",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "febe9af8-b1e3-42a6-82c6-2d5a31ae2d9a",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/febe9af8-b1e3-42a6-82c6-2d5a31ae2d9a.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "ce3a4cba-b4aa-4c36-9f1a-f9859fb6d6b1",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Доступность для спецавтотранспорта",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Доступность для спецавтотранспорта",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "8af69403-2366-481d-8d07-8efa6212c170",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Наличие ограждения",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Наличие ограждения",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "8e19b5c1-38b7-4518-a519-8c2eea24664d",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Бетонное или асфальтовое основание с уклоном 5-10%",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Бетонное или асфальтовое основание с уклоном 5-10%",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "caa4a2f7-7276-4e7c-9baf-1754c679aa55",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ширина проезда при двухстороннем движении не менее 6,0 м",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ширина проезда при двухстороннем движении не менее 6,0 м",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "6effcce5-85b0-490b-ae7f-425901299619",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "83341e06-1012-4716-af6a-6a7ac52a5dd4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "10f0c6f2-f4da-4a7b-8d1b-38c8304c1997",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ea032829-4b93-40db-a448-ca9c8c4ac69e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Озеленение по периметру контейнерной площадки в виде живой изгороди.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Озеленение по периметру контейнерной площадки в виде живой изгороди.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "300297c5-86c3-424b-be6c-d72659876f7c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "95ccfe70-6ffc-4af5-b50f-5f3f2fb213e2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Схема размещения контейнерной площадки на разворотной площадке (с минимально допустмыми размерами)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Схема размещения контейнерной площадки на разворотной площадке (с минимально допустмыми размерами)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7b7e5dce-c05e-480a-aef9-d2663d59fdb8",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/7b7e5dce-c05e-480a-aef9-d2663d59fdb8.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "e7de9ee4-28ad-447b-a2d8-2035042171c9",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Доступность для спецавтотранспорта",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Доступность для спецавтотранспорта",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "80d93118-063b-4399-8e20-aa4141b23cac",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Наличие ограждения",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Наличие ограждения",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "4f9b6733-d8dc-409a-b3ca-a420dc8bac79",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Бетонное или асфальтовое основание с уклоном 5-10%",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Бетонное или асфальтовое основание с уклоном 5-10%",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "28fabded-643c-45e7-9705-94681060aac4",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ширина проезда при двухстороннем движении 6,0 м",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ширина проезда при двухстороннем движении 6,0 м",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "b78a9c59-1007-448e-a8a1-0b1df3a3769d",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Озеленение по периметру контейнерной площадки",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Озеленение по периметру контейнерной площадки",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "a2cc212e-b595-4be0-9ab6-c9588a36bb38",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Разворотная площадка min 15,0х15,0 м",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Разворотная площадка min 15,0х15,0 м",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "d2c2e984-992c-4c68-92c3-eed949b34eac",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "da4102e6-90cf-445e-9d8f-9dd0a89f3f43",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Схема размещения контейнерной площадки на разворотной площадке (с минимально допустмыми размерами)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Схема размещения контейнерной площадки на разворотной площадке (с минимально допустмыми размерами)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a5e67cc9-ffcd-421d-a4a6-e5a3e8a44471",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/a5e67cc9-ffcd-421d-a4a6-e5a3e8a44471.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "02c5096d-a54d-4237-a306-c9a01e670c4b",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Доступность для спецавтотранспорта",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Доступность для спецавтотранспорта",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "4b5c5092-50f9-41be-9ade-af4dce48767b",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Наличие ограждения",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Наличие ограждения",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "061d3db0-e2e0-4252-880a-9384bdc88821",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Бетонное или асфальтовое основание с уклоном 5-10%",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Бетонное или асфальтовое основание с уклоном 5-10%",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "4f0a41d6-71e6-4b9f-b6fc-72bcb1fc6bc3",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ширина проезда при одностороннем движении 3,5 м, при двустороннем 6,0 м",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ширина проезда при одностороннем движении 3,5 м, при двустороннем 6,0 м",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "774b4387-c004-4cd8-a398-5f2a381bd7fa",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Озеленение по периметру контейнерной площадки",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Озеленение по периметру контейнерной площадки",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "ffaff027-ab50-474b-a8f1-eb43698c8e40",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Разворотная площадка min 15,0х15,0 м",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Разворотная площадка min 15,0х15,0 м",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Требования к созданию, содержанию и обслуживанию контейнерной площадки",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Требования к созданию, содержанию и обслуживанию контейнерной площадки",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 5
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "maintenance-requirements"
+      }
+    },
+    "cover": null
+  }
+}

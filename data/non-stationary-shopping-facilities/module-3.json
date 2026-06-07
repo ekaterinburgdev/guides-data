@@ -1,0 +1,109 @@
+{
+  "id": "036bdf8c-7fb9-4249-9a3d-6025f7561262",
+  "type": "page",
+  "content": {
+    "title": "Модуль 3"
+  },
+  "children": [
+    {
+      "id": "a4e6b0a2-c73b-45a4-a09f-ee83a04f9eb2",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/a4e6b0a2-c73b-45a4-a09f-ee83a04f9eb2.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "e8f5f8f0-93a1-4168-b669-5a4ed34f2f03",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "165f3c19-0fe0-4ff8-843c-929ac898fc28",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Развертки фасадов модуля 3",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Развертки фасадов модуля 3",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c2cc5946-33b4-42ae-b611-e6c07a151d90",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/c2cc5946-33b4-42ae-b611-e6c07a151d90.webp"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Модуль 3",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Модуль 3",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 3
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "module-3"
+      }
+    },
+    "cover": null
+  }
+}

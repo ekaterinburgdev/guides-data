@@ -1,0 +1,57 @@
+{
+  "id": "cbd51ee4-565b-4620-b72e-f587a19279e5",
+  "type": "page",
+  "content": {
+    "title": "Каталог элементов благоустройства"
+  },
+  "children": [
+    {
+      "id": "ea00804c-307a-457b-b8e2-d72fb75d01da",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Каталог элементов благоустройства",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Каталог элементов благоустройства",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "SaHT",
+        "type": "number",
+        "number": 50
+      },
+      "pageUrl": {
+        "id": "%3Ez%7DR",
+        "type": "url",
+        "url": "urban-elements"
+      }
+    },
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/b58e66a4-d31e-4085-be12-e8a4238316ec/ee65917d-1e4f-4e8f-a84d-a1d4a06c8789/image-000fdfsad.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664VWJNF3S%2F20260607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260607T212400Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD7wAwyTvDy%2BOK8wI%2FopkngjB%2BK2csGKA3vzhQpKpbqGAIhAPHyZ5MJ1yzkuy8ybqEzzLYeiWb5To5hRdZNeiysrpa%2BKogECKP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgyGadAIbwzEH5PKu6kq3AMLjsB8v14fYqwUTAckgOsCIw1KNCLQOZH8jPy4KvBmatrGN%2FbNGDLDJNNqFNyZbGoGlOTFrhkUGLo%2BmaU2XU8XU6JoKVAkf39dXXcCQCnYIv6pbmtXzvA1Vem5kiQAqJp9gvp449lECe%2Bf2S295hH2UlrSBF2E4dsXFOa%2F%2Fwe1ZaA6wIkMNbv0wne5h2yAQgeKPGgKAjoaK3olshQYRlrLKaUwYHxDMWzxDPTHAPTjZscfz1EOK%2F6MoYTR3U%2BD2lRxAAWIZVYpt05qkW70JtDNqumKaxpoqy7nXejvZqVmuaHQ1vqCBGQdIlax0q8wxNHpao1vUEWZG1RmGMMvTY9aut6UkVGbmtmY6b7sb%2FtzLTxwtV43oLWv3zjIDCMtVfqcUXBl06pghAekeW3fPUNCrZ5QjKzqqt4Vu2bbeAQXPK7xi8nkRjj8SUWhGphG%2F6svW7cHxDm9vAGS8kopq8a8N70f4RUm1y7ufGSX0GjTL7NEZUH457gopp1pwu5jrKV0Vibp9ZnaSL4%2FL76H%2BKMj2RSu0lU10iOpe%2BmHz%2BjSYyJ14Z6jTOrxAXrafGJfCVT%2BNsVyYbUDtDkqMmwHxwSzEOTmsEWb0OjFvsaTh%2F0GpB5jYyDM0jrCCutnlTCt4pbRBjqkAV6HUFyreUCMhlF4NNz1TecTJF0ZaGF%2Fa8MPKS4%2BI1StpYpkQ7SFeZD9tYUu7PePvUc64exDRN%2BTkQDs08V9f098rA9IGaeHf0p8Yx3xLuST5S1dUAk6pSmSR66VgQ0jaX9IRWX63SjyDejvOXLcd7SiZM7jxzDh0%2BZOVECFRmviF9Fv1LQWZri%2F0FQOc5ZHhl4iywcPVLh8lIzp%2F%2B1YWbZ3m7BI&X-Amz-Signature=58b1020efe6a80ce7a8c90398a76df7f153f24a890c3bb4790daf3f9366e2b9c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+  }
+}
