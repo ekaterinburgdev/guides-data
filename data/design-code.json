@@ -1,0 +1,57 @@
+{
+  "id": "c02e663a-61e3-44d6-a9a5-1503d87a40c2",
+  "type": "page",
+  "content": {
+    "title": "Дизайн-код фасадов и вывесок"
+  },
+  "children": [
+    {
+      "id": "41dcadd1-f105-4e5f-ae0b-82a2eddecd68",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Дизайн-код фасадов и вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Дизайн-код фасадов и вывесок",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "SaHT",
+        "type": "number",
+        "number": 70
+      },
+      "pageUrl": {
+        "id": "%3Ez%7DR",
+        "type": "url",
+        "url": "design-code"
+      }
+    },
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/b58e66a4-d31e-4085-be12-e8a4238316ec/a8ce3578-e7d4-496b-a155-d67484196a81/Screenshot_2022-07-27_at_19.59.46.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466T22GH6YR%2F20260607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260607T211849Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDbaV5RqfN1kduA2f8qHltVcFkwDAiTDYm3l%2BafsKp6lQIgF45AtLaZeT2XlPR6xRQP8MmZuxYS%2FCHquiekw1ItBw8qiAQIo%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDPgjAqJskSoqjfpQkircA5cTI0R9gub0LqXsfskv6hTeTpvh1wFDas5Oovh6NNAXbhPtE2ZpHoVS3W2xE4juWLu0LhItvFPSzB782r0a5j0wpAUqNE%2FDe%2FpI%2FDuxbA5wPPWiex2%2BRvHzCyI6BrpCk6blSt1j0BQfSnsn6vvBM3b2upDoPpxkHBVR%2F5c74E%2ByIPbfOtIOVnUDXeL4LG8zFSyayMcNNgZNTAcQ%2BeYgPGzaVDUrsGWN2fCW6QK0SkdWdWHVsSk3ajmVXfc8gdfrWQqcVHcherNkzHbHz%2F9%2FZDhN2T4YNNqkmjAos87UOk5QL2GjiV1yjud7KWqE27md3dfTe87gD%2BIBLlgs3kyID63rOReHyLBaD%2FPmOSWovIuMtBDLQfCU%2FpS12i127xd1XuZ4jqQ0r%2BB4JUiSvqeIBdv%2FbLX3pZq5Jjxb4fZGWJLPZBmd%2BeHC8G45lBIKxTa8oXb%2BG4zk%2Flp2sLa4PbsKpBfU1oP%2BMpHgsKicxQzyqkGd52U6EjJazjOMcpqVIwgOSLU0BmU2Sc2E1WOuB2xiX2v%2BrGRVcQO5C5UdrCmLNca3qwfF%2FUiQkbiAOpRezkEf2cdA4a6Vk5nI2rOtHonHU%2FZslYLOCbxC0RBRsnD20Idngqso%2FuCmpCpO6rTwMIHhltEGOqUBJxSxEgt4ewW3vO%2FCgSilbOfbMIfuF9cwfkjNE44etuxvaXMu5RjRyZjYQHYP7zHqHf2X9o77CPpDc3qXKKHjVS2R4wdv%2FrCLmBGmgGWwdekyJnkUxU7vA0Y%2BA1jWKzYfmoolVIWczQI%2FJQvdvLO7vwv2s%2BneyMAiNKov73MYB70rTDDTY8imzCyN37jiDEkmYonUyEtePVTP0yi16XjMC03y%2BqnS&X-Amz-Signature=e37c207583ba38668ab955da2e3b30d8b22ab0abf402741ad79e38e532d65eb2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+  }
+}

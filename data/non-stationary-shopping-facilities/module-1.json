@@ -1,0 +1,237 @@
+{
+  "id": "6cce9678-2d45-4af9-a064-a2b86b3499e4",
+  "type": "page",
+  "content": {
+    "title": "Модуль 1"
+  },
+  "children": [
+    {
+      "id": "3fbdaf5e-0a6c-4fb8-a510-2eba79d67115",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Модуль 1 с торговым окном",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Модуль 1 с торговым окном",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9da82d03-b724-41f9-9c41-cde7ea617fe4",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/9da82d03-b724-41f9-9c41-cde7ea617fe4.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "ac0ea005-13de-47b0-a649-0fd573b372a9",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7c7f2301-11b5-4bed-9179-5ff9447cdfdb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Развертки фасадов модуля 1 с торговым окном",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Развертки фасадов модуля 1 с торговым окном",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "df131271-7471-4b15-9eca-d24aef98f216",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/df131271-7471-4b15-9eca-d24aef98f216.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "2666f181-dc45-4ee6-a4c0-882a4bea78b9",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "58a1fe5a-3628-4625-8ec4-cbefbab5d6c7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Модуль 1 с обустроенным входом для посетителей",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Модуль 1 с обустроенным входом для посетителей",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fd9f4334-f7e1-46ea-8d3d-25d09e3472d1",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/fd9f4334-f7e1-46ea-8d3d-25d09e3472d1.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "3f211fae-31b6-416b-85cb-a68d4ae9ef28",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "bdc39779-36b0-4d17-b554-626ddb9dc05e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Развертки фасадов модуля 1 с обустроенным входом для посетителей",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Развертки фасадов модуля 1 с обустроенным входом для посетителей",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d4845940-d108-4254-b689-63e9f513d42b",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/d4845940-d108-4254-b689-63e9f513d42b.webp"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Модуль 1",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Модуль 1",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 1
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "module-1"
+      }
+    },
+    "cover": null
+  }
+}

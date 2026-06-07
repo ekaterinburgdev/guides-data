@@ -1,0 +1,3674 @@
+{
+  "id": "9d480691-5268-44ce-8e8e-fa39ac419e9f",
+  "cover": null,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Руководства Екатеринбурга",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Руководства Екатеринбурга",
+          "href": null
+        }
+      ]
+    }
+  },
+  "children": [
+    {
+      "id": "5f10efbc-7c2d-48da-95ad-e48d207ee327",
+      "cover": "5f10efbc-7c2d-48da-95ad-e48d207ee327_cover.webp",
+      "properties": {
+        "pageUrl": {
+          "id": "%3Ez%7DR",
+          "type": "url",
+          "url": "waste-containers"
+        },
+        "Published": {
+          "id": "B%5C~j",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "previewPattern": [
+          "5f10efbc-7c2d-48da-95ad-e48d207ee327_previewPattern_0.svg"
+        ],
+        "order": {
+          "id": "SaHT",
+          "type": "number",
+          "number": 10
+        },
+        "publishedDate": {
+          "id": "eX%60%3B",
+          "type": "date",
+          "date": {
+            "start": "2020-11-09",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Created": {
+          "id": "h%7Cd%3E",
+          "type": "created_time",
+          "created_time": "2022-08-25T15:23:00.000Z"
+        },
+        "subtitle": {
+          "id": "jhb_",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "color": {
+          "id": "o%60%3E%40",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "#00b4ff",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "#00b4ff",
+              "href": null
+            }
+          ]
+        },
+        "pdfUrl": {
+          "id": "pSXB",
+          "type": "url",
+          "url": "https://ekaterinburg.design/files/ekaterinburg-waste-sorting-guide.pdf"
+        },
+        "pdf": [
+          "5f10efbc-7c2d-48da-95ad-e48d207ee327_pdf_0.pdf"
+        ],
+        "previewImage": [
+          "5f10efbc-7c2d-48da-95ad-e48d207ee327_previewImage_0.svg"
+        ],
+        "status": {
+          "id": "%7Bu%7Bp",
+          "type": "select",
+          "select": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Оформление раздельного сбора мусора",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Оформление раздельного сбора мусора",
+              "href": null
+            }
+          ]
+        }
+      },
+      "children": [
+        {
+          "id": "571b7c7e-ea72-45c1-96b4-63156fac93cb",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "general-provisions"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 1
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Общие положения",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Общие положения",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "56cb3c7b-a0cb-4cbd-9800-a6f6a3b32e27",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "typology"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 2
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Типология контейнерных площадок твердых коммунальных отходов",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Типология контейнерных площадок твердых коммунальных отходов",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "a17421ea-7259-43a9-a909-1b9bee839aae",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "solutions"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 3
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Архитектурные и конструктивные решения",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Архитектурные и конструктивные решения",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "fba9e1b4-ec76-4498-aea2-956c4761126f",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "design"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 4
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Графическое и информационное оформление",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Графическое и информационное оформление",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "154c0edc-15c2-4b44-a5cb-33cbc1d788f8",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "maintenance-requirements"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 5
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Требования к созданию, содержанию и обслуживанию контейнерной площадки",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Требования к созданию, содержанию и обслуживанию контейнерной площадки",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "780513a5-027f-43b3-aad2-f0102d457693",
+      "cover": "780513a5-027f-43b3-aad2-f0102d457693_cover.webp",
+      "properties": {
+        "pageUrl": {
+          "id": "%3Ez%7DR",
+          "type": "url",
+          "url": "non-stationary-shopping-facilities"
+        },
+        "Published": {
+          "id": "B%5C~j",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "previewPattern": [
+          "780513a5-027f-43b3-aad2-f0102d457693_previewPattern_0.webp"
+        ],
+        "order": {
+          "id": "SaHT",
+          "type": "number",
+          "number": 20
+        },
+        "publishedDate": {
+          "id": "eX%60%3B",
+          "type": "date",
+          "date": {
+            "start": "2020-10-14",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Created": {
+          "id": "h%7Cd%3E",
+          "type": "created_time",
+          "created_time": "2022-08-23T16:12:00.000Z"
+        },
+        "subtitle": {
+          "id": "jhb_",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "color": {
+          "id": "o%60%3E%40",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "#878d43",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "#878d43",
+              "href": null
+            }
+          ]
+        },
+        "pdfUrl": {
+          "id": "pSXB",
+          "type": "url",
+          "url": "https://ekaterinburg.design/files/ekaterinburg-non-stationary-retail-facilities-guide.pdf"
+        },
+        "pdf": [
+          "780513a5-027f-43b3-aad2-f0102d457693_pdf_0.pdf"
+        ],
+        "previewImage": [
+          "780513a5-027f-43b3-aad2-f0102d457693_previewImage_0.svg"
+        ],
+        "status": {
+          "id": "%7Bu%7Bp",
+          "type": "select",
+          "select": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Нестационарные торговые объекты",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Нестационарные торговые объекты",
+              "href": null
+            }
+          ]
+        }
+      },
+      "children": [
+        {
+          "id": "6cce9678-2d45-4af9-a064-a2b86b3499e4",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "module-1"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 1
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Модуль 1",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Модуль 1",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "dc161934-495a-4259-a1d1-476b6c48d2be",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "module-2"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 2
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Модуль 2",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Модуль 2",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "036bdf8c-7fb9-4249-9a3d-6025f7561262",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "module-3"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 3
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Модуль 3",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Модуль 3",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "3a0c5c02-d6f5-4417-9d11-060069294c2d",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "module-additional"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 4
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Дополнительные материалы к модулям",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Дополнительные материалы к модулям",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "be8a955e-87fc-4d58-b3b5-fef1caa55fa7",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "trade-tent"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 5
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Торговая палатка",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Торговая палатка",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "8d55f10c-e93a-4a14-be10-22fe1d7f13c1",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "other"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 6
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Другие объекты",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Другие объекты",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "355f667f-4e21-46a6-ab77-f134f3db1512",
+      "cover": "355f667f-4e21-46a6-ab77-f134f3db1512_cover.webp",
+      "properties": {
+        "pageUrl": {
+          "id": "%3Ez%7DR",
+          "type": "url",
+          "url": "new-year"
+        },
+        "Published": {
+          "id": "B%5C~j",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "previewPattern": [
+          "355f667f-4e21-46a6-ab77-f134f3db1512_previewPattern_0.svg"
+        ],
+        "order": {
+          "id": "SaHT",
+          "type": "number",
+          "number": 30
+        },
+        "publishedDate": {
+          "id": "eX%60%3B",
+          "type": "date",
+          "date": {
+            "start": "2022-11-14",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Created": {
+          "id": "h%7Cd%3E",
+          "type": "created_time",
+          "created_time": "2022-06-09T16:46:00.000Z"
+        },
+        "subtitle": {
+          "id": "jhb_",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "color": {
+          "id": "o%60%3E%40",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "#bba96f",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "#bba96f",
+              "href": null
+            }
+          ]
+        },
+        "pdfUrl": {
+          "id": "pSXB",
+          "type": "url",
+          "url": "https://ekaterinburg.design/files/ekaterinburg-new-year-decorations-guide.pdf"
+        },
+        "pdf": [
+          "355f667f-4e21-46a6-ab77-f134f3db1512_pdf_0.pdf"
+        ],
+        "previewImage": [
+          "355f667f-4e21-46a6-ab77-f134f3db1512_previewImage_0.svg"
+        ],
+        "status": {
+          "id": "%7Bu%7Bp",
+          "type": "select",
+          "select": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Оформление фасадов к Новому году",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Оформление фасадов к Новому году",
+              "href": null
+            }
+          ]
+        }
+      },
+      "children": [
+        {
+          "id": "c9c25cb5-9413-4431-a07d-d30e38fe9e66",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "general-provisions"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 1
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Схема праздничного оформления Екатеринбурга",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Схема праздничного оформления Екатеринбурга",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "125d6a8c-96ff-4559-b57a-e176703a645e",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "facades"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 2
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Рекомендации по внешнему оформлению фасадов",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Рекомендации по внешнему оформлению фасадов",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "db95cbbc-3961-416f-a81e-d514441ede45",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "recreational-public-spaces"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 3
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Рекомендации по оформлению рекреационных и общественных пространств",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Рекомендации по оформлению рекреационных и общественных пространств",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "4a481405-ab8a-45ce-a739-09b984cf34c6",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "construction"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 4
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Рекомендации по оформлению строительных площадок",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Рекомендации по оформлению строительных площадок",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "ff9c00f9-eaa6-4cbc-abc4-398212953cb2",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "residential-complexes"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 5
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Рекомендации по оформлению современных жилых комплексов",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Рекомендации по оформлению современных жилых комплексов",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "9c753ba9-6957-46b2-8b66-82a9b3c7b45f",
+      "cover": "9c753ba9-6957-46b2-8b66-82a9b3c7b45f_cover.webp",
+      "properties": {
+        "pageUrl": {
+          "id": "%3Ez%7DR",
+          "type": "url",
+          "url": "recreation"
+        },
+        "Published": {
+          "id": "B%5C~j",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "previewPattern": [
+          "9c753ba9-6957-46b2-8b66-82a9b3c7b45f_previewPattern_0.svg"
+        ],
+        "order": {
+          "id": "SaHT",
+          "type": "number",
+          "number": 40
+        },
+        "publishedDate": {
+          "id": "eX%60%3B",
+          "type": "date",
+          "date": {
+            "start": "2020-07-08",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Created": {
+          "id": "h%7Cd%3E",
+          "type": "created_time",
+          "created_time": "2022-06-21T12:16:00.000Z"
+        },
+        "subtitle": {
+          "id": "jhb_",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Концепция комплексного благоустройства рекреационных и общественных пространств на территории Екатеринбурга",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Концепция комплексного благоустройства рекреационных и общественных пространств на территории Екатеринбурга",
+              "href": null
+            }
+          ]
+        },
+        "color": {
+          "id": "o%60%3E%40",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "#409718",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "#409718",
+              "href": null
+            }
+          ]
+        },
+        "pdfUrl": {
+          "id": "pSXB",
+          "type": "url",
+          "url": "https://ekaterinburg.design/files/ekaterinburg-recreation-guide.pdf"
+        },
+        "pdf": [
+          "9c753ba9-6957-46b2-8b66-82a9b3c7b45f_pdf_0.pdf"
+        ],
+        "previewImage": [
+          "9c753ba9-6957-46b2-8b66-82a9b3c7b45f_previewImage_0.svg"
+        ],
+        "status": {
+          "id": "%7Bu%7Bp",
+          "type": "select",
+          "select": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Зелёный каркас",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Зелёный каркас",
+              "href": null
+            }
+          ]
+        }
+      },
+      "children": [
+        {
+          "id": "b1f01d2e-2ede-495a-9476-f6571bfc610a",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "general-provisions"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 1
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Общие положения",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Общие положения",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "bdd83ef2-158d-4e6d-a4dd-2b2529ef166e",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "glossary"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 2
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Глоссарий",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Глоссарий",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "980ada5c-c71c-4bd3-ad41-67e84e1c35eb",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "analysis"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 3
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Анализ ситуации",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Анализ ситуации",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "2238c7eb-d4ec-4aa7-b31c-9e9e26fbe5a5",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "general-vision"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 4
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Общее видение комплексного благоустройства",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Общее видение комплексного благоустройства",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "bd9ca8aa-2be9-4f0d-b673-31b4219c3903",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "concept"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 5
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Концепция развития",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Концепция развития",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "f40d809d-d601-4c6f-9e2c-29004a9224bd",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "typology"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 6
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Типология",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Типология",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "f4dea39c-e4c4-4b08-b62b-aff090ccf377",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "methods"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 7
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Методы создания",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Методы создания",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "b0ae8cf6-f1b9-4c47-8e2d-e8cefc366b39",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "elements"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 8
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Элементы благоустройства",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Элементы благоустройства",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "4483e3ab-8bf4-4615-948d-8781144722c8",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "stages"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 9
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Этапы благоустройства",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Этапы благоустройства",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "2eadbedf-7798-40d9-9561-7f7833327fc1",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "sociocultural-programming"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 10
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Социокультурное программирование",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Социокультурное программирование",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "cbd51ee4-565b-4620-b72e-f587a19279e5",
+      "cover": "cbd51ee4-565b-4620-b72e-f587a19279e5_cover.webp",
+      "properties": {
+        "pageUrl": {
+          "id": "%3Ez%7DR",
+          "type": "url",
+          "url": "urban-elements"
+        },
+        "Published": {
+          "id": "B%5C~j",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "previewPattern": [
+          "cbd51ee4-565b-4620-b72e-f587a19279e5_previewPattern_0.webp"
+        ],
+        "order": {
+          "id": "SaHT",
+          "type": "number",
+          "number": 50
+        },
+        "publishedDate": {
+          "id": "eX%60%3B",
+          "type": "date",
+          "date": {
+            "start": "2020-09-06",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Created": {
+          "id": "h%7Cd%3E",
+          "type": "created_time",
+          "created_time": "2022-05-04T20:22:00.000Z"
+        },
+        "subtitle": {
+          "id": "jhb_",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "color": {
+          "id": "o%60%3E%40",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "#55647d",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "#55647d",
+              "href": null
+            }
+          ]
+        },
+        "pdfUrl": {
+          "id": "pSXB",
+          "type": "url",
+          "url": "https://ekaterinburg.design/files/ekaterinburg-urban-elements.pdf"
+        },
+        "pdf": [
+          "cbd51ee4-565b-4620-b72e-f587a19279e5_pdf_0.pdf"
+        ],
+        "previewImage": [
+          "cbd51ee4-565b-4620-b72e-f587a19279e5_previewImage_0.svg"
+        ],
+        "status": {
+          "id": "%7Bu%7Bp",
+          "type": "select",
+          "select": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Каталог элементов благоустройства",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Каталог элементов благоустройства",
+              "href": null
+            }
+          ]
+        }
+      },
+      "children": [
+        {
+          "id": "5488e882-78c4-4173-851a-9e157d68cb6e",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "_index"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 1
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Введение",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Введение",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "4d5fed50-471d-482d-8158-67c49357da59",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "glossary"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 2
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Глоссарий",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Глоссарий",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "2422a2d4-07c6-407f-8cd8-6f6636ebb697",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "road-surfaces"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 3
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Покрытия",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Покрытия",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "5e5b2895-acef-4fd6-bf48-6784618ec0c9",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "street-furniture"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 4
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Малые архитектурные формы и городская мебель",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Малые архитектурные формы и городская мебель",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "942262cd-5417-4891-839b-b5490b1f66c3",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "water"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 5
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Водные устройства",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Водные устройства",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "f423993e-c872-43c7-8c05-b33e7fbbe886",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "playgrounds"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 6
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Игровое и спортивное оборудование",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Игровое и спортивное оборудование",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "a582297d-87e4-4b08-b755-693971913381",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "greenery"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 7
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Элементы озеленения",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Элементы озеленения",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "468f0713-9bce-449b-901d-77d150afeb48",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "lighting"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 8
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Элементы освещения",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Элементы освещения",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "aaf0eb40-ecb7-4836-9df5-e81f2e7f9f88",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "street-equipment"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 9
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Уличное коммунально-бытовое и техническое оборудование",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Уличное коммунально-бытовое и техническое оборудование",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "612fd3dc-6ab9-4fa1-af7c-04e5654ae46a",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "fencing"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 10
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Ограждения и ограждающие элементы",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Ограждения и ограждающие элементы",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "e7535143-7795-4625-a6fa-34854e82eb5f",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "infostands"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 11
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Средства размещения информации и рекламные конструкции",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Средства размещения информации и рекламные конструкции",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "43e1d0f3-2713-4755-9038-f180b0711b18",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "non-capital"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 12
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Некапитальные строения, сооружения",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Некапитальные строения, сооружения",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "d322a36b-21ab-4e40-9186-4205813263e2",
+      "cover": "d322a36b-21ab-4e40-9186-4205813263e2_cover.webp",
+      "properties": {
+        "pageUrl": {
+          "id": "%3Ez%7DR",
+          "type": "url",
+          "url": "streets"
+        },
+        "Published": {
+          "id": "B%5C~j",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "previewPattern": [
+          "d322a36b-21ab-4e40-9186-4205813263e2_previewPattern_0.svg"
+        ],
+        "order": {
+          "id": "SaHT",
+          "type": "number",
+          "number": 60
+        },
+        "publishedDate": {
+          "id": "eX%60%3B",
+          "type": "date",
+          "date": {
+            "start": "2021-07-05",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Created": {
+          "id": "h%7Cd%3E",
+          "type": "created_time",
+          "created_time": "2022-05-21T16:38:00.000Z"
+        },
+        "subtitle": {
+          "id": "jhb_",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Стандарт комплексного благоустройства объектов улично-дорожной сети Екатеринбурга",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Стандарт комплексного благоустройства объектов улично-дорожной сети Екатеринбурга",
+              "href": null
+            }
+          ]
+        },
+        "color": {
+          "id": "o%60%3E%40",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "#68c066",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "#68c066",
+              "href": null
+            }
+          ]
+        },
+        "pdfUrl": {
+          "id": "pSXB",
+          "type": "url",
+          "url": "https://ekaterinburg.design/files/ekaterinburg-streets-guide.pdf"
+        },
+        "pdf": [
+          "d322a36b-21ab-4e40-9186-4205813263e2_pdf_0.pdf"
+        ],
+        "previewImage": [
+          "d322a36b-21ab-4e40-9186-4205813263e2_previewImage_0.svg"
+        ],
+        "status": {
+          "id": "%7Bu%7Bp",
+          "type": "select",
+          "select": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Улицы Екатеринбурга",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Улицы Екатеринбурга",
+              "href": null
+            }
+          ]
+        }
+      },
+      "children": [
+        {
+          "id": "6c0b5316-8621-4002-aa16-d3634e080e90",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "general"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 1
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Общие положения",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Общие положения",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "c00b6da5-ffbf-4f6b-8720-9522d8446325",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "road-network"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 2
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Типология улично-дорожной сети города Екатеринбург",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Типология улично-дорожной сети города Екатеринбург",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "d782d9c8-40d6-4d0b-956e-69e177de75ed",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "cross-profiles"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 3
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Принципиальные решения по поперечным профилям участков улиц",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Принципиальные решения по поперечным профилям участков улиц",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "e519a189-5d53-4044-9f2f-0dc992d2f352",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "landscaping"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 4
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Наполнение функциональных зон элементами благоустройства и требования к элементам поперечного профиля",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Наполнение функциональных зон элементами благоустройства и требования к элементам поперечного профиля",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "0c3c96d6-a88a-4e54-ad68-6c3ee32e6415",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "couplings-units"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 5
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Типовые решения сопряжений и узлов",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Типовые решения сопряжений и узлов",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "0bac76d2-5391-46fe-bc28-4c98c362ad83",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "complex-development"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 6
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Рекомендации по разработке проекта комплексного благоустройства",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Рекомендации по разработке проекта комплексного благоустройства",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "ccd4517f-b1d6-455e-a830-308dbc1fbb41",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "operation"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 7
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Рекомендации по эксплуатации реализованного объекта благоустройства",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Рекомендации по эксплуатации реализованного объекта благоустройства",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "126dcd3e-7640-41d6-92e2-c610b999241d",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "links"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 8
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Список литературы, ссылки на нормативную литературу",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Список литературы, ссылки на нормативную литературу",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "c02e663a-61e3-44d6-a9a5-1503d87a40c2",
+      "cover": "c02e663a-61e3-44d6-a9a5-1503d87a40c2_cover.webp",
+      "properties": {
+        "pageUrl": {
+          "id": "%3Ez%7DR",
+          "type": "url",
+          "url": "design-code"
+        },
+        "Published": {
+          "id": "B%5C~j",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "previewPattern": [
+          "c02e663a-61e3-44d6-a9a5-1503d87a40c2_previewPattern_0.webp"
+        ],
+        "order": {
+          "id": "SaHT",
+          "type": "number",
+          "number": 70
+        },
+        "publishedDate": {
+          "id": "eX%60%3B",
+          "type": "date",
+          "date": {
+            "start": "2016-01-01",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Created": {
+          "id": "h%7Cd%3E",
+          "type": "created_time",
+          "created_time": "2022-05-21T17:34:00.000Z"
+        },
+        "subtitle": {
+          "id": "jhb_",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "color": {
+          "id": "o%60%3E%40",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "#cb884c",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "#cb884c",
+              "href": null
+            }
+          ]
+        },
+        "pdfUrl": {
+          "id": "pSXB",
+          "type": "url",
+          "url": "https://ekaterinburg.design/files/ekaterinburg-design-code.pdf"
+        },
+        "pdf": [
+          "c02e663a-61e3-44d6-a9a5-1503d87a40c2_pdf_0.pdf"
+        ],
+        "previewImage": [
+          "c02e663a-61e3-44d6-a9a5-1503d87a40c2_previewImage_0.svg"
+        ],
+        "status": {
+          "id": "%7Bu%7Bp",
+          "type": "select",
+          "select": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Дизайн-код фасадов и вывесок",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Дизайн-код фасадов и вывесок",
+              "href": null
+            }
+          ]
+        }
+      },
+      "children": [
+        {
+          "id": "9e78d220-0491-4509-8cc1-1aa5b0c428ab",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "_index"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 1
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Общие положения",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Общие положения",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "b6e8e893-f572-4dce-a081-482001a38402",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "recommendation"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 2
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Таблица\nрекомендаций",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Таблица\nрекомендаций",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "18ec87ed-a485-4426-be38-8951b9399af0",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "signboards"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 3
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Вывески",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Вывески",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "535791c6-8cd6-41e4-812f-e6386aa1231e",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "optional-equipment"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 4
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Дополнительное оборудование",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Дополнительное оборудование",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "7b5f9e40-6ca9-440b-b801-5387a9fec87e",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "decoration"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 5
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Отделка фасада",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Отделка фасада",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "5ec735b7-f030-4a19-a34e-dcfc32a0973b",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "elements"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 6
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Конструктивные элементы фасада",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Конструктивные элементы фасада",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "6ddf71a5-8d5f-47e4-b101-22a7993b7fd6",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "centers"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 7
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Торговые и бизнес-центры",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Торговые и бизнес-центры",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "19816cba-dfd2-4588-adcc-a7069f40486b",
+      "cover": "19816cba-dfd2-4588-adcc-a7069f40486b_cover.webp",
+      "properties": {
+        "pageUrl": {
+          "id": "%3Ez%7DR",
+          "type": "url",
+          "url": "street-name-plates"
+        },
+        "Published": {
+          "id": "B%5C~j",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "previewPattern": [
+          "19816cba-dfd2-4588-adcc-a7069f40486b_previewPattern_0.webp"
+        ],
+        "order": {
+          "id": "SaHT",
+          "type": "number",
+          "number": 80
+        },
+        "publishedDate": {
+          "id": "eX%60%3B",
+          "type": "date",
+          "date": {
+            "start": "2023-02-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Created": {
+          "id": "h%7Cd%3E",
+          "type": "created_time",
+          "created_time": "2022-11-18T16:28:00.000Z"
+        },
+        "subtitle": {
+          "id": "jhb_",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "color": {
+          "id": "o%60%3E%40",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "#1f4794",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "#1f4794",
+              "href": null
+            }
+          ]
+        },
+        "pdfUrl": {
+          "id": "pSXB",
+          "type": "url",
+          "url": "https://ekaterinburg.design/files/ekaterinburg-street-name-plates-guide.pdf"
+        },
+        "pdf": [],
+        "previewImage": [
+          "19816cba-dfd2-4588-adcc-a7069f40486b_previewImage_0.webp"
+        ],
+        "status": {
+          "id": "%7Bu%7Bp",
+          "type": "select",
+          "select": {
+            "id": "969bc9e8-24fe-4379-abc9-3b9e7cd84229",
+            "name": "Новое",
+            "color": "blue"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Адресные таблички",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Адресные таблички",
+              "href": null
+            }
+          ]
+        }
+      },
+      "children": [
+        {
+          "id": "5604e072-5f79-4708-b909-4b7ce49a46f7",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "cFkb",
+              "type": "url",
+              "url": "general-provisions"
+            },
+            "order": {
+              "id": "dx%3FB",
+              "type": "number",
+              "number": 1
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Введение",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Введение",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "c623971b-5aae-4e3c-80aa-5991e012afe2",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "cFkb",
+              "type": "url",
+              "url": "design"
+            },
+            "order": {
+              "id": "dx%3FB",
+              "type": "number",
+              "number": 2
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Рекомендации по дизайну адресных табличек",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Рекомендации по дизайну адресных табличек",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "02d28fb7-28d5-4d5e-90bb-b6455ef207db",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "cFkb",
+              "type": "url",
+              "url": "placement"
+            },
+            "order": {
+              "id": "dx%3FB",
+              "type": "number",
+              "number": 3
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Рекомендации по размещению адресных табличек на фасадах зданий",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Рекомендации по размещению адресных табличек на фасадах зданий",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "6d667d21-4b96-421c-9ffb-1ada037a8c3f",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "cFkb",
+              "type": "url",
+              "url": "how-to-update"
+            },
+            "order": {
+              "id": "dx%3FB",
+              "type": "number",
+              "number": 4
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Процесс согласования и установки новой адресной таблички",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Процесс согласования и установки новой адресной таблички",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "31490634-a5a1-41d0-bb78-067fb1894c16",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "cFkb",
+              "type": "url",
+              "url": "generator"
+            },
+            "order": {
+              "id": "dx%3FB",
+              "type": "number",
+              "number": 5
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Онлайн-генератор",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Онлайн-генератор",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "9591bd80-86ee-4081-b568-3493cc605339",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "cFkb",
+              "type": "url",
+              "url": "credits"
+            },
+            "order": {
+              "id": "dx%3FB",
+              "type": "number",
+              "number": 6
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Авторы",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Авторы",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "5f2b88c4-f21f-4bdf-b14a-19dc132f67d1",
+      "cover": "5f2b88c4-f21f-4bdf-b14a-19dc132f67d1_cover.webp",
+      "properties": {
+        "pageUrl": {
+          "id": "%3Ez%7DR",
+          "type": "url",
+          "url": "city-centre-design-code"
+        },
+        "Published": {
+          "id": "B%5C~j",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "previewPattern": [
+          "5f2b88c4-f21f-4bdf-b14a-19dc132f67d1_previewPattern_0.webp"
+        ],
+        "order": {
+          "id": "SaHT",
+          "type": "number",
+          "number": 90
+        },
+        "publishedDate": {
+          "id": "eX%60%3B",
+          "type": "date",
+          "date": {
+            "start": "2023-11-01",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Created": {
+          "id": "h%7Cd%3E",
+          "type": "created_time",
+          "created_time": "2023-11-24T17:23:00.000Z"
+        },
+        "subtitle": {
+          "id": "jhb_",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "color": {
+          "id": "o%60%3E%40",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "#b87759",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "#b87759",
+              "href": null
+            }
+          ]
+        },
+        "pdfUrl": {
+          "id": "pSXB",
+          "type": "url",
+          "url": "https://ekaterinburg.design/files/ekaterinburg-city-centre-design-code.pdf"
+        },
+        "pdf": [
+          "5f2b88c4-f21f-4bdf-b14a-19dc132f67d1_pdf_0.pdf"
+        ],
+        "previewImage": [],
+        "status": {
+          "id": "%7Bu%7Bp",
+          "type": "select",
+          "select": {
+            "id": "969bc9e8-24fe-4379-abc9-3b9e7cd84229",
+            "name": "Новое",
+            "color": "blue"
+          }
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Дизайн-код фасадов в туристском центре",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Дизайн-код фасадов в туристском центре",
+              "href": null
+            }
+          ]
+        }
+      },
+      "children": [
+        {
+          "id": "3bf6c8cb-b170-403d-82f5-a0a204158a58",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "general-provisions"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 1
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Общие положения",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Общие положения",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "8730202c-ac98-402a-a406-3a5ba4e6b9ca",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "problems"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 2
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Существующие проблемы при размещении вывесок",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Существующие проблемы при размещении вывесок",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "bb25d433-9692-49fa-9718-479f68f1b678",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "rules"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 3
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Формирование дизайн-кода фасадов и вывесок",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Формирование дизайн-кода фасадов и вывесок",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "545e852a-ed13-42ab-b1e9-057053ce6f8f",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "construction"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 4
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Конструкции вывесок и способы их крепления к фасаду",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Конструкции вывесок и способы их крепления к фасаду",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "40054fc1-b65f-45b6-a436-8816f73752d8",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "implementation"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 5
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Рекомендации по внедрению дизайн-кода фасадов зданий и вывесок",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Рекомендации по внедрению дизайн-кода фасадов зданий и вывесок",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "da9d3cb7-5658-4739-881e-8d9ea183b83a",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "map"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 6
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Карта внедрения дизайн-кода",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Карта внедрения дизайн-кода",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        },
+        {
+          "id": "dd3e3088-1410-47b6-b49a-2282ea48a277",
+          "cover": null,
+          "properties": {
+            "pageUrl": {
+              "id": "VfY_",
+              "type": "url",
+              "url": "authors"
+            },
+            "order": {
+              "id": "cbcq",
+              "type": "number",
+              "number": 7
+            },
+            "Name": {
+              "id": "title",
+              "type": "title",
+              "title": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Авторы",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Авторы",
+                  "href": null
+                }
+              ]
+            }
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

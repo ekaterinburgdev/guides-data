@@ -1,0 +1,2858 @@
+{
+  "id": "8730202c-ac98-402a-a406-3a5ba4e6b9ca",
+  "type": "page",
+  "content": {
+    "title": "Существующие проблемы при размещении вывесок"
+  },
+  "children": [
+    {
+      "id": "39b1e0b6-040e-45c7-9f09-cea28ea90cc1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "По итогам проведённого анализа содержания фасадов зданий выявлено, что размещение вывесок, рекламных конструкций, адресных табличек и других элементов не имеет комплексного характера.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "По итогам проведённого анализа содержания фасадов зданий выявлено, что размещение вывесок, рекламных конструкций, адресных табличек и других элементов не имеет комплексного характера.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9f448fed-bf99-4c66-981f-d3c4ced4c175",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Различные варианты дизайна, стилей и размеров элементов приводят к созданию визуального шума, который ухудшает и искажает восприятие архитектуры зданий. Также при отсутствии дизайн-кода фасадов зданий с едиными взаимосвязанными требованиями по размещению информационных конструкций, рекламы и адресных табличек, они размещаются без учёта архитектурных элементов фасадов зданий. Всё это создаёт некомфортную визуальную среду, которая отталкивает людей от проведения времени на улице и посещения коммерческих точек в зданиях.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Различные варианты дизайна, стилей и размеров элементов приводят к созданию визуального шума, который ухудшает и искажает восприятие архитектуры зданий. Также при отсутствии дизайн-кода фасадов зданий с едиными взаимосвязанными требованиями по размещению информационных конструкций, рекламы и адресных табличек, они размещаются без учёта архитектурных элементов фасадов зданий. Всё это создаёт некомфортную визуальную среду, которая отталкивает людей от проведения времени на улице и посещения коммерческих точек в зданиях.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 20,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вывески",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вывески",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "eccad650-1190-4fa1-8a0a-308e8e9bede3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Несомасштабный размер вывески нарушает архитектурное решение архитектуры здания.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Несомасштабный размер вывески нарушает архитектурное решение архитектуры здания.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "70b00441-6636-4216-b773-257fcd3fc5a1",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "c309e32b-0ac5-49e6-ae7e-46dc5d3e1341",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "bcea0d41-0080-4604-84db-6d4642bdcaad",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/bcea0d41-0080-4604-84db-6d4642bdcaad.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1354498b-ff9c-43b1-be3d-eeba95480971",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "91ab931a-f3b7-496c-867b-37400ab370d8",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/91ab931a-f3b7-496c-867b-37400ab370d8.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e76380a6-db85-4861-9324-3e58cba7b46f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "aa50d9d3-e607-46a7-8aec-3f85b843789e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Цвета вывесок не соответствуют колористическому решению фасада.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Цвета вывесок не соответствуют колористическому решению фасада.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "86d5bff7-04e8-4a40-b55b-1d7c5522f35b",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "18b96c92-1413-46a5-bd61-b68c36f7f629",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.33333333333333337
+          },
+          "children": [
+            {
+              "id": "0a04dc1e-64e3-46bd-90e3-5f91a54b5b66",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/0a04dc1e-64e3-46bd-90e3-5f91a54b5b66.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "be25ca53-ac78-4a5b-a71c-85b0851f2dac",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.33333333333333337
+          },
+          "children": [
+            {
+              "id": "3ddd7cf3-fbef-4423-bdd9-b328d42b4678",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/3ddd7cf3-fbef-4423-bdd9-b328d42b4678.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e43887e1-bb05-4103-9f5d-25697d0f2df4",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.3333333333333333
+          },
+          "children": [
+            {
+              "id": "dc760561-26e4-4ad7-acb7-592a21e9e276",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/dc760561-26e4-4ad7-acb7-592a21e9e276.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ace1d82a-a0c1-4b11-a5ba-efd751159921",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d98a40a2-851a-42cc-9b5d-9750a2a42009",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Подложки вывесок являются фрагментарной облицовкой фасадов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Подложки вывесок являются фрагментарной облицовкой фасадов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0411cc18-9ac0-43d2-95a9-c82ab0e0d7c1",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "5b7ebb1d-1227-4d58-9743-05432674debd",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "e9bb5bd6-eccf-443a-962f-0b9831f7d7bf",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/e9bb5bd6-eccf-443a-962f-0b9831f7d7bf.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c5d88cf8-ef0c-4f5a-b249-659c1d62ae2b",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "4a745a24-0db4-4118-860f-37690b65cdb6",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/4a745a24-0db4-4118-860f-37690b65cdb6.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "935d3f7f-d71e-43d7-affa-a775922db458",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "45616dab-1b1c-4072-bbba-c4c7f7b9c29c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Группы вывесок, размещенные вне системы горизонтальных и вертикальных осей, различные по размеру, цвету, стилю, не соответствуют архитектурному решению здания и теряются для прохожих, не вызывают доверия для посещения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Группы вывесок, размещенные вне системы горизонтальных и вертикальных осей, различные по размеру, цвету, стилю, не соответствуют архитектурному решению здания и теряются для прохожих, не вызывают доверия для посещения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0ed2c65a-0fd7-4fcc-8058-a6610bc775bb",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "ed449013-70c3-4323-ae03-b251e89bd39f",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5000000000000001
+          },
+          "children": [
+            {
+              "id": "6158b347-a448-4c42-a052-5d15df1a996d",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/6158b347-a448-4c42-a052-5d15df1a996d.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "5ae9995b-b133-427b-9502-ce1767218905",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/5ae9995b-b133-427b-9502-ce1767218905.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e6e59fbd-0b16-4cb0-9fb2-81356ee3589f",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "37db43eb-3340-494e-8292-81f795c10578",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/37db43eb-3340-494e-8292-81f795c10578.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11c28fb2-4c2a-465e-9f3f-d501b2c7d159",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1e68dccd-d72c-4b2f-962c-67ed1b96e888",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Электронные носители (бегущие строки и медиа-экраны) создают визуальный шум.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Электронные носители (бегущие строки и медиа-экраны) создают визуальный шум.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "10131f06-8b31-4280-92aa-a01970be2ea0",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "c34f2e1b-5974-4590-9f2d-d28ab2671553",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "80964c36-c7c8-46a0-b723-54bb7b556f84",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/80964c36-c7c8-46a0-b723-54bb7b556f84.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c8bc394e-c3c9-44a1-bd6d-cf804c87e213",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "d8e9311a-2891-452f-ac9a-c0520faa36e8",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/d8e9311a-2891-452f-ac9a-c0520faa36e8.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d9b06d67-55fa-4690-a250-782c691d2e7c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "42afe81d-d30c-4ef4-a395-58e2e28bec48",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Знаки несомасштабного с архитектурой размера нарушают внешний вид фасада.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Знаки несомасштабного с архитектурой размера нарушают внешний вид фасада.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7fe66b56-1d1b-42ff-87c4-26055544d52c",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "b371ae9e-6146-46d9-a46b-56e69d7cc24d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "16619682-dfff-4bc2-9dde-32ddb08f22e1",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/16619682-dfff-4bc2-9dde-32ddb08f22e1.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "414632dd-f4ba-479c-af49-69f6e54961f5",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "c426aa5f-89be-4f08-a3e1-454b45891079",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/c426aa5f-89be-4f08-a3e1-454b45891079.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dcaea9a6-5c39-4cd6-9137-db381036237c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "047f87f8-755f-4e97-8b3c-391c923210fb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение на одном козырьке вывесок с разными подложками, размерами и стилями создаёт визуальный шум.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение на одном козырьке вывесок с разными подложками, размерами и стилями создаёт визуальный шум.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "534d9db0-2bcb-4562-873b-d185deaa4b6f",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/534d9db0-2bcb-4562-873b-d185deaa4b6f.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "49b5619a-7c2d-4cea-9adb-2d86edea6777",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "f71269f1-81c9-4d0e-869e-de51c1c6a1b6",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5000000000000001
+          },
+          "children": [
+            {
+              "id": "5b68fb40-eddf-446a-83f2-a6057143f353",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/5b68fb40-eddf-446a-83f2-a6057143f353.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "217b5186-7a83-4753-9779-f9634d6f9fce",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "427ef1a0-56b4-43be-9f58-e133fc7e87e1",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/427ef1a0-56b4-43be-9f58-e133fc7e87e1.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a266f78e-960c-4a99-b615-25d9b6706672",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "79e77662-5ee0-4dd5-ae9f-a7fed9567cd6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рейлы для крепления вывесок создают визуальный шум, делают вывески непривлекательными.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рейлы для крепления вывесок создают визуальный шум, делают вывески непривлекательными.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ce762fd0-11aa-4fe5-ac62-123d23cffc70",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "2b87d99a-70cf-41d0-95d7-20a723003aef",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "c6c8dfab-be31-45da-aab1-6df7c113128c",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/c6c8dfab-be31-45da-aab1-6df7c113128c.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "59edaf80-2c8c-4965-bf52-4f7e635f440f",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "901a0c55-96a8-4992-a575-05b9b6092cc6",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/901a0c55-96a8-4992-a575-05b9b6092cc6.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4996af3d-4d6f-47d0-a29b-ef2bbf7cb85b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b1eef2a6-d029-4d80-93b7-15ee96a20f4a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Дублирование вывесок создаёт визуальный шум.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Дублирование вывесок создаёт визуальный шум.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fb1ccabd-c174-46bb-b7f6-c312a6470e29",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "4bf0c0bd-536a-43c8-825a-464ce414fa3d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "f0bef20a-b46e-4740-aaa2-955b4ad74e0c",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/f0bef20a-b46e-4740-aaa2-955b4ad74e0c.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d5c2d95f-1edd-45e1-b20d-7fa1781beb45",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "712b3f08-954d-4425-8ba2-fca14d4b0515",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/712b3f08-954d-4425-8ba2-fca14d4b0515.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6f213679-32cc-49e0-8f47-a179d7f47b40",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e0138b44-d332-4b98-bb7c-c3117cbe5a6b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Использование настенной и консольной вывески одновременно создаёт визуальный шум.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Использование настенной и консольной вывески одновременно создаёт визуальный шум.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8362517d-0952-4fb2-ad67-cddfb63165cf",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "be841b30-04bf-4394-8ac1-db9eede8a80c",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "e1cd3278-3b31-4db7-af67-8047bdacb412",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/e1cd3278-3b31-4db7-af67-8047bdacb412.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e4f6b6e0-73b4-4276-8e9e-9bba96e3b0b6",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "ba69be9e-129d-41c1-a990-1bedd50e90a3",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/ba69be9e-129d-41c1-a990-1bedd50e90a3.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b4624645-8c9a-4ddc-8237-9301f34a37a1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c10ddcb0-e7f3-411f-b0d9-7447f86ae801",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Выступающие вывески нарушают объёмно-планировочное решение здания.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Выступающие вывески нарушают объёмно-планировочное решение здания.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c02e5534-69ac-47d8-9dc6-7f5617c96b37",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "e28dbf48-afd1-44fb-80fc-2a45f8f3b406",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "cb7a6d22-ebd6-4afb-b0f6-9dbb02c00022",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/cb7a6d22-ebd6-4afb-b0f6-9dbb02c00022.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "21c4b721-271e-406d-89e3-08eacc5c95be",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "4e75fc4e-1313-4ac6-a7ff-47b51cf40fbf",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/4e75fc4e-1313-4ac6-a7ff-47b51cf40fbf.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6251d77e-dd36-4dfc-a331-5e41faaf1d20",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1397aecb-f2d2-49fc-9d32-85fb372d77a4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение баннеров, вывесок и табличек нарушает архитектурное решение здания.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение баннеров, вывесок и табличек нарушает архитектурное решение здания.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ccce20da-f98d-4a55-adff-9d161929094f",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "0ae9aa9b-ae35-465e-8cef-1d72fd988e36",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "0763ef84-5e00-4d64-aeb8-4641856fb6c1",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/0763ef84-5e00-4d64-aeb8-4641856fb6c1.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79e14edb-1acc-4b9c-a71e-fbd956318bd3",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "53579ead-0a9e-45bc-ac06-a338db2ec1a9",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/53579ead-0a9e-45bc-ac06-a338db2ec1a9.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b78c4c30-a62e-4130-a3f4-1ffae19ad749",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2968479b-a0f8-4dd1-95bd-912a8bc5efe2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Консольные вывески, несомасштабного с архитектурными элементами размера, ухудшают визуальное восприятие фасада.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Консольные вывески, несомасштабного с архитектурными элементами размера, ухудшают визуальное восприятие фасада.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "508cedbe-85fe-42a8-9bab-2962abf6cf19",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "40712ac6-e7f5-4ed9-93a6-bbe23c845003",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "f2d7c5d3-755f-48a8-9d30-a8619cb50b4e",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/f2d7c5d3-755f-48a8-9d30-a8619cb50b4e.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "98b441f1-c0b2-4f1b-ab35-8abe421e74c9",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "9409f250-064b-4082-b889-168671562ea7",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/9409f250-064b-4082-b889-168671562ea7.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bb099653-2352-437e-971c-7ac5a3e4ca99",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "64503305-5d3f-4a0f-a7c4-af0b3b3e6d7f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вывески на крыше и другие накрышные конструкции нарушают архитектурный облик зданий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вывески на крыше и другие накрышные конструкции нарушают архитектурный облик зданий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fa7a8d72-2390-4b8a-8954-0bdddbc3d467",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/fa7a8d72-2390-4b8a-8954-0bdddbc3d467.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "fc6fc4c6-8f2c-4bdd-adb1-04c24ba00584",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "cfcecb38-ff04-4554-8d3e-60fb8d12a3c8",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "0d7bd63e-5ed5-47cf-9548-762cb4625580",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/0d7bd63e-5ed5-47cf-9548-762cb4625580.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1e5bf8c6-4201-4224-89df-1e9a928d4551",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "e501e48e-e323-4977-a919-3bd18d466370",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/e501e48e-e323-4977-a919-3bd18d466370.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5e02984-9ddb-4be3-b6b8-314aea62a8e4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5cae75bf-9806-4a61-823b-ed684c469d17",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Несанкционированные, сломанные, испорченные вывески нарушают архитектурный облик зданий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Несанкционированные, сломанные, испорченные вывески нарушают архитектурный облик зданий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5df6d32c-2694-4adc-9f87-0279a255723b",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "550a3ad3-60b3-4593-ae7c-5cda74f83d4e",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "3bc4cb66-802c-495b-b49c-01b4d559c55e",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/3bc4cb66-802c-495b-b49c-01b4d559c55e.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cace2304-186a-42f2-986b-79fa7faab91d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "c41ba606-bb14-4d13-8135-3f32cef07f55",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/c41ba606-bb14-4d13-8135-3f32cef07f55.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a6fb6941-803e-44b9-b4bc-f8eb94ecb593",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 38,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Детали фасада",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Детали фасада",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "91314602-9df4-4e40-80d5-6c3573f43b4a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Фрагментарная облицовка фасада не соответствует архитектурно-колористическому решению фасадов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Фрагментарная облицовка фасада не соответствует архитектурно-колористическому решению фасадов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5061a382-c921-4bf6-8bd4-1a7b5d33cadd",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "f5cc3bdc-4e84-47e1-94b2-8b0bcf2d033f",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "604d3a1c-b88d-4054-b5cd-de401a21d8d8",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/604d3a1c-b88d-4054-b5cd-de401a21d8d8.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b2f74cc3-b11e-4672-8a4c-a8a98875b277",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "3ae51f79-97cc-4fbe-8f3e-401fcf318c7d",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/3ae51f79-97cc-4fbe-8f3e-401fcf318c7d.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e530705-4fab-4dd1-8d39-ed1cf8acf6fd",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0a6e2d57-731c-4d68-ae67-358df54cc4ff",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение на втором этаже маркиз, баннеров, вывесок создает визуальный шум и фрагментированно перекрывает фасад, что нарушает цельность архитектурного решения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение на втором этаже маркиз, баннеров, вывесок создает визуальный шум и фрагментированно перекрывает фасад, что нарушает цельность архитектурного решения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "be0e2b02-90fc-443d-a37c-5cead243196f",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/be0e2b02-90fc-443d-a37c-5cead243196f.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "8bf3d2e9-1521-45f6-85ba-be591864ec70",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "7c0e527c-6bad-46f5-bf18-7c0f15fb3d2e",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "4f490164-69bd-4d5e-8a5b-4615955defa3",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/4f490164-69bd-4d5e-8a5b-4615955defa3.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "177fde98-2b2c-4620-ac5b-dd16a306791b",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "30e5aad4-e137-4a61-ac2e-97773d3c6b51",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/30e5aad4-e137-4a61-ac2e-97773d3c6b51.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fb8efe21-7781-43d3-a9a2-b31d5e0870db",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fa7b33ef-30f6-4bf2-81de-a9aa21c7280c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Неиспользуемые дополнительные элементы и оборудование на фасадах создают визуальный шум.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Неиспользуемые дополнительные элементы и оборудование на фасадах создают визуальный шум.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "43e853ec-ca4b-40db-a42f-1b01368beb52",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/43e853ec-ca4b-40db-a42f-1b01368beb52.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "064ad829-c04a-4411-9ca1-e7d597f162a1",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/064ad829-c04a-4411-9ca1-e7d597f162a1.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "154268a4-d68f-49db-ba94-d8703c84b787",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "adf3eb0a-f82d-4254-a754-e2a4d78532fe",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Самовольное размещение конструктивных элементов фасада нарушает объёмно-планировочное решение зданий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Самовольное размещение конструктивных элементов фасада нарушает объёмно-планировочное решение зданий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9dcb35c6-656b-4ee4-9b7f-005bb979c8d6",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "515595c6-d3bc-4243-b9a3-265dd786403e",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "134c11cd-1cff-40c9-ae85-16118944d350",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/134c11cd-1cff-40c9-ae85-16118944d350.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b40ada3c-0583-4dcd-9bda-c0dc668bcbcd",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "aaa03ee8-d604-460c-94a2-82d8258e3f46",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/aaa03ee8-d604-460c-94a2-82d8258e3f46.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eb074042-384c-42e1-bc3c-5d226f829243",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "43782635-f3cd-42c7-ba84-21a4240857f6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение наружных блоков систем кондиционирования и вентиляции на лицевых фасадах создает визуальный шум и нарушает требования к содержанию фасадов зданий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение наружных блоков систем кондиционирования и вентиляции на лицевых фасадах создает визуальный шум и нарушает требования к содержанию фасадов зданий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d225053f-5b91-48dd-9ae3-879321cdff7e",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "4368fad1-7b2e-460f-a2bc-96f5d0fc1c74",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "38127e63-781b-4c6e-98c5-10762b7f77c2",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/38127e63-781b-4c6e-98c5-10762b7f77c2.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "98b153e1-5064-43f9-86d7-e28d8fe516fb",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "fbb187c0-9e58-4ba5-b86d-20d4eead0b86",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/fbb187c0-9e58-4ba5-b86d-20d4eead0b86.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13bee447-0cea-45cb-85ba-4fd3489fe0de",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f4844f5a-9bdd-4dd4-abc7-6fc91e21cbd6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Водосточные трубы, не соответствующие архитектурно-колористическому решению фасада, создают визуальный шум.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Водосточные трубы, не соответствующие архитектурно-колористическому решению фасада, создают визуальный шум.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "92fc23fa-d7b9-4eec-b5ed-adb1663e8408",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "b03e25e5-5292-4e7a-be6f-dcd5caef7c41",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "682d962f-c0a7-45ca-aa7d-5fc0e92cecc5",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/682d962f-c0a7-45ca-aa7d-5fc0e92cecc5.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "adb73d5c-ab59-4c6d-92e2-4fa3732d6476",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "8fb1c857-dbfe-4c8a-852b-c73e74eb637c",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/8fb1c857-dbfe-4c8a-852b-c73e74eb637c.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "628703ec-a4c6-4122-ac0a-ea93f446bba7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "402ea3ca-60fa-4a9a-969d-1f7ee3ba4879",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Фрагментарная окраска фасада создаёт визуальный шум и не соответствует архитектурно-колористическому решению фасада.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Фрагментарная окраска фасада создаёт визуальный шум и не соответствует архитектурно-колористическому решению фасада.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "87e52521-91df-4c6e-957a-30fe3562a00f",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/87e52521-91df-4c6e-957a-30fe3562a00f.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "fe9a87d4-1880-4b0e-b7ef-63b8cc166458",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4cc36f32-6a8c-4236-872c-e3e42ceb3dec",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение адресных табличек нарушает архитектурное решение фасадов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение адресных табличек нарушает архитектурное решение фасадов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ea879302-c9c4-451e-a9fc-7c674ca7442d",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/ea879302-c9c4-451e-a9fc-7c674ca7442d.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "c5df0561-5797-40f4-a33e-036320f41c7c",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "4390ae49-c866-4011-a957-738fb559c4df",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "6d17eba8-882b-49ff-8f2b-8e3a6ca00294",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/6d17eba8-882b-49ff-8f2b-8e3a6ca00294.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fba0c26e-00f1-41b8-a01b-66b194509fc7",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "9de417c8-e26b-4669-8433-1f754e79823d",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/9de417c8-e26b-4669-8433-1f754e79823d.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9151dd35-3fdc-4e9c-84d9-65d3f0d648bd",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "13459bc1-3750-41c4-8352-6dadeaf5deaa",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Баннеры и брандмауэры фрагментарно или полностью перекрывают фасады зданий и нарушают их внешних архитектурных облик.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Баннеры и брандмауэры фрагментарно или полностью перекрывают фасады зданий и нарушают их внешних архитектурных облик.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "03e34a7c-c3e0-4304-820a-9cbae1e09a05",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/03e34a7c-c3e0-4304-820a-9cbae1e09a05.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "0c3ce97e-2d0a-45d6-892c-2a2c11f06069",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "57a6e652-3e0e-4fa8-8935-9fe932a8dcd9",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "a7c9a4ba-a8ed-467b-ac88-82ff69c9009e",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/a7c9a4ba-a8ed-467b-ac88-82ff69c9009e.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b1dd878a-4c4e-4b5c-8bc1-777c752441ea",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5000000000000001
+          },
+          "children": [
+            {
+              "id": "a384c814-5aee-4de0-88e2-f0d89c742198",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/a384c814-5aee-4de0-88e2-f0d89c742198.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ebce3905-3de7-4916-9ea7-c0ae80454e3e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9c783224-aebb-4e54-bde7-258ae73584a0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Навесы, маркизы фрагментарно перекрывают фасады и создают визуальный шум.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Навесы, маркизы фрагментарно перекрывают фасады и создают визуальный шум.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "27644bb3-bd80-44cf-8b59-5a858a6fc9b4",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "938dba90-a111-4534-9a9e-a60d0ce27500",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "d0933e2f-5061-4d6e-b975-da517d889018",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/d0933e2f-5061-4d6e-b975-da517d889018.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7a834b20-f94c-4cc1-b741-40f65f6f9fa0",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "24dcb6cc-b724-4307-b6d0-eed7581631c8",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/24dcb6cc-b724-4307-b6d0-eed7581631c8.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "726fce83-3529-4344-889a-6261db2eb1fd",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 40,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вывески и реклама на остеклении",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вывески и реклама на остеклении",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d9d83d28-fc7c-4338-b907-e99071876e34",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Заполнение более 20 % площади окон и витрин создают визуальный шум.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Заполнение более 20 % площади окон и витрин создают визуальный шум.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f5d33646-2147-4a87-88b3-54a6422b8abe",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/f5d33646-2147-4a87-88b3-54a6422b8abe.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "af638d47-4f87-4fea-9d97-ed404bc22d0d",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "98f882bb-7f58-4a59-82f7-28e8c894dea4",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5000000000000001
+          },
+          "children": [
+            {
+              "id": "fce0b00a-1def-44f0-9b5f-ea36ddcba7ee",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/fce0b00a-1def-44f0-9b5f-ea36ddcba7ee.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4b29baf6-1c38-4fe7-a2af-1e3540b3d566",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.49999999999999994
+          },
+          "children": [
+            {
+              "id": "699e7e22-65f5-46d0-b523-5a2fcacdcd0b",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/699e7e22-65f5-46d0-b523-5a2fcacdcd0b.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "efb94175-4177-4e40-b21b-0a719bf738ff",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3fb86d4e-c145-4cb7-a10b-fd2d69f5f7e3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Бессистемное заполнение окон и витрин создаёт визуальный шум.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Бессистемное заполнение окон и витрин создаёт визуальный шум.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "739d1738-9d7f-4095-b8c0-9a4e13662f47",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "7186759a-dcf8-4e45-98a5-9a0f026267cd",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "0784e6b7-c039-483a-a81e-73cf7beac5bc",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/0784e6b7-c039-483a-a81e-73cf7beac5bc.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "dec11795-a513-4764-b498-e028f04f0a52",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "0310b3c2-5862-493f-9b3c-717fd879eb9b",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/0310b3c2-5862-493f-9b3c-717fd879eb9b.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3a111d84-0aac-4726-9221-a92a26224070",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 43,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Входные группы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Входные группы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1bb1a4f9-f2a2-4421-bbef-3d6b9ac88cf0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пристроенные входные группы нарушают объёмно-планировочное решение здания зданий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Пристроенные входные группы нарушают объёмно-планировочное решение здания зданий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "dd8d6fbd-45bc-408e-9a2d-38a051a35810",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "c0995642-62b6-4439-994b-c0809307d21e",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "3b7e430f-6cf3-46d2-a60a-5025bdfb70c3",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/3b7e430f-6cf3-46d2-a60a-5025bdfb70c3.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8d5d9343-426a-41b2-b346-60bc0228bbd0",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "8cef8550-3169-4887-aa97-6c0470897509",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/8cef8550-3169-4887-aa97-6c0470897509.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0084dbb-67e8-41f6-8184-8f0145d4e63d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d79bfd76-e7ef-4c5a-905b-1d02bc942451",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Бессистемное украшение входных групп создаёт визуальный шум.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Бессистемное украшение входных групп создаёт визуальный шум.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "34f73a1d-c723-46b8-9698-31fe7bb6786c",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "8cd84f66-f5ed-45b1-b93d-96d2e8516fda",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "46d96e28-93ed-462c-85cf-27b9c483e474",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/46d96e28-93ed-462c-85cf-27b9c483e474.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f8aa3234-a6e3-4e03-9da9-fe441908c6fb",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "40363ff0-844f-40f8-9578-324d6b7f3a78",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/40363ff0-844f-40f8-9578-324d6b7f3a78.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9327c4e2-567d-4d0a-811f-c530330859ad",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "73501bf6-4f6f-450f-9631-2dd93deb497c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Бессистемное размещение баннеров фрагментарно закрывает фасады.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Бессистемное размещение баннеров фрагментарно закрывает фасады.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "51cecf03-13c4-44e9-bc2a-5961a3640fb3",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "b4e83a26-538f-4425-aaf8-97dedf8d03b8",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "ce15415a-e687-462f-9140-b634c64aeeaf",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/ce15415a-e687-462f-9140-b634c64aeeaf.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5b307cd5-0aaa-4985-83ba-f7252843d442",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "8b7e91c5-2ee8-475c-aa40-d0837af370d3",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/8b7e91c5-2ee8-475c-aa40-d0837af370d3.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Существующие проблемы при размещении вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Существующие проблемы при размещении вывесок",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 2
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "problems"
+      }
+    },
+    "cover": null
+  }
+}

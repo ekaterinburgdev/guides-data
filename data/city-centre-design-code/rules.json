@@ -1,0 +1,4537 @@
+{
+  "id": "bb25d433-9692-49fa-9718-479f68f1b678",
+  "type": "page",
+  "content": {
+    "title": "Формирование дизайн-кода фасадов и вывесок"
+  },
+  "children": [
+    {
+      "id": "04d598e6-d4ad-46b5-b685-83f7ce584720",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В рамках данного документа в качестве основы для формирования дизайн-кода принимается ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В рамках данного документа в качестве основы для формирования дизайн-кода принимается ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "официальный стандарт января 2016 года",
+              "link": {
+                "url": "https://guides.ekaterinburg.city/design-code"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "официальный стандарт января 2016 года",
+            "href": "https://guides.ekaterinburg.city/design-code"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", который дополняется следующим образом.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", который дополняется следующим образом.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 8,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размеры настенных вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размеры настенных вывесок",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f2b98f15-1f36-47b7-8984-220952d45645",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размеры вывесок зависят от размеров зданий, которые в свою очередь делятся на малые и большие.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размеры вывесок зависят от размеров зданий, которые в свою очередь делятся на малые и большие.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5a948c30-0ad9-439c-9d2a-cbdc9d5dd518",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/5a948c30-0ad9-439c-9d2a-cbdc9d5dd518.svg"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 9,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Малые здания · (1–3 этажа)",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Малые здания · (1–3 этажа)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "47bc1f65-335c-4dad-9abb-2e7436ff2c95",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "ce26acf6-2572-4b71-802e-9ad63481a004",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "4aa85dac-c436-4071-97ce-2da58238b7ca",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/4aa85dac-c436-4071-97ce-2da58238b7ca.svg"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "67b32865-b257-4220-bfb6-3925c563caf0",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5000000000000001
+          },
+          "children": [
+            {
+              "id": "059ded3d-c666-4607-8028-31897ab4f271",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Для малых зданий используются малые вывески. Максимальные параметры таких вывесок должны быть следующими: высота букв не превышает 30 см, высота знака не превышает 45 см.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Для малых зданий используются малые вывески. Максимальные параметры таких вывесок должны быть следующими: высота букв не превышает 30 см, высота знака не превышает 45 см.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dd8b7099-4e46-490c-bc94-50c6f1634849",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0478d345-8262-4d29-8594-ef67be3829ff",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "0ee57a75-0e73-40ea-9d51-87c670de498d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "938d12e1-c1e4-4777-b88e-1ac46d53b1a5",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Вывеска высотой ~40 см",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Вывеска высотой ~40 см",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/938d12e1-c1e4-4777-b88e-1ac46d53b1a5.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "c96b132c-35df-45d2-97e0-d7d3f4d5a242",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Вывеска слишком большая.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Вывеска слишком большая.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cc1e58c7-2b4f-45dc-a1c6-e3b5d8a31dcd",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "5ac3022d-b0dd-40eb-a4db-9fb9442ca067",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Вывеска высотой ~30 см",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Вывеска высотой ~30 см",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/5ac3022d-b0dd-40eb-a4db-9fb9442ca067.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "44b2d693-f7b0-4617-b455-57ebc1bce2b2",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Хорошо. Вывески оптимального размера.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Хорошо. Вывески оптимального размера.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "checkmark",
+                    "color": "green"
+                  }
+                },
+                "color": "green"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f915232f-c49e-4caf-b002-d4b1a8f3d499",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 10,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Большие здания · (4 и более этажей)",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Большие здания · (4 и более этажей)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "32789138-afd1-4a73-be6f-5e50b46fb426",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "b01172b3-3625-472b-9127-2eb9dde1e09f",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "25fd0a6b-a079-47ff-9661-ad9a2e95de5f",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/25fd0a6b-a079-47ff-9661-ad9a2e95de5f.svg"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "00e8d158-c96d-4cb7-adad-6ef800709bf8",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5000000000000001
+          },
+          "children": [
+            {
+              "id": "bd5c3031-df9f-4de9-8e37-3bedc164ef59",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Для больших зданий предусмотрены укрупнённые вывески. Предельные размеры таких вывесок определены следующим образом: высота букв до 40 см, высота знака до 60 см.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Для больших зданий предусмотрены укрупнённые вывески. Предельные размеры таких вывесок определены следующим образом: высота букв до 40 см, высота знака до 60 см.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05c12cf1-50f1-4786-991e-1887c0da7087",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "28d0f7b4-1f53-4540-9e84-878e8666ee9f",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "cd942710-b109-482c-aa4b-840ca938ad1c",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "c5eb2053-7c74-420a-927d-db728bd52341",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Вывеска высотой ~30 см",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Вывеска высотой ~30 см",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/c5eb2053-7c74-420a-927d-db728bd52341.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "a658afd8-e00b-4397-abb3-114b56bc3b09",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Вывески не сомасштабны архитектуре здания.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Вывески не сомасштабны архитектуре здания.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "24283761-f98b-4c1e-a773-d12c97ec96fc",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5000000000000001
+          },
+          "children": [
+            {
+              "id": "7146fdbb-27f6-433f-aa6c-598fef581de9",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Вывеска высотой ~40 см",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Вывеска высотой ~40 см",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/7146fdbb-27f6-433f-aa6c-598fef581de9.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "380d0809-eff7-4f76-9387-fe47e0313b61",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Хорошо. Вывески оптимального размера.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Хорошо. Вывески оптимального размера.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "checkmark",
+                    "color": "green"
+                  }
+                },
+                "color": "green"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Подстрочники",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Подстрочники",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a48a447f-ef65-483d-b9eb-6ee8c9f97549",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "При наличии места на фасаде допускается добавление подстрочника под основным логотипом торговой точки. Подстрочник не должен перекрывать детали фасада и быть шире основной вывески.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "При наличии места на фасаде допускается добавление подстрочника под основным логотипом торговой точки. Подстрочник не должен перекрывать детали фасада и быть шире основной вывески.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d46184e8-ee59-426a-8d88-5cc14869bff5",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Максимальный размер подстрочника на малых зданиях — 10 см, на больших — 15 см. На более крупных вывесках подстрочник не используется.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Максимальный размер подстрочника на малых зданиях — 10 см, на больших — 15 см. На более крупных вывесках подстрочник не используется.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "14c557a2-24a5-4519-bb8a-90b301c2056c",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/14c557a2-24a5-4519-bb8a-90b301c2056c.svg"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 12,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Колористические решения вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Колористические решения вывесок",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a29847cb-5d3c-4f86-862c-4225bbdba9f1",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "6cf613e8-4fbf-4a4a-a07f-4e3708e6763e",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "ac3843f6-d0f2-461b-a144-d1bd793c1b71",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/ac3843f6-d0f2-461b-a144-d1bd793c1b71.svg"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "480cbbcc-0385-4560-826a-5f35710bcac3",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5000000000000001
+          },
+          "children": [
+            {
+              "id": "d87bca4e-39fa-46f0-9730-67f22ebc194f",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "На всех зданиях расположенных в границах первого пояса туристского центра предусмотрено использование белых настенных вывесок с цветными боковыми гранями.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "На всех зданиях расположенных в границах первого пояса туристского центра предусмотрено использование белых настенных вывесок с цветными боковыми гранями.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4440c5dc-70f0-4c5b-ac5b-7452b0118ff1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "51a34060-a5e1-47b6-9658-d7e1cde46884",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "99d1c6e7-9624-4b80-bfb2-ad80e63d873e",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "2768b2f5-3c31-4765-aaf0-3af2d8e43e6a",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/2768b2f5-3c31-4765-aaf0-3af2d8e43e6a.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "db8ba2db-6e16-4b47-a2cd-063e1567a148",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Цветные вывески создают визуальный шум и перебивают стиль фасада.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Цветные вывески создают визуальный шум и перебивают стиль фасада.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d9799e6e-e05a-4965-ad17-eb4fd64737b2",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "eae610d2-78ee-41c6-9879-8dda5945a29b",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/eae610d2-78ee-41c6-9879-8dda5945a29b.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "687a9f48-abf5-495f-a849-06ff5dec99f4",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Хорошо. Белые вывески с цветными логотипами не создают визуального шума, при этом хорошо считываются.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Хорошо. Белые вывески с цветными логотипами не создают визуального шума, при этом хорошо считываются.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "checkmark",
+                    "color": "green"
+                  }
+                },
+                "color": "green"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "681dd467-cb51-4b60-9da7-20cdc7ecbb82",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8535a1de-5744-4662-9954-b8d4720be00a",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "8ef4c43b-2af5-4021-a0ea-791b3abd8b8b",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "26355328-2362-480f-993e-79fe2514f725",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/26355328-2362-480f-993e-79fe2514f725.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "59dc929d-dff4-4271-910b-651ca21c8865",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5000000000000001
+          },
+          "children": [
+            {
+              "id": "8e73b88a-daba-4c7f-aeeb-0930ba9e8fff",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Допускается использование цветных знаков совместно с белой текстовой частью.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Допускается использование цветных знаков совместно с белой текстовой частью.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "57c2853a-393a-4346-8a41-ef4303d43de0",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "d83c025b-c404-4d9e-9e20-a7b2f63ea966",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "4007144e-068a-4ed7-ac5d-2eaa2f1ff2ed",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/4007144e-068a-4ed7-ac5d-2eaa2f1ff2ed.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "426f2c94-26ea-4f1d-bd49-b4f151e84308",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Вместе с цветным логотипом используется цветная текстовая часть.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Вместе с цветным логотипом используется цветная текстовая часть.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ddafe899-a732-4087-8d1b-1669fca5e29e",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "600321f1-2a55-42bc-92e0-58be5bfbbef5",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/600321f1-2a55-42bc-92e0-58be5bfbbef5.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "83666433-46f5-454e-83fd-51ec10b39270",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Хорошо. Цветной логотип используется вместе с белой текстовой частью.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Хорошо. Цветной логотип используется вместе с белой текстовой частью.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "checkmark",
+                    "color": "green"
+                  }
+                },
+                "color": "green"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение вывесок",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f4fcab54-caa4-4ef6-baa1-c1d3b37ec7e8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение вывесок и других конструкций на крышах зданий не допускается.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение вывесок и других конструкций на крышах зданий не допускается.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "89659e19-d663-4e27-8b87-191fa65dab12",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "258b32df-9064-4013-8af9-65c244bdad4d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "873e95e9-5e0a-476e-a01a-5d46dd31c689",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/873e95e9-5e0a-476e-a01a-5d46dd31c689.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "418e0822-9e04-433a-a0d2-0e238a067b38",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Конструкции на крыше здания создают визуальный шум.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Конструкции на крыше здания создают визуальный шум.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "875063c4-de44-4145-a87b-81f97ef8c848",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "4fb8ce25-3139-4424-bec3-9f6ce5db117f",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/4fb8ce25-3139-4424-bec3-9f6ce5db117f.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "222ac07b-35a4-4920-b56c-e80eac164766",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Хорошо. Фасад выглядит опрятным, от восприятия архитектуры здания ничего не отвлекает.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Хорошо. Фасад выглядит опрятным, от восприятия архитектуры здания ничего не отвлекает.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "checkmark",
+                    "color": "green"
+                  }
+                },
+                "color": "green"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ea66cd61-0236-4632-8702-cc803fa320d3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "20f175f1-296a-4d62-845a-3a429cf98f1a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2e183795-4a0e-47eb-a260-a7d85044e6a8",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "f5aed4ce-b486-429e-9583-b0ae7efb686b",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "193991b5-1e22-4281-b5b8-12b45483dc5b",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/193991b5-1e22-4281-b5b8-12b45483dc5b.svg"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "205c3360-1ec4-4a40-953b-63db7ac8cba0",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5000000000000001
+          },
+          "children": [
+            {
+              "id": "41f1b42a-83a5-4e55-904b-409c94378b83",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "В случае отсутствия подходящего места для размещения вывесок на фасаде, допускается размещение названия организации на остеклении. Оформление производится без подложек, отдельными объёмными буквами или аппликацией.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "В случае отсутствия подходящего места для размещения вывесок на фасаде, допускается размещение названия организации на остеклении. Оформление производится без подложек, отдельными объёмными буквами или аппликацией.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "744321b3-f810-40e9-88b2-fc997eebf47e",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/744321b3-f810-40e9-88b2-fc997eebf47e.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 18,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Конструкции настенных вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Конструкции настенных вывесок",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 19,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Объёмные буквы",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Объёмные буквы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "65766453-e108-439e-8c50-9ddc02094f48",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "e543569e-128d-44da-b627-1086dcaeb965",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "681028b1-8aa3-435b-a070-0ed91af85dfa",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/681028b1-8aa3-435b-a070-0ed91af85dfa.svg"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "dff23400-7ea0-44f7-acb9-27ebd4dd4ec7",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "14a63d63-b671-4272-8228-6fe0aae4aa41",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Допускается использование только отдельных объёмных букв. Крепление на направляющих рейлах не допускается.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Допускается использование только отдельных объёмных букв. Крепление на направляющих рейлах не допускается.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1d613e09-285a-4538-ba7f-b4375473c7af",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "1687f3e2-4782-4822-aefe-628484a1c9aa",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "2c3c7f55-4738-46b9-9b26-ed0170742ec9",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/2c3c7f55-4738-46b9-9b26-ed0170742ec9.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "d4b26698-1727-4507-89e6-d46d3c846102",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Вывески закреплены с помощью направляющих.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Вывески закреплены с помощью направляющих.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4838920a-bd47-4bac-93b9-6648a6b1b388",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "2cba8ab6-d0f1-4374-9ab5-2585f30fdf24",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/2cba8ab6-d0f1-4374-9ab5-2585f30fdf24.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "e22389ed-6b48-4f38-aebe-31ea078d76bc",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Хорошо. Вывески выполнены \nс помощью отдельных букв.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Хорошо. Вывески выполнены \nс помощью отдельных букв.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "checkmark",
+                    "color": "green"
+                  }
+                },
+                "color": "green"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Цветные короба",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Цветные короба",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "bd5d11e8-306f-452b-b491-bc906b89a92d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Использование фрагментарного оформления фасадов для настенных вывесок запрещено.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Использование фрагментарного оформления фасадов для настенных вывесок запрещено.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7cf2e0eb-4d5a-479c-b661-e3a2e8851ba8",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "79fcbede-c7b9-4356-b566-468df6e9f820",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "db436942-175f-4dde-8c95-fd3f4d9a5006",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/db436942-175f-4dde-8c95-fd3f4d9a5006.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "37796122-ac33-4743-90db-bc66b279d3b9",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Фрагментарное оформление перекрывает фасад.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Фрагментарное оформление перекрывает фасад.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            },
+            {
+              "id": "e37c775e-7612-4b23-8935-5d1cd40e850f",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "005dd7ae-3366-4f63-805b-00ea67cf3163",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "ee461843-62be-41ed-a8fe-8288a990fab5",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/ee461843-62be-41ed-a8fe-8288a990fab5.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "fe09c5d7-5cac-4a43-8b83-6925359be0d4",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Хорошо. Вывеска выполнена в соответствии со стандартом, не перекрывает фасад, не создаёт визуального шума.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Хорошо. Вывеска выполнена в соответствии со стандартом, не перекрывает фасад, не создаёт визуального шума.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "checkmark",
+                    "color": "green"
+                  }
+                },
+                "color": "green"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Консольные вывески",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Консольные вывески",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "bddc0601-3307-41eb-a160-d5ae6d8a38f8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Использование консольных вывесок в границах первого пояса туристского центра не допускается.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Использование консольных вывесок в границах первого пояса туристского центра не допускается.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f747acb7-587e-42d5-baa0-3461082a3fc7",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "36434d77-9301-48a6-bf27-e5398cc2bb71",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "c6a8bcbf-61c1-4a50-ba39-84ba5be28862",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/c6a8bcbf-61c1-4a50-ba39-84ba5be28862.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "dd7e733a-9098-47dd-a154-58df419a3ef8",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Консоль перекрывает адрес здания и портит оригинальный облик фасада.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Консоль перекрывает адрес здания и портит оригинальный облик фасада.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8ec2d8f1-962f-4c9e-a595-d78c868208da",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "9eff2d7c-7ce3-44f7-baac-faaf9600ad9a",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/9eff2d7c-7ce3-44f7-baac-faaf9600ad9a.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "7c6cecd8-bebf-445c-9010-b1c98aafcf1c",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Консоль одного заведения указывает на вход в чужое заведение.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Консоль одного заведения указывает на вход в чужое заведение.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Аншлаг",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Аншлаг",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d12bcc54-128d-47c3-9536-8b9f511d5c05",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Должен иметь прямоугольную форму, размещаться на входной двери либо на плоских участках фасада, свободных от архитектурных элементов и расположенных на уровне глаз с композиционной привязкой к фасаду здания, строения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Должен иметь прямоугольную форму, размещаться на входной двери либо на плоских участках фасада, свободных от архитектурных элементов и расположенных на уровне глаз с композиционной привязкой к фасаду здания, строения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1d657c25-0985-40fa-af40-05ee14796973",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Максимально допустимая площадь аншлага не должна превышать формат А3. Колористическое решение аншлага должно быть увязано с колористическим решением здания. Не рекомендовано использовать в аншлаге более двух типов шрифтов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Максимально допустимая площадь аншлага не должна превышать формат А3. Колористическое решение аншлага должно быть увязано с колористическим решением здания. Не рекомендовано использовать в аншлаге более двух типов шрифтов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6108f6cd-fcb6-4634-88ea-e115307e8c4d",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "8421d905-880c-402c-85d5-1b3fa0af23d0",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "fd3d985e-8f83-45e8-9617-b935eef61797",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/fd3d985e-8f83-45e8-9617-b935eef61797.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7028d38a-473b-4d96-8769-85c3f4796ac2",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "6eb2ab81-646d-40d6-9968-7a77ba19819e",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/6eb2ab81-646d-40d6-9968-7a77ba19819e.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Адресные таблички",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Адресные таблички",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0d75b886-b1d9-46eb-9a62-078e460f3465",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Адресные таблички создаются в соответствии с новым стандартом: \n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Адресные таблички создаются в соответствии с новым стандартом: \n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "guides.ekaterinburg.city/street-name-plates",
+              "link": {
+                "url": "https://guides.ekaterinburg.city/street-name-plates"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "guides.ekaterinburg.city/street-name-plates",
+            "href": "https://guides.ekaterinburg.city/street-name-plates"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6006acf5-163f-4d63-92bf-327adfc65d26",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/6006acf5-163f-4d63-92bf-327adfc65d26.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 25,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Конструктивные элементы фасадов",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Конструктивные элементы фасадов",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 26,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Оконные рамы",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Оконные рамы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a333ebd3-0cc0-47f4-b4d8-c8db6c96b349",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рамы окон должны быть единообразными, в соответствии с архитектурно-колористическим решением фасада.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рамы окон должны быть единообразными, в соответствии с архитектурно-колористическим решением фасада.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9a895d46-6838-4ff8-b8db-48394c5de407",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "31efa0c6-94ce-462b-b538-e33b1b661923",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "228a7c15-9510-4a83-bcbd-a820bd103ba1",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Рамы имеют разную конструкцию и цвет.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Рамы имеют разную конструкцию и цвет.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            },
+            {
+              "id": "57c54a88-0ac8-4491-a693-0d2ce87856f9",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/57c54a88-0ac8-4491-a693-0d2ce87856f9.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cce51031-2696-41c9-9d9a-e6f1ab5ba5ec",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "d120aa89-1d28-46e3-a850-d2c3009633e1",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Хорошо. Рамы имеют одинаковую конструкцию и цвет.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Хорошо. Рамы имеют одинаковую конструкцию и цвет.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "checkmark",
+                    "color": "green"
+                  }
+                },
+                "color": "green"
+              },
+              "children": []
+            },
+            {
+              "id": "302a23db-2e3f-4fa6-b8cf-c6fc47e5b5f3",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/302a23db-2e3f-4fa6-b8cf-c6fc47e5b5f3.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Козырьки",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Козырьки",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "86c4a412-40a9-45e4-9043-608874ef545a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Самовольное размещение козырьков, входных групп и других конструктивных элементов фасада запрещено.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Самовольное размещение козырьков, входных групп и других конструктивных элементов фасада запрещено.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6789e4a1-d766-4961-ae81-741226fd566b",
+      "type": "callout",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Плохо. Самовольное размещение козырьков нарушает архитектурный облик здания.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Плохо. Самовольное размещение козырьков нарушает архитектурный облик здания.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "icon",
+          "icon": {
+            "name": "clear",
+            "color": "red"
+          }
+        },
+        "color": "red"
+      },
+      "children": []
+    },
+    {
+      "id": "09c880b4-53c9-4d6d-8b5c-1b2ca2ff496a",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/09c880b4-53c9-4d6d-8b5c-1b2ca2ff496a.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "0b57987a-339f-47a9-a9eb-6faecfe8c22e",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/0b57987a-339f-47a9-a9eb-6faecfe8c22e.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 28,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Маркизы",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Маркизы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "79526a83-302e-466c-b2e8-502dd7d90172",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "60a85114-df34-4790-9a3a-1a428bc8a2a0",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "2d2746aa-0dce-4310-96b8-c11ca9db63a4",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/2d2746aa-0dce-4310-96b8-c11ca9db63a4.svg"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a55f35f6-3b9f-49b2-ba13-963a6cd57aed",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5000000000000002
+          },
+          "children": [
+            {
+              "id": "739f5b6d-5e24-4f88-8f20-af9ba04510dd",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Расположение маркиз на фасаде здания должно соответствовать габаритам и контурам проёмов, не ухудшать визуальное восприятие архитектурных деталей, элементов декора. Размещение маркиз выше первого этажа не допускается.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Расположение маркиз на фасаде здания должно соответствовать габаритам и контурам проёмов, не ухудшать визуальное восприятие архитектурных деталей, элементов декора. Размещение маркиз выше первого этажа не допускается.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14c1089b-d6a9-4075-920f-eba7cd687efb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3728ee02-9f87-499e-9005-3fe9ef929289",
+      "type": "callout",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Плохо. Маркизы над окнами второго этажа не являются комплексным решением оформления фасада здания и используются как рекламный носитель.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Плохо. Маркизы над окнами второго этажа не являются комплексным решением оформления фасада здания и используются как рекламный носитель.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "icon",
+          "icon": {
+            "name": "clear",
+            "color": "red"
+          }
+        },
+        "color": "red"
+      },
+      "children": []
+    },
+    {
+      "id": "4e8e010d-ef67-4ec1-a231-787d47ef4cea",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/4e8e010d-ef67-4ec1-a231-787d47ef4cea.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "3d692cf5-0710-4b20-a23b-ce672de5e268",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2ff2cb2b-06a4-4fa4-bb6b-cf9b0e4b3691",
+      "type": "callout",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Хорошо. Решение по размещению маркизы органично вписывается в архитектурный облик объекта.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Хорошо. Решение по размещению маркизы органично вписывается в архитектурный облик объекта.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "icon",
+          "icon": {
+            "name": "checkmark",
+            "color": "green"
+          }
+        },
+        "color": "green"
+      },
+      "children": []
+    },
+    {
+      "id": "58765381-40a2-43cb-92a6-0628ea1e8b66",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/58765381-40a2-43cb-92a6-0628ea1e8b66.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "1e319fa4-c8b3-4ba8-ba28-d4ae18942e1f",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/1e319fa4-c8b3-4ba8-ba28-d4ae18942e1f.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 29,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Балконы",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Балконы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f177f07f-aef3-4254-ba31-1728ccb78028",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Не допускается остекление балконов, которое не было предусмотрено архитектурным проектом здания.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Не допускается остекление балконов, которое не было предусмотрено архитектурным проектом здания.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "006a5665-35e7-4c7f-b180-64de1d84b18a",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "1b391217-f93c-4d9b-91ab-b952f77709f7",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "5992ce0b-6de2-4e5b-8acb-7b11a0e0d756",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/5992ce0b-6de2-4e5b-8acb-7b11a0e0d756.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "27f5f8fb-7b87-45a9-8eca-24b227512572",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. На балконах используется остекление, не заложенное проектом.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. На балконах используется остекление, не заложенное проектом.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d10399b9-971d-401c-9c7d-18c5ac8d7cdc",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "de04562e-4189-416e-ba07-5c330c08d82c",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/de04562e-4189-416e-ba07-5c330c08d82c.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "d8833047-fd5e-44b1-bacf-3f9dae0acb72",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Хорошо. На балконах не используется остекление. Не нарушается архитектурное решение, заложенное проектом.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Хорошо. На балконах не используется остекление. Не нарушается архитектурное решение, заложенное проектом.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "checkmark",
+                    "color": "green"
+                  }
+                },
+                "color": "green"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Двери",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Двери",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7e12da7c-6b1f-4300-b518-921ea8258b38",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "50b02cdb-4475-4a9c-9f7d-3d66e477d7a4",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "1b88e6c1-27dc-4626-b866-2b7fbb7128e0",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/1b88e6c1-27dc-4626-b866-2b7fbb7128e0.svg"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e24251c7-8f7f-4ed9-bb6f-4e54e49a5e9f",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5000000000000001
+          },
+          "children": [
+            {
+              "id": "e9e24f8f-de85-45a9-b2e2-91d764f231e8",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Необходимо использовать комплексное решение оформления дверей на фасадах здания. Для повышения эстетического восприятия рекомендуется применение остеклённых дверных полотен.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Необходимо использовать комплексное решение оформления дверей на фасадах здания. Для повышения эстетического восприятия рекомендуется применение остеклённых дверных полотен.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4065406b-7344-4d9b-bb8d-8ba9e521344e",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "7c286c58-7dc2-4690-bacb-45b203b8f96d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "3ea8ba58-ee6c-4d52-9d82-29b38f3af009",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/3ea8ba58-ee6c-4d52-9d82-29b38f3af009.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "3093d158-f492-4773-9c34-50cc30330c55",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Глухая дверь портит внешний вид фасада.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Глухая дверь портит внешний вид фасада.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2f7cfc68-ec35-4321-a2fa-c24e3018a2fe",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "15f2baff-6647-4c10-abea-0d57bf720d56",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/15f2baff-6647-4c10-abea-0d57bf720d56.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "e75714f0-d123-41f0-8865-fe6ce9b6b5ca",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Хорошо. Светопропускающая деревянная дверь соответствует архитектурному решению объекта.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Хорошо. Светопропускающая деревянная дверь соответствует архитектурному решению объекта.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "checkmark",
+                    "color": "green"
+                  }
+                },
+                "color": "green"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение дополнительного оборудования",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение дополнительного оборудования",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "44289f71-6938-4cbb-914e-19890d1389e9",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение наружных блоков систем кондиционирования и вентиляции на главных фасадах зданий запрещено. Размещение на дворовых фасадах допускается только в маскирующих ограждениях.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение наружных блоков систем кондиционирования и вентиляции на главных фасадах зданий запрещено. Размещение на дворовых фасадах допускается только в маскирующих ограждениях.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "81506349-082e-4059-8371-12348286ccbc",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "8ebc0cbe-a53e-495b-b4f2-34db1003fb34",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "10ec5c1a-588f-423f-8844-79d315be5ee7",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/10ec5c1a-588f-423f-8844-79d315be5ee7.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "4b911290-5e96-46af-b56d-544a6b62e512",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Кондиционеры нарушают архитектурный облик здания.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Кондиционеры нарушают архитектурный облик здания.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c5b22be7-5be8-45fc-b8cb-0f7e8253d5d6",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "b39cd621-5949-4f48-8b9d-a45f6ebd286b",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/b39cd621-5949-4f48-8b9d-a45f6ebd286b.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "ab9d42c5-1b1d-47da-ad21-90f97d219cb2",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Хорошо. Кондиционеры размещены на дворовом фасаде и не портят архитектурный облик здания.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Хорошо. Кондиционеры размещены на дворовом фасаде и не портят архитектурный облик здания.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "checkmark",
+                    "color": "green"
+                  }
+                },
+                "color": "green"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Отделка фасадов",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Отделка фасадов",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 33,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Облицовка фасадов",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Облицовка фасадов",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2c618071-3a9c-4c19-97d9-7d76f5c124ed",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В оформлении фасадов зданий запрещается использование сайдинга, баннерной ткани, металических листов, а также материалов, противоречащих стилистическому решению зданий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В оформлении фасадов зданий запрещается использование сайдинга, баннерной ткани, металических листов, а также материалов, противоречащих стилистическому решению зданий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "55e66376-0803-40a8-809f-5e164f7352c8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Окраска внешней поверхности стен, откосов и наличников, облицовка поверхностей откосов, не соответствующие архитектурно-колористическому решению фасада, а также фрагментированная окраска запрещены.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Окраска внешней поверхности стен, откосов и наличников, облицовка поверхностей откосов, не соответствующие архитектурно-колористическому решению фасада, а также фрагментированная окраска запрещены.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2453712d-d2c0-4c34-b443-20883851ef61",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "a451ce5b-c590-47c1-9fb0-8cf2ad31f2a1",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "5694e57e-93e6-44a1-b674-a4528efd3b52",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/5694e57e-93e6-44a1-b674-a4528efd3b52.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "e2136eea-9a5d-45fa-94c3-99291929940c",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Первоначальное проектное решение оформления фасадов здания нарушено.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Первоначальное проектное решение оформления фасадов здания нарушено.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ca94eafb-fa9d-4bdd-bb1c-6682c1fdcc9d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "6fb2426f-6fe5-42b1-b0dc-2344ab3c4379",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/6fb2426f-6fe5-42b1-b0dc-2344ab3c4379.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "d5b828a3-1b38-4953-afde-98a878c6d71e",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Хорошо. Первоначальное архитектурное решение фасадов сохранено.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Хорошо. Первоначальное архитектурное решение фасадов сохранено.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "checkmark",
+                    "color": "green"
+                  }
+                },
+                "color": "green"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Фрагментарная отделка",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Фрагментарная отделка",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d33e7deb-86fc-4065-9930-9422b4f6ae67",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Использование фрагментарной отделки запрещено.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Использование фрагментарной отделки запрещено.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a7768561-8f7d-4644-a034-928a38b48608",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/a7768561-8f7d-4644-a034-928a38b48608.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "edd0877e-7943-43c4-a35b-963d9df5aef0",
+      "type": "callout",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Плохо. Фрагментарная отделка искажает архитектурно-градостроительный облик здания.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Плохо. Фрагментарная отделка искажает архитектурно-градостроительный облик здания.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "icon",
+          "icon": {
+            "name": "clear",
+            "color": "red"
+          }
+        },
+        "color": "red"
+      },
+      "children": []
+    },
+    {
+      "id": 35,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Оформление окон и витринных конструкций",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Оформление окон и витринных конструкций",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "69231caf-920b-4ab5-971e-b761c2a813f2",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "3cb4181f-45fa-4a2e-a313-429245699cf8",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "42b9c739-00f6-4573-afe5-0c1b30723102",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/42b9c739-00f6-4573-afe5-0c1b30723102.svg"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9d0b1116-6920-4093-9f24-f18a14529843",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "339099ef-9f0e-43ee-8efa-e7b9694b0b1e",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Вывески, размещённые на остеклении витрины, не должны выходить за границы остекления. Непосредственно на остеклении витрины может быть размещена вывеска в виде отдельных объёмных букв либо способом нанесения трафаретной печати в виде отдельных букв. Размер букв не должен превышать 40 см.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Вывески, размещённые на остеклении витрины, не должны выходить за границы остекления. Непосредственно на остеклении витрины может быть размещена вывеска в виде отдельных объёмных букв либо способом нанесения трафаретной печати в виде отдельных букв. Размер букв не должен превышать 40 см.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "ac2885f3-38b2-46eb-b138-0660e5e907bb",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Запрещено размещение на остеклении электронных носителей (бегущих строк и медиа-экранов). Запрещена замена остекления витрин световыми коробами или системами динамической смены изображений (роллерные системы, системы поворотных панелей).",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Запрещено размещение на остеклении электронных носителей (бегущих строк и медиа-экранов). Запрещена замена остекления витрин световыми коробами или системами динамической смены изображений (роллерные системы, системы поворотных панелей).",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0173e0ec-0179-49b0-93ff-7d5db338cd22",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "ff70b9b1-84b2-4aef-9f86-246b8344f31d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "a1c86aff-7bed-473a-83f3-eea8a868cfc5",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/a1c86aff-7bed-473a-83f3-eea8a868cfc5.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "ba771c69-a102-4993-9874-e2ea5b8a69d6",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Плохо. Витрины используются для рекламы.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Плохо. Витрины используются для рекламы.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "clear",
+                    "color": "red"
+                  }
+                },
+                "color": "red"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "a89b55fb-7d19-4499-a25f-43b765b85386",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "01fe40c8-9a05-4731-adef-1c8a0139dde8",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/01fe40c8-9a05-4731-adef-1c8a0139dde8.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "77c3744f-e1a5-48fa-8e49-a21f99fb35df",
+              "type": "callout",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Хорошо. Лаконичная графика занимает небольшую часть остекления.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Хорошо. Лаконичная графика занимает небольшую часть остекления.",
+                    "href": null
+                  }
+                ],
+                "icon": {
+                  "type": "icon",
+                  "icon": {
+                    "name": "checkmark",
+                    "color": "green"
+                  }
+                },
+                "color": "green"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Аншлаг",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Аншлаг",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "81d159a0-3454-456b-93e0-7c34740507db",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "fbf0aefe-a0e5-481b-85cb-f60cece9bc44",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "956eebbd-ebfe-44f5-8a3a-278fbaef8f1a",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/956eebbd-ebfe-44f5-8a3a-278fbaef8f1a.svg"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c322f964-9fa9-4ba7-ac39-87f9a706a6a9",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "4ac132ca-9435-4066-b23f-4f3ceaa8c6e0",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Аншлаг — размещаемый на фасаде здания, строения, сооружения дополнительный элемент, содержащий информацию о юридических лицах или индивидуальных предпринимателях, органах государственной власти или местного самоуправления, адрес, а также график работы организации.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Аншлаг — размещаемый на фасаде здания, строения, сооружения дополнительный элемент, содержащий информацию о юридических лицах или индивидуальных предпринимателях, органах государственной власти или местного самоуправления, адрес, а также график работы организации.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "58464a5b-bf74-4c71-8d08-2b29221b761e",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Аншлаг рекомендуется делать в виде аппликации на дверном остеклении. Размещение аншлага в виде таблички допускается только в случаях, когда дверь не имеет остекления.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Аншлаг рекомендуется делать в виде аппликации на дверном остеклении. Размещение аншлага в виде таблички допускается только в случаях, когда дверь не имеет остекления.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "299bc21b-c734-4288-ba75-372a5d96c97f",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/299bc21b-c734-4288-ba75-372a5d96c97f.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 37,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Озеленение",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Озеленение",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ef090a0c-44be-4cf2-8aff-98eb86c9e192",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Приветствуется оформление входных групп мобильным профессиональным озеленением в виде декоративных композиций, а также создание вертикального озеленения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Приветствуется оформление входных групп мобильным профессиональным озеленением в виде декоративных композиций, а также создание вертикального озеленения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "004bb363-4707-44f5-a698-9a13660e9a6b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Озеленение необходимо устраивать в соответствии со ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Озеленение необходимо устраивать в соответствии со ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "стандартом благоустройства улиц",
+              "link": {
+                "url": "https://guides.ekaterinburg.city/streets/landscaping"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "стандартом благоустройства улиц",
+            "href": "https://guides.ekaterinburg.city/streets/landscaping"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "457b3090-3ad6-4e6e-bbf4-3bef11b7da39",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "1b172e4c-4bd5-471d-94a9-eff4f3c06cd7",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "4ff40ecd-b57a-45cb-bddc-dc062568e011",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/4ff40ecd-b57a-45cb-bddc-dc062568e011.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e283b44e-75bc-4a57-8c39-48932559f1ef",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "382484b4-2884-4dc9-8df2-544102bb86e0",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/382484b4-2884-4dc9-8df2-544102bb86e0.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Подсветка фасадов",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Подсветка фасадов",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b5e50eb7-ca83-46cb-8031-d3996a801ddf",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Предпочтительно оборудование фасадов архитектурным освещением. Допускается использование заливающего, акцентного, контурного и фонового освещения, а также 3D-маппинг во время проведения меропрятий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Предпочтительно оборудование фасадов архитектурным освещением. Допускается использование заливающего, акцентного, контурного и фонового освещения, а также 3D-маппинг во время проведения меропрятий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "18320127-22c9-4e22-aeff-5fec2ce657e1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Чтобы фасады выглядели аккуратно и в тёмное время суток, для подсветки фасадов необходимо использовать температуру свечения 3000 К, для фасадов исторических зданий — 2500 К.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Чтобы фасады выглядели аккуратно и в тёмное время суток, для подсветки фасадов необходимо использовать температуру свечения 3000 К, для фасадов исторических зданий — 2500 К.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "57a62da8-b756-474d-a4cc-4c01c597cf4f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Не допускается использование мерцающей подсветки.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Не допускается использование мерцающей подсветки.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3d394ddd-b5cd-4aaf-a320-e83ffaafc155",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "01fdfc28-a7b5-45bf-a789-2271b2090224",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "2bbe5f03-6fcb-457d-ad68-24afc6ebd490",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Заливающее",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Заливающее",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/2bbe5f03-6fcb-457d-ad68-24afc6ebd490.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "505a4b3b-139e-42bd-a1b7-b54d1b0c01c6",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "8af7d3bb-a4eb-4b31-a772-539645d30cab",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Акцентное",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Акцентное",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/8af7d3bb-a4eb-4b31-a772-539645d30cab.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "cd62ea12-f7be-4881-af09-6c2a4cc17282",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "33e8c7cd-8966-44f2-8e1a-2677039e8076",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Контурное",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Контурное",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/33e8c7cd-8966-44f2-8e1a-2677039e8076.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "88ced9f4-c9dd-4171-bfdd-1ce7ad89cf5d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "da339a8f-8a1b-4b4b-8b1b-7ceed2a3f26b",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Фоновое",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Фоновое",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/da339a8f-8a1b-4b4b-8b1b-7ceed2a3f26b.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5ea94803-f383-4b4e-a3dd-02c66da91912",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Формирование дизайн-кода фасадов и вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Формирование дизайн-кода фасадов и вывесок",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 3
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "rules"
+      }
+    },
+    "cover": null
+  }
+}

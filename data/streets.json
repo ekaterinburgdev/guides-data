@@ -1,0 +1,59 @@
+{
+  "id": "d322a36b-21ab-4e40-9186-4205813263e2",
+  "type": "page",
+  "content": {
+    "title": "Улицы Екатеринбурга"
+  },
+  "children": [
+    {
+      "id": "44b1977c-36f5-432e-9c59-af9891c292f2",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/44b1977c-36f5-432e-9c59-af9891c292f2.webp"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Улицы Екатеринбурга",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Улицы Екатеринбурга",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "SaHT",
+        "type": "number",
+        "number": 60
+      },
+      "pageUrl": {
+        "id": "%3Ez%7DR",
+        "type": "url",
+        "url": "streets"
+      }
+    },
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/b58e66a4-d31e-4085-be12-e8a4238316ec/300863a0-a05d-4a9d-b098-2fd89bbf1a7e/Screenshot_2022-05-21_at_21.50.16.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VGTTY6LE%2F20260607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260607T211940Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQDL3Y%2By1FzQMWxYYr8UcvopRd5Qi1Vl8l%2FDaDmDFWwSbQIgQfbY%2F01FlfX8N1lJ53BoqhzEUAQwMklIt%2BQwmoe4O%2FMqiAQIo%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDPJ4ZCxIY2iFIW7sNSrcAx9ePAtPwUmYCATkKlkNpbOZ4o95kR8P%2BDghBlzf3cclkAoXewLHGxMAW9s5M7HWlecppcL0jrPUgHaE2AqW2TiQI%2BJU2HGiFf8np98dt9usfy9bYi6ysNwWk9jtHzS5Xh4VexYotCDyOJFqV67g0alqNCEDmZBxmbKAjJH946wnKbB%2FzuthMtDNE1%2FOZ1kpwD%2FbjKGsEAFugq62Yv6SE%2BuT4h7KUEWfyf8ZCqJjBWsj59MRYOFpTvzYDruZGmzL770XB48JKlXkjprFo%2FEWbqH%2FztGkotdN9V8Aflwd8Tv8koYtIfj7LYA%2BVhXvigDTSZKyQBZRZ2xUX6ZnTR%2BzySj3pGiKvrcqjOcDpEwat7Hll3%2FKeys635Ie7hS1Nnj3oGDLG2jQYNkFHrGCK09yS0AfJv%2FHjDSNlKSMnKVzQS1kkp5QiwaBfT6YEJ3XuIV4u95Hjl8xdo8aH%2FL%2FzCNPKW6K%2BnAzVTgFc0vD3WI9Y8yzeiiaTeLBuG%2BbRJoN3DAAMzR1M2RShsrJnhmYmOGJKObJ5vHDjCPR4jVn02u%2BtLPScSXrMvHodsX%2BaPRN6R8AZe6r0CkLjH09etvj8J95kT6BP%2BWKVrclllVRcMdG8FliNbWy%2BUj09c2Pmng9MPPiltEGOqUBNqvB05vsvNm3qq5JjNdmrdmS7rrbF7y4td4n%2BqZ1CvILm44GeaK3PSSfGpPBK7yFB6sKhuRMdO%2BSS7CDoMDn40SB8J8TGrVPnMhfQ6OssHzaczIKjg%2FhI%2BYaxCX3GLaxZjdcBWpQ8Tb9mLbD4cgcPQpjcHq0f3mdsdXHonwPf%2FeSrfirFUaM1q%2BzlRHUSNpCDG0XCYriVX7hDZLXM2vtJ9AjmyLE&X-Amz-Signature=486c39ad834d7323b0c7b7f1366a2e064a9c04170ca256b677138dc62645009e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+  }
+}

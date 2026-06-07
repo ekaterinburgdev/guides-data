@@ -1,0 +1,237 @@
+{
+  "id": "c9c25cb5-9413-4431-a07d-d30e38fe9e66",
+  "type": "page",
+  "content": {
+    "title": "Схема праздничного оформления Екатеринбурга"
+  },
+  "children": [
+    {
+      "id": 256,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Световое оформление",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Световое оформление",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "50e630a2-82a7-42ed-84e3-32ae698c5939",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "объектов сферы услуг и торговли",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "объектов сферы услуг и торговли",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "87b17814-1f4b-49f4-b60d-2d64ed0d57e0",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "социально-значимых объектов",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "социально-значимых объектов",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "a1938ff0-2007-47a2-8eb7-11317e569855",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "территорий общего пользования",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "территорий общего пользования",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "942f172e-f309-41b1-a951-4e6d8fd9df05",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "строительных площадок",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "строительных площадок",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "3fa97b11-2321-4758-aae8-2cd93740d660",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "современных жилых комплексов",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "современных жилых комплексов",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "a8e14a73-03f4-460d-a9ac-9ef8a9572887",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8215c2b0-56a4-4d98-80fe-f52430b41778",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/8215c2b0-56a4-4d98-80fe-f52430b41778.webp"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Схема праздничного оформления Екатеринбурга",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Схема праздничного оформления Екатеринбурга",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 1
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "general-provisions"
+      }
+    },
+    "cover": null
+  }
+}

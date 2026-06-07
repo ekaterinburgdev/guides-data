@@ -1,0 +1,57 @@
+{
+  "id": "355f667f-4e21-46a6-ab77-f134f3db1512",
+  "type": "page",
+  "content": {
+    "title": "Оформление фасадов к Новому году"
+  },
+  "children": [
+    {
+      "id": "a91dd88c-7b5c-47dd-820b-975143efcfaf",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Оформление фасадов к Новому году",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Оформление фасадов к Новому году",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "SaHT",
+        "type": "number",
+        "number": 30
+      },
+      "pageUrl": {
+        "id": "%3Ez%7DR",
+        "type": "url",
+        "url": "new-year"
+      }
+    },
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/b58e66a4-d31e-4085-be12-e8a4238316ec/3f62a53c-901a-4dfc-ba06-cd69060ad281/Screenshot_2022-06-21_at_17.15.37.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VLRRQJT7%2F20260607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260607T211832Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIAIbTeJnpcDHGx%2FKlXJtaHYN1pgwIEbEZFJuAglLUP%2FCAiEAzzz7gh%2BgurSMlpXPSjYqi%2Fk30JlSyKluGoLEV8i6KX4qiAQIo%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDJtKVkYSRb3L73xHzircA36ehKuur%2B8tMeTK72L30Y4dcf%2FHSw2mILfFwUfUZHjUx7F1wasHb3mPE7b8bIz%2FhNTX6%2BkgfriFwikPy6iHpc9ja%2B0O9l7fMbcHPEKnkIJAAiG6e9ZMBWnfif%2BN%2Brh7OrsQ1SJXXdTnP6zKf1%2BqvALEI3MB3KFTAUTkuoZHMpS8SCPGYoR0D8ob8XE9NhfeyPj494zAJO%2BApEcHNuKU0vpO1x%2BntvLzQUpBNNDsx3QFObTYVOeZL1Y%2BP%2BrfJIJKLKPXZcEWev%2B0W%2FLHjUckxAuxwp6vbqqzkPuwsrmVk5vlMBPGrOjGYMhIdzsO1%2F6AgGYToknCbM1ueIb7F0N17sO8K6Yed0fuIHurNRpQRgAp6X0fB0Uoa4QUj8y3G8YTvql7k7E9ELJEvIJqvJRXysxtXd7T3V3ua0j3cxSIGoRClzsQFcQNOIOGPSQb6jI87RGOuUkirp9qS5RS2D%2FY46OAU7AnOiDPjNFGKKZw0GHJzasM6CxyW72tEqFd%2FJxhnzlel1b%2FFNEnvyS9MBtGmXOJw10DfCJMwrbywJ1SGArmPetpivjsGE3p%2BnF%2Fq%2Fh6FSJo0dN1cXa%2BLCvUEHOOSkQbinxaPxTWA0%2BBnQWwLTv27X%2FxBU326M40o8APMI7hltEGOqUBIGPE6%2BM%2FvM3h6SG5%2FxLpJHptjIl1yXZ3FeeHyx%2Fe9HSGoRIwzNH6bxyTJlnmTiV%2FQImEohpAEnxacMZV8%2BL884DkfC5%2FSX3htf0ocg2LLD%2BanXHDwkXPFnBg6XZkzB0j7YGiFmCf2uvfCGMlfGS1siZIKl9NuGATYyadfb0C8Du2eLyOWu9JHxDOHlhI8xstwiA06lrFKju%2Ff0KdJP2VSEONO%2F4N&X-Amz-Signature=7b300bcdc5c5192118d97852d0e4e78553a8de1f4d456594c6150d10d306ffc6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+  }
+}

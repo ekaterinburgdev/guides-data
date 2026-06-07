@@ -1,0 +1,57 @@
+{
+  "id": "5f10efbc-7c2d-48da-95ad-e48d207ee327",
+  "type": "page",
+  "content": {
+    "title": "Оформление раздельного сбора мусора"
+  },
+  "children": [
+    {
+      "id": "29ac5dc9-c736-4ff5-b2b1-adf1182702c4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Оформление раздельного сбора мусора",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Оформление раздельного сбора мусора",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "SaHT",
+        "type": "number",
+        "number": 10
+      },
+      "pageUrl": {
+        "id": "%3Ez%7DR",
+        "type": "url",
+        "url": "waste-containers"
+      }
+    },
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/b58e66a4-d31e-4085-be12-e8a4238316ec/b3fc0650-af25-4ea5-806e-5fa2a48ff9cd/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8_%D0%A2%D0%9A%D0%9E_pages-to-jpg-0001.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XUOYHJOZ%2F20260607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260607T211806Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQCyZdy5ySfj4D9rq%2FJJo%2Bl%2BjchVamBYAVxQb3OalrO98QIhAP3O%2B9qeT8Vj4txJ5mdOEuRQ7G1XOy3De1JJhZ2Gw%2BxRKogECKP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igw8nZFOlOcaKzgFNiEq3ANgygiCBuKPBO4ap2sAM385cwkhj0OPLI6hdp6GOKS6SxFz8ZYoF0RLR5fIXmWmm%2Bni2JtaX%2FZYHyTRf%2Bk%2BfiyqaeczYsNfnWAH1hrl62jJ2Jyo1dBdcBfPJYXFtD34klA3xa73sdRjbp3i9J2zwvVL0CHTMrHPIJVJH8mJBAakHlTbnTEicKcXzrcg%2BHSV9M%2BbHXaXk2e6xpo5d2POQZPhjWiJfy4wzwELRa7NDdsgGqtdCmLwWqqz%2FOJvtimdIWzSQ%2F%2Fu5XxXLeFb50DJ%2FGM2wCbj3x48WtFRkdFJMYXSq%2B0oHDXOL8zvdcI65M%2F4R1%2FHEtFtfjNS6lCF%2Bw2f9wGAuMtuVfFCdJuAAAgusbJDBRx7nWbZpRlaup8NcxcrdToSUkuKKlKxhobLCzjKkk5e5%2BbP2SZw2EVqY7YbUpY9sPy2AX2uMQOrdFmxP0wBLboSZYqx4O9vqiBNlECp9OXW021y5c7HAHXs8WiEqvUHUWSV%2F9jzvnNBcYfeJ%2F0tFwLNzrN3RCzc6%2FPjaMn8aUKcjqBtSz1nqXs5WCm4Es701kYMjARTbw637mDFKTABrgJb284M5fEI4ElqMjnog7xZ7UaXelQ8bbTiAeCsUger1F03il6RbZpuFL1cOzDw4JbRBjqkAcQ90UtOyhRRGD6hOqRGjwZwUyLL%2F0SZMGavgHvkPtDrjDqMs0wtMfXwtMate6lLeooMY6WiG%2BNvDC2%2BvqpfexYF9E7z5NWxXRjfyis5PkFEEfoqDsc9vAVUzu4chwr%2FItO4ZBtPyFpMnteR3MrYeXTHFNA23yVkU9saUICpxHekK02%2FuOdIpVbacFhRmYIVDvLZoFBeQBTX7f7vIssH1FqDVuNo&X-Amz-Signature=1e51aacc739eb37c2296e2f1290b0aa651a19fe44940cafd7b8d816e2b02a610&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+  }
+}

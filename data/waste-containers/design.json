@@ -1,0 +1,1425 @@
+{
+  "id": "fba9e1b4-ec76-4498-aea2-956c4761126f",
+  "type": "page",
+  "content": {
+    "title": "Графическое и информационное оформление"
+  },
+  "children": [
+    {
+      "id": 106,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Евроконтейнер",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Евроконтейнер",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "aa988926-16e2-4893-a316-35c44e940769",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Объём 1110,0 (л)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Объём 1110,0 (л)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "07c609d2-af42-4dd2-9a6b-331d33bf2535",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вес 51,5 (кг)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вес 51,5 (кг)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7d41ed06-24a0-47d6-92d5-225d22d1074a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Материал ПЭНД ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Материал ПЭНД ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8e686bc1-2092-40d2-9443-e518c12559c7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Цвет RAL (оливковый) ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Цвет RAL (оливковый) ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2791ab77-c3d9-4905-9dd9-8b51707c8f61",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "С педальным приводом",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "С педальным приводом",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "06168041-a05d-45b7-b7da-32325ad8221e",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/06168041-a05d-45b7-b7da-32325ad8221e.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "3f83d114-bc16-464f-a6cd-03bf0c6f2c14",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "63c9462a-3b85-4189-b6a7-981469a339a1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "22.C19",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "22.C19",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5cbd0331-529e-46d0-bd37-d106ac478e67",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/5cbd0331-529e-46d0-bd37-d106ac478e67.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "e9b25421-f3e0-4a4d-9403-5cf60eed422d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "713481c6-3fc5-47e6-a7eb-933224f3320f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Образец цвета контейнера",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Образец цвета контейнера",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "30292529-dc24-4e6f-a1b2-3d62043789ea",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/30292529-dc24-4e6f-a1b2-3d62043789ea.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "e2a7dbc7-2fef-4bb5-85e1-cabf8085ef7d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 107,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Контейнер для сбора опасных отходов",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Контейнер для сбора опасных отходов",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5d760dea-c006-44ac-b930-fade0e58686f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Объём до 96,0 (л) ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Объём до 96,0 (л) ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "bf9d139e-ea49-4be6-be8d-5e91403c64cb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вес 40,0 (кг) ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вес 40,0 (кг) ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "40adb240-e265-4081-bea0-1abf5dedcb3e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Материал холоднокатанный стальной лист ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Материал холоднокатанный стальной лист ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b68a3e34-f2cf-4013-b20a-5cf9425602ea",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Цвет RAL 2005 (оранжевый)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Цвет RAL 2005 (оранжевый)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d712ee76-df13-41ba-808a-1b723ae39567",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Контейнер для сбора опасных отходов устанавливается дополнительно. Адреса централизованных пунктов приема опасных отходов размещены на официальном сайте Администрации города Екатеринбурга (екатеринбург.рф)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Контейнер для сбора опасных отходов устанавливается дополнительно. Адреса централизованных пунктов приема опасных отходов размещены на официальном сайте Администрации города Екатеринбурга (екатеринбург.рф)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0d739ae4-e3aa-465e-88c1-735bffa4344b",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/0d739ae4-e3aa-465e-88c1-735bffa4344b.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "1fad4dde-a550-48bc-9751-92714fbfcb81",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a3f8299f-9543-4c76-9e37-3c181ef73242",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1-ЭЛ-1",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1-ЭЛ-1",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c309ab14-c642-4faa-817e-c918e5ab59e4",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/c309ab14-c642-4faa-817e-c918e5ab59e4.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "bc10da72-aa6d-4477-b8b1-d25f7a03a4ec",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 108,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Заглубленный контейнер",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Заглубленный контейнер",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6e629412-3d94-45a1-9789-4b6411e2ad1b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Объём до 5200 (л)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Объём до 5200 (л)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cfb0dc6b-6522-4330-9984-1130ebadc45b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вес 240,0 (кг)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вес 240,0 (кг)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0ea97dc3-23cd-4e76-b6e8-a5e5d6c758b8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Высота 2750 (мм)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Высота 2750 (мм)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "665c0464-5bd7-4ba5-9352-488781260e31",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Диаметр 1700 (мм)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Диаметр 1700 (мм)",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d4670fd0-4e92-4e1a-900b-086e9844f202",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Облицовка корпуса древесно - полимерный композит (цвет - текстура под дерево “Орех”, приближенная к RAL 8002",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Облицовка корпуса древесно - полимерный композит (цвет - текстура под дерево “Орех”, приближенная к RAL 8002",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2913f16f-440e-4c16-a87d-421e905e1f13",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Внутри контейнера - полиэфирный мешок на стальном траверсе. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Внутри контейнера - полиэфирный мешок на стальном траверсе. ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f8a31568-2e8a-4960-b591-e71280d0a1b0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Выгрузка контейнеров осуществляется мусоровозом с краном-манипулятором (вылет стрелы более 7м), что дает возможность разгружать контейнеры над припаркованными автомобилями",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Выгрузка контейнеров осуществляется мусоровозом с краном-манипулятором (вылет стрелы более 7м), что дает возможность разгружать контейнеры над припаркованными автомобилями",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a03f6b89-1e1a-4773-82fe-be91050d5513",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/a03f6b89-1e1a-4773-82fe-be91050d5513.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "cf61cac4-6971-4d09-92cd-df431940bbeb",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/cf61cac4-6971-4d09-92cd-df431940bbeb.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "e62d0b54-8cdc-4d7f-885d-16aa5b8fac3b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7f6fc594-c0ab-4026-ac3a-365ec04367a4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ekobin 5000M",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ekobin 5000M",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1587e76d-b721-4bbe-b22c-f1641cfd051b",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/1587e76d-b721-4bbe-b22c-f1641cfd051b.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "afe4d44a-9d36-4747-9ab4-96f20139e568",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3626b20e-a8bf-41bf-bff6-7ad8e36d8844",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2fb0ad7a-c078-40c3-a313-97dcc3ad823c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Образец панели ДПК для облицовки котейнера",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Образец панели ДПК для облицовки котейнера",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ee9499ac-6080-4366-a628-da9cf8cd6d8f",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/ee9499ac-6080-4366-a628-da9cf8cd6d8f.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "6eef04bf-7c8b-4b2d-ac71-c4435fa417d2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "29362d69-03be-439b-9aa4-8a3807d8653e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Примечание",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Примечание",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8f3600ea-4b15-444b-aeee-acf54d8c184d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Указатель вида собираемых отходов крепится на саморезы. Саморезы окрашиваются в цвет указателя",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Указатель вида собираемых отходов крепится на саморезы. Саморезы окрашиваются в цвет указателя",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f958e066-a0ac-48cb-9f1e-58ccfd8d8e1d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 109,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Указатели вида собираемых отходов для размещения на контейнерах",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Указатели вида собираемых отходов для размещения на контейнерах",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "dee7f4e4-bd1e-424e-aa59-40d14c0674e7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рисунок указателя выполняется посредством нанесения ПВХ наклейки",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рисунок указателя выполняется посредством нанесения ПВХ наклейки",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "377eafe9-3dec-4cfb-b185-8d064924be70",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/377eafe9-3dec-4cfb-b185-8d064924be70.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 110,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Сортируемые отходы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Сортируемые отходы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "dee4270d-2fa0-4026-bf25-e9509c831bb8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Непищевые компоненты ТКО ( бумага: картон, офисная бумага, бумажные пакеты, газеты; пластик; РЕТ-бутылки, полиэтилен, упаковка, крышки от контейнеров, фляги, мусорные ведра, емкости от бытовой химии, полиэтилен низкой плотности, полипропилен, полистирол: пищевая упаковка, коробки CD, игрушки, ручки, детские бутылочки; стекло: стеклобой бутылочный; черные металлы: трубы, канистры, балончики, ножи, вилки, отвертки, гайки; цветные металлы: кусковая медь, части кабеля, провода, электротехнический медный лом, лом медных сплавов; алюминиевые банки, балончики; текстиль и иные, не загрязненные, пригодные к утилизации).",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Непищевые компоненты ТКО ( бумага: картон, офисная бумага, бумажные пакеты, газеты; пластик; РЕТ-бутылки, полиэтилен, упаковка, крышки от контейнеров, фляги, мусорные ведра, емкости от бытовой химии, полиэтилен низкой плотности, полипропилен, полистирол: пищевая упаковка, коробки CD, игрушки, ручки, детские бутылочки; стекло: стеклобой бутылочный; черные металлы: трубы, канистры, балончики, ножи, вилки, отвертки, гайки; цветные металлы: кусковая медь, части кабеля, провода, электротехнический медный лом, лом медных сплавов; алюминиевые банки, балончики; текстиль и иные, не загрязненные, пригодные к утилизации).",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 111,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Несортируемые отходы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Несортируемые отходы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3e002a64-98dd-4141-be57-fbe07271a8b1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Морфологические компоненты ТКО (пищевые отходы, листва, ботва, скорлупа яиц, испорченные продукты в упаковке и без нее, чайные пакеты, кофейная гуща); макулатура неутилизируемая: ламинированная бумага, грязная бумага картон с элементами скотча, куски обоев, туалетная бумага; прочий несортируемый пластик: тюбики от зубной пасты, упаковки от чипсов, решетки от яиц, мягкие упаковки от соусов, сигареты, зажигалки, упаковки для сока; ветошь: старая одежда, зонтик, подушки, одеяла; гигиена: памперсы, средства личной гигиены, одноразовые пеленки; обувь, сумки; древесина, дерево покрытое лаком; инертный материал: керамика, раковина, унитаз, цветочные горшки; отходы от лекарств.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Морфологические компоненты ТКО (пищевые отходы, листва, ботва, скорлупа яиц, испорченные продукты в упаковке и без нее, чайные пакеты, кофейная гуща); макулатура неутилизируемая: ламинированная бумага, грязная бумага картон с элементами скотча, куски обоев, туалетная бумага; прочий несортируемый пластик: тюбики от зубной пасты, упаковки от чипсов, решетки от яиц, мягкие упаковки от соусов, сигареты, зажигалки, упаковки для сока; ветошь: старая одежда, зонтик, подушки, одеяла; гигиена: памперсы, средства личной гигиены, одноразовые пеленки; обувь, сумки; древесина, дерево покрытое лаком; инертный материал: керамика, раковина, унитаз, цветочные горшки; отходы от лекарств.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 112,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пластик",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Пластик",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d2dfb360-f377-443f-b536-ce5c808230b9",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Указатель используется для маркировки дополнительного контейнера для сбора пластика, относящегося к сортируемым отходам, в случае принятия решения об установке такого контейнера собственниками придомовой территории.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Указатель используется для маркировки дополнительного контейнера для сбора пластика, относящегося к сортируемым отходам, в случае принятия решения об установке такого контейнера собственниками придомовой территории.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2ac58cc1-0cf6-4ca4-9cd4-b31492d5de4d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 113,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Графическое и информационное оформление контейнерной площадки",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Графическое и информационное оформление контейнерной площадки",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5a0c9733-57a9-4144-ab07-d0b74d913317",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение информационных указателей на закрытой контейнерной площадке с выкатными контейнерами.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение информационных указателей на закрытой контейнерной площадке с выкатными контейнерами.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "10664756-ed55-4fef-a4d5-d0c0a73be101",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/10664756-ed55-4fef-a4d5-d0c0a73be101.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "480a26cb-a93c-47a8-b69d-ee7dc9d34d30",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e2c6acca-03a3-4644-a5f4-d816cce2bec1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Главный фасад контейнерной площадки",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Главный фасад контейнерной площадки",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4e922cd2-bbce-44a7-89f1-8aacf273d0e5",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/4e922cd2-bbce-44a7-89f1-8aacf273d0e5.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "320074f0-047d-4226-95f6-6d829dbb8067",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "dce95be6-70ce-4a13-b5c5-c3c8a459c159",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Боковой фасад контейнерной площадки",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Боковой фасад контейнерной площадки",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "55b57f29-a361-4859-965b-7499a55cd3a7",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/55b57f29-a361-4859-965b-7499a55cd3a7.webp"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Графическое и информационное оформление",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Графическое и информационное оформление",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 4
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "design"
+      }
+    },
+    "cover": null
+  }
+}

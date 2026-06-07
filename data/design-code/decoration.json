@@ -1,0 +1,369 @@
+{
+  "id": "7b5f9e40-6ca9-440b-b801-5387a9fec87e",
+  "type": "page",
+  "content": {
+    "title": "Отделка фасада"
+  },
+  "children": [
+    {
+      "id": "80fdf206-7a0a-4eeb-b9df-778d03ed8c7c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещено использование при отделке фасадов (отдельных конструктивных элементов фасадов) сайдинга, профилированного металлического листа, асбестоцементных листов, самоклеящейся пленки, баннерной ткани.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещено использование при отделке фасадов (отдельных конструктивных элементов фасадов) сайдинга, профилированного металлического листа, асбестоцементных листов, самоклеящейся пленки, баннерной ткани.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e9ee97a0-9ca0-4050-9497-2945f97e3cb1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещена окраска внешней\nповерхности стен не соответствующая изначальным колористическим (цветовым) решениям фасада.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещена окраска внешней\nповерхности стен не соответствующая изначальным колористическим (цветовым) решениям фасада.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "dba5d844-cd96-4b53-bdd0-9cb9bc3a26ba",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Запрещена фрагментированная окраска фасада.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Запрещена фрагментированная окраска фасада.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "58482f93-4a1c-4462-8ddd-5ec86621585b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Исключением являются фасады зданий, строений, сооружений, расположенных на территориях промышленных предприятий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Исключением являются фасады зданий, строений, сооружений, расположенных на территориях промышленных предприятий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d2af1740-dab0-4c73-85a6-5ab28da49744",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e862cefb-1d5a-44bf-84dc-9dd789d071d1",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/e862cefb-1d5a-44bf-84dc-9dd789d071d1.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "78feb793-4bc0-4c79-8888-aa4d114bc446",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Отделка фасада профилированным металлическим листом",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Отделка фасада профилированным металлическим листом",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "df4e3285-42e5-4a61-a25b-2da400d2d469",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9c2f2c4d-7cca-4f1c-82dc-508cb6e9b884",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/9c2f2c4d-7cca-4f1c-82dc-508cb6e9b884.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "5b807c32-c8fa-47d3-99e0-e99f0c181448",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Фрагментарная отделка фасада",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Фрагментарная отделка фасада",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a4a313ea-63eb-445a-b272-4eef62aef4e2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e93adc47-207a-4652-97f8-269b202c3c16",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/e93adc47-207a-4652-97f8-269b202c3c16.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "4fa11fbd-52b8-4174-b586-bfd2803e691b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Разнохарактерная облицовка фасада",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Разнохарактерная облицовка фасада",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "26623a38-3366-4355-a8c8-e9f443d9e997",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c0daf10c-6843-45c2-bb97-b62437a8a062",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/c0daf10c-6843-45c2-bb97-b62437a8a062.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "bd20cc16-325f-484a-9e68-0d52a4b4939e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Фрагментарная окраска фасада",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "Фрагментарная окраска фасада",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3c7ea237-a6c3-4ca0-8f39-11321ed626b8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Отделка фасада",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Отделка фасада",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 5
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "decoration"
+      }
+    },
+    "cover": null
+  }
+}

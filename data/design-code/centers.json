@@ -1,0 +1,541 @@
+{
+  "id": "6ddf71a5-8d5f-47e4-b101-22a7993b7fd6",
+  "type": "page",
+  "content": {
+    "title": "Торговые и бизнес-центры"
+  },
+  "children": [
+    {
+      "id": "fe0d37f2-5cec-4e9a-82f6-488ea6b7ccfb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "При проектировании оформления объектов коммерческой недвижимости следует руководствоваться принципом разумной достаточности и стремиться к гармонизации архитектурного облика и дополнительных элементов на фасадах зданий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "При проектировании оформления объектов коммерческой недвижимости следует руководствоваться принципом разумной достаточности и стремиться к гармонизации архитектурного облика и дополнительных элементов на фасадах зданий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d56bffa5-e5d7-4414-9771-6e2b768a3389",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/d56bffa5-e5d7-4414-9771-6e2b768a3389.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "9d068445-194b-4dae-b7f9-624d9eddba22",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Информационные носители, размещенные в единой системе на фасаде торгового центра",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Информационные носители, размещенные в единой системе на фасаде торгового центра",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6854526a-60dc-438f-b1cc-df4d88f46973",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 264,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендации по размещению информационных носителей на фасадах ТРЦ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендации по размещению информационных носителей на фасадах ТРЦ",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6cc50c7f-a68e-411e-86c0-0b4c7a81f26a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендуется размещать информационные носители в единой системе горизонтальных и вертикальных осей.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендуется размещать информационные носители в единой системе горизонтальных и вертикальных осей.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d899624d-5175-4b6f-85fb-30a9e8746add",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендуется придерживаться соразмерности информационных носителей, расположенных в единой горизонтальной или вертикальной оси.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендуется придерживаться соразмерности информационных носителей, расположенных в единой горизонтальной или вертикальной оси.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "617a6f28-88af-49b7-b646-1a5d59f86e9a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендуется упорядочивать группы навигационных вывесок в едином формате, имеющем четкие границы, структуру и стилистику наполнения в соответствии с архитектурным обликом здания.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендуется упорядочивать группы навигационных вывесок в едином формате, имеющем четкие границы, структуру и стилистику наполнения в соответствии с архитектурным обликом здания.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4c309cd6-ae41-4caf-9f12-0968fd9609f5",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9dce8410-46db-4614-a1c5-672136bbe510",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/9dce8410-46db-4614-a1c5-672136bbe510.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "888979df-0bb7-45c9-9e25-841d242225a0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Перечень товаров и услуг, размещенный в единой системе на стеле рядом с торговым центром",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Перечень товаров и услуг, размещенный в единой системе на стеле рядом с торговым центром",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9699f02c-2fc9-4e20-b471-000e677c7e80",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f3397d6c-37e0-4198-86b0-e5206efd5fbf",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "291398f7-db7b-48eb-9446-d9f4acd1d085",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "f41fcb32-f985-436c-b93e-5e69ebb135cc",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/f41fcb32-f985-436c-b93e-5e69ebb135cc.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "66a9289d-07f1-4b3a-bb2f-3f18d3397f22",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "62ce4ceb-9e76-42cd-b1c5-fab87174c3a4",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/62ce4ceb-9e76-42cd-b1c5-fab87174c3a4.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "135f09bb-8aa7-4a81-b60a-bad35379b4db",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/135f09bb-8aa7-4a81-b60a-bad35379b4db.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "630b8e2e-1dad-434e-8811-37b987fd258f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Логотипы арендаторов, размещенные в единой системе на фасаде торгового центра",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Логотипы арендаторов, размещенные в единой системе на фасаде торгового центра",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 265,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Информационные носители на территории торговых и бизнес-центров",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Информационные носители на территории торговых и бизнес-центров",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0b08aba4-4ff7-4963-a44e-b7a0ea25fbaa",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/0b08aba4-4ff7-4963-a44e-b7a0ea25fbaa.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "dd9c10aa-c43d-4e03-9cfd-9fd2b3b062ec",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Логотипы арендаторов, размещенные в единой системе на стеле рядом с бизнес-центром",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Логотипы арендаторов, размещенные в единой системе на стеле рядом с бизнес-центром",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "abf168b1-65f8-4273-97f6-2ef518611404",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3d9e9577-ccf2-4dd0-971f-dc4352fd7d85",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "5104a080-905f-44d6-b2fa-7a179ca349b9",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "46417c6f-930d-4771-899d-237204678609",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/46417c6f-930d-4771-899d-237204678609.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "de4f3956-ae06-4515-82e3-63af8f9f7f57",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "5f1532b4-75cb-4d73-b7b7-2b0dfa883162",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/5f1532b4-75cb-4d73-b7b7-2b0dfa883162.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3367dda0-a0a3-47ec-89b3-765a38948c4c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Перечень товаров и услуг, размещенный в единой системе на стеле рядом с торговым центром",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Перечень товаров и услуг, размещенный в единой системе на стеле рядом с торговым центром",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Торговые и бизнес-центры",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Торговые и бизнес-центры",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 7
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "centers"
+      }
+    },
+    "cover": null
+  }
+}

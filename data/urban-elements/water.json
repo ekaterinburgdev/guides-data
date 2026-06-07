@@ -1,0 +1,967 @@
+{
+  "id": "942262cd-5417-4891-839b-b5490b1f66c3",
+  "type": "page",
+  "content": {
+    "title": "Водные устройства"
+  },
+  "children": [
+    {
+      "id": 673,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Фонтан",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Фонтан",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6ea64883-d82b-49ad-9ded-61b49926a199",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "10585400-a76b-41c8-91ce-176fc22ece6b",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "0cae80e0-70cd-4b1e-8133-b583b384af32",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Конструкция с водой, бьющей под напором вверх, и наземной чашей. Водные картины создаются обилием воды, разнообразными водными эффектами, подсветкой. Применяются для оживления пространства, а также являются центром архитектурно-планировочной композиции",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Конструкция с водой, бьющей под напором вверх, и наземной чашей. Водные картины создаются обилием воды, разнообразными водными эффектами, подсветкой. Применяются для оживления пространства, а также являются центром архитектурно-планировочной композиции",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e85b32f9-6ea1-40b0-b028-b7ea129d5f86",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "8bfa310b-12dd-43b6-9f0f-8b8d0ab72b5f",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "площади, парки, скверы, бульвары, набережные",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "площади, парки, скверы, бульвары, набережные",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "5fb50e63-518c-43ee-9ade-5cdc83803eee",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материал\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материал\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "архитектурный бетон, натуральный камень",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "архитектурный бетон, натуральный камень",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e4da40d-2d01-45fc-a9c1-ff019d17de79",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "59f6543a-3997-419d-bd8a-2e3fab687589",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "d416f632-8d68-411d-aec0-6c66145f9683",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/d416f632-8d68-411d-aec0-6c66145f9683.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "82c3a72b-16a4-4386-adb6-2841f6145460",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "81ace42a-e9ab-4a3c-af65-db6803c13595",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/81ace42a-e9ab-4a3c-af65-db6803c13595.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e76c813c-8782-4fbd-ba99-fa83d8c2c17f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 676,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Фонтан плоскостной",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Фонтан плоскостной",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "43a690bb-3617-4ac7-ba6a-47f8aa43407f",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "85237792-f928-44cc-8c70-b6ac7ad56965",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "4d750a63-354c-4a4f-bcd5-ec889a0ec17f",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Конструкция состоит из заглубленной водной чаши и решетки в уровень с покрытием. Решетка над чашей имеет отверстия для выхода на поверхность струй. Применяется для оживления пространства, а также является центром архитектурно-планировочной композиции",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Конструкция состоит из заглубленной водной чаши и решетки в уровень с покрытием. Решетка над чашей имеет отверстия для выхода на поверхность струй. Применяется для оживления пространства, а также является центром архитектурно-планировочной композиции",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5e3b7641-63c3-4008-8db2-b6522bc46378",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "9aa855fc-0920-43e0-9603-be70c917821e",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "площади, парки, скверы, бульвары, набережные",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "площади, парки, скверы, бульвары, набережные",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "433f9953-3bd4-4241-baec-356e32332865",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материал\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материал\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "бетон, стеклопластик, нержавеющая сталь, оцинкованная сталь",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "бетон, стеклопластик, нержавеющая сталь, оцинкованная сталь",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37259352-b1d2-49bc-8ba1-a7d8114121f9",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "4f0d26e2-3675-4ff4-8b02-50d3c9959a76",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "3cece8af-9048-484f-981e-2a64e1b880ff",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/3cece8af-9048-484f-981e-2a64e1b880ff.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bf0d9f77-ec70-4687-8f33-82dacefcdd5f",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "76260dd6-48da-4f3d-82e6-814ce5916d4a",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/76260dd6-48da-4f3d-82e6-814ce5916d4a.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "99aec7c5-22ed-452a-9dc7-d1593a514419",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 678,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Водная площадка",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Водная площадка",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8490e5a8-f981-48ce-8867-5dddfef61f75",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "a2dad39e-3b23-442e-961a-3b3ab1f544ec",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "92e36e1d-7ed6-4196-a18e-4bb8c9da71c8",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Комплекс, состоящий из оборудования, предназначенного для игр с водой, в частности из водных каналов с дамбами и плотинами",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Комплекс, состоящий из оборудования, предназначенного для игр с водой, в частности из водных каналов с дамбами и плотинами",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5eda91da-0fb9-4302-9347-d58239704583",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "8f71719a-f229-4554-9cbd-1035f9c4c05b",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "парки, набережные",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "парки, набережные",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "beeca573-2634-4cf2-9fb6-7dfc02b51a79",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материал\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материал\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "бетон, натуральный камень, нержавеющая сталь",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "бетон, натуральный камень, нержавеющая сталь",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4aabe37-5c9a-4680-acf1-1c8961dc15d5",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "5d2df224-8057-4d64-9da4-a2712d7860c3",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "7ca07f7c-ebef-4c9b-9857-d22b82691de2",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/7ca07f7c-ebef-4c9b-9857-d22b82691de2.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ed2056c8-661f-47e9-9491-d76346e06f05",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "2e473ffa-32de-4bd1-b696-6bc80b299c36",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/2e473ffa-32de-4bd1-b696-6bc80b299c36.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de9e2da8-5771-4322-97a8-5d84f2d94f7b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 680,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Фонтанчики, декоративные элементы с водой",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Фонтанчики, декоративные элементы с водой",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "24a4ae1b-6357-49a7-b603-e5c2d0b409c2",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "dfbcbea9-06bd-4821-91c0-41d564a17b82",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "1172c18b-f64b-4263-ab26-20d7fe25b716",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Конструкция для игр и контакта с водой, позволяющая повысить художественную выразительность пространства",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Конструкция для игр и контакта с водой, позволяющая повысить художественную выразительность пространства",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "170308e5-05cc-4fbe-842d-323f1bec6c1d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "930e2eff-9569-40b5-8806-4c2cdba9fc81",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "площади, парки, скверы, набережные",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "площади, парки, скверы, набережные",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "90b44d92-71ca-4b50-af04-708a9aaac48c",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материал\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материал\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "бетон, натуральный камень, металл",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "бетон, натуральный камень, металл",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "69f5773d-746a-4cdf-b171-b6df628a7209",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "0e4856b5-64ab-43fb-9058-0c3f8593e5e4",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "c179ed7d-e197-481e-903e-7909a53e6e07",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/c179ed7d-e197-481e-903e-7909a53e6e07.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e3866413-b079-4737-8953-91556a4b9416",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "34632683-4e15-471f-be33-61609ce397df",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/34632683-4e15-471f-be33-61609ce397df.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8dee9a1f-d4d1-4457-b2b7-e1a1df445d9c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Водные устройства",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Водные устройства",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 5
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "water"
+      }
+    },
+    "cover": null
+  }
+}

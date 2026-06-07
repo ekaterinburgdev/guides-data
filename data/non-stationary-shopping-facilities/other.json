@@ -1,0 +1,161 @@
+{
+  "id": "8d55f10c-e93a-4a14-be10-22fe1d7f13c1",
+  "type": "page",
+  "content": {
+    "title": "Другие объекты"
+  },
+  "children": [
+    {
+      "id": "08dd69e8-5cb7-4768-bf33-354c4b38d6c2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Елочный базар",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Елочный базар",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fa5b6ead-fee2-40e5-90f2-ff6929694edd",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/fa5b6ead-fee2-40e5-90f2-ff6929694edd.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "8736fc6a-c3df-434e-83c3-4e7ec9c10d0a",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/8736fc6a-c3df-434e-83c3-4e7ec9c10d0a.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "125c3806-2404-484f-8206-56c6e26b519c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1d3c35a6-4b1f-4f5e-9fd0-99de89c15086",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Бахчевой развал",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Бахчевой развал",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c222b9ef-43b1-45ca-a591-7b9e62e43f01",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/c222b9ef-43b1-45ca-a591-7b9e62e43f01.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "f9807438-1a3d-4e43-8664-d6d471fc435a",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/f9807438-1a3d-4e43-8664-d6d471fc435a.webp"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Другие объекты",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Другие объекты",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 6
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "other"
+      }
+    },
+    "cover": null
+  }
+}

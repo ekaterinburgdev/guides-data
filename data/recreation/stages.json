@@ -1,0 +1,1430 @@
+{
+  "id": "4483e3ab-8bf4-4615-948d-8781144722c8",
+  "type": "page",
+  "content": {
+    "title": "Этапы благоустройства"
+  },
+  "children": [
+    {
+      "id": "6e90f349-7659-4d1c-92e1-f04c77003390",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Подробное техническое задание + проработанный проект + качественная реализация + надлежащий уход",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Подробное техническое задание + проработанный проект + качественная реализация + надлежащий уход",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 148,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Разработка проекта благоустройства",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Разработка проекта благоустройства",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 149,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Техническое задание",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Техническое задание",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "numbered_list_folder",
+      "children": [
+        {
+          "id": "12372055-d2c8-4921-b20c-4b5d11f1c3fe",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определение границ проекта благоустройства",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определение границ проекта благоустройства",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "ee0b7d7e-23ed-4e36-b0d6-02652a88d9f7",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Установление модели разработки проекта",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Установление модели разработки проекта",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "82abb758-f8b1-43d7-af6e-a4bde4a1267c",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Постановка целей и задач разработки проекта благоустройства",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Постановка целей и задач разработки проекта благоустройства",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "018c3943-a66b-48d1-83d9-ed462a0ceae4",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Проведение общественного обсуждения с целью выявления запроса пользователей объекта",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Проведение общественного обсуждения с целью выявления запроса пользователей объекта",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "1dc8ce36-04d1-4553-a041-e98c3067774d",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Установление требований к параметрам и характеристикам, которыми должен обладать проектируемый объект",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Установление требований к параметрам и характеристикам, которыми должен обладать проектируемый объект",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "f9e29367-fd62-452b-95c5-17a9d6a65ed7",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определение состава и сроков работ по проектированию",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определение состава и сроков работ по проектированию",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "b076a1d6-c049-49a1-942b-8c367f9d2649",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определение порядка согласования проекта благоустройства",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определение порядка согласования проекта благоустройства",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "1871ef67-3ea7-4ea3-9672-2cebbbe14e27",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определение порядка участия исполнителя в проектных семинарах, общественных обсуждениях проекта благоустройства",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определение порядка участия исполнителя в проектных семинарах, общественных обсуждениях проекта благоустройства",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "7e326eec-2b28-4aa9-90a8-5c8214f29818",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Утверждение технического задания",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Утверждение технического задания",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Комплексный анализ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Комплексный анализ",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "numbered_list_folder",
+      "children": [
+        {
+          "id": "5da171c3-70df-49dc-aeaa-d69bb2b8ac9b",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Положение объекта благоустройства в структуре города, района",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Положение объекта благоустройства в структуре города, района",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "421e2fea-83bd-4e9e-9fb9-1e4b6a90e7ca",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Анализ опорного плана территории",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Анализ опорного плана территории",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "da3ee7a9-9c0e-444b-9661-982f92f80d9a",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Анализ текущего состояния объекта",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Анализ текущего состояния объекта",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "753adf01-d842-4a94-9f87-e1e261d232ce",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определение ограничений использования территории проектирования",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определение ограничений использования территории проектирования",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "8ea771d4-1ccc-4fb9-beb2-9f290dfa922c",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Анализ архивных материалов",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Анализ архивных материалов",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "55f552e1-f676-45e6-a9e3-53ace49e78b4",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Социологическое и/или антропологическое",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Социологическое и/или антропологическое",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "37faba14-b5f5-4feb-8ac9-b9fd63261117",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Натурные обследования структуры и интенсивности транспортного и пешеходного потоков",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Натурные обследования структуры и интенсивности транспортного и пешеходного потоков",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "ba4316d2-7ec7-415f-934c-9001abf1fd63",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Инвентаризация существующих насаждений",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Инвентаризация существующих насаждений",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "5b2f187d-cb10-4dfd-8399-630d0d8ea859",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ландшафтный анализ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ландшафтный анализ",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "6a85de52-41b4-4c0f-8b2c-447da53a258f",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Анализ необходимости переустройства инженерных сетей",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Анализ необходимости переустройства инженерных сетей",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Исходная информация",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Исходная информация",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "numbered_list_folder",
+      "children": [
+        {
+          "id": "40a83b2c-d35d-48c2-8f16-ee34c91431c1",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Топографическая съемка, материалы изысканий",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Топографическая съемка, материалы изысканий",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "678d50ae-b14c-49e1-85dc-ed835382a129",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Сведения государственного кадастра объектов недвижимости",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Сведения государственного кадастра объектов недвижимости",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "9ec16611-764c-408c-8023-835e4fc39c00",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Сведения о наличии объектов культурного наследия, особо охраняемых природных территорий в границах объекта проектирования",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Сведения о наличии объектов культурного наследия, особо охраняемых природных территорий в границах объекта проектирования",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "224c18b3-0edd-4543-be61-32784a517aeb",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Документы территориального планирования, градостроительного зонирования, документация по планировке территории, ранее разработанные концепции, эскизные проекты, рабочая документация",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Документы территориального планирования, градостроительного зонирования, документация по планировке территории, ранее разработанные концепции, эскизные проекты, рабочая документация",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "3b1c06ec-5de5-4b51-8895-3a8a587da8f7",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Нормативные документы",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Нормативные документы",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "aa956da3-d029-426e-85ba-cd6fd3395882",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Технические условия от эксплуатирующих организаций",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Технические условия от эксплуатирующих организаций",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "1d8e6b6a-7e10-4e99-9db0-61ef3b077913",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Социально-демографические данные",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Социально-демографические данные",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "0aa0e5a8-c0e7-43df-820c-3e906cc0bb45",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Перечень культурных и спортивно-оздоровительных мероприятий",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Перечень культурных и спортивно-оздоровительных мероприятий",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Концепция",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Концепция",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "numbered_list_folder",
+      "children": [
+        {
+          "id": "99448cd6-4db7-4e2a-bb9f-a9af8c25452d",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Разработка общего видения объекта",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Разработка общего видения объекта",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "8be7c26e-abea-4ea7-bbc5-d9c4563a529e",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Разработка функционального зонирования, определяющего характер использования и организацию движения",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Разработка функционального зонирования, определяющего характер использования и организацию движения",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "67fd209c-3349-4223-b0de-9587fb01cb5f",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Определение архитектурного облика и планировочных решений",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Определение архитектурного облика и планировочных решений",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "a3342fcf-c56e-4a4b-8cde-527c48d50198",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Разработка календаря событий и социо-культурное программирование объекта",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Разработка календаря событий и социо-культурное программирование объекта",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "56f61bfd-b4ca-4bb1-8db9-e758970185d1",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Обсуждение концепции с профильными комитетами Администрации в т.ч. на совете по развитию рекреационных и общественных пространств",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Обсуждение концепции с профильными комитетами Администрации в т.ч. на совете по развитию рекреационных и общественных пространств",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "5d8e4357-d60c-48b8-8eea-1f3389c89425",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Проведение презентаций, обсуждения проекта с экспертами и пользователями",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Проведение презентаций, обсуждения проекта с экспертами и пользователями",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "3945eb74-8a63-4ee8-9384-3b496a10eaa4",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Доработка концепции по результатам обсуждений",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Доработка концепции по результатам обсуждений",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "53b5e9df-250c-4fb9-8f91-90aa718fe4fc",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Утверждение концепции",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Утверждение концепции",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Дизайн-проект",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Дизайн-проект",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "numbered_list_folder",
+      "children": [
+        {
+          "id": "a6b34ecb-e941-4056-99fd-0c84ccbc1c59",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Разработка дизайн-проекта",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Разработка дизайн-проекта",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "53c7503c-41cd-48f7-93a0-0d1281051aea",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Проработка и согласование дизайн-проекта с профильными комитетами и эксплуатирующими организациями",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Проработка и согласование дизайн-проекта с профильными комитетами и эксплуатирующими организациями",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "a7eb79c8-390c-4dcc-949b-fc1bd0b4e0ae",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Публикация дизайн-проекта",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Публикация дизайн-проекта",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Проектно-сметная документация + авторский надзор",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Проектно-сметная документация + авторский надзор",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 155,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рабочая документация + авторский надзор",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рабочая документация + авторский надзор",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 156,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Реализация проекта благоустройства",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Реализация проекта благоустройства",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6496a0ce-0d82-4451-adb9-bacf9e644c94",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/6496a0ce-0d82-4451-adb9-bacf9e644c94.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": 157,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Эксплуатация",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Эксплуатация",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f2c1f7aa-167e-45af-b065-ebd06a8baf99",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/f2c1f7aa-167e-45af-b065-ebd06a8baf99.webp"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Этапы благоустройства",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Этапы благоустройства",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 9
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "stages"
+      }
+    },
+    "cover": null
+  }
+}

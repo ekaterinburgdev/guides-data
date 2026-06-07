@@ -1,0 +1,4204 @@
+{
+  "id": "c00b6da5-ffbf-4f6b-8720-9522d8446325",
+  "type": "page",
+  "content": {
+    "title": "Типология улично-дорожной сети города Екатеринбург"
+  },
+  "children": [
+    {
+      "id": "cf049a57-9979-490d-a0e7-b0af879fddc2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Подход к разработке типологии улиц города основывается на выявлении проблем, особенностей планировочной структуры и природного каркаса города Екатеринбург, градостроительной характеристике улиц и принципах, заложенных в Стратегии пространственного развития города Екатеринбурга.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Подход к разработке типологии улиц города основывается на выявлении проблем, особенностей планировочной структуры и природного каркаса города Екатеринбург, градостроительной характеристике улиц и принципах, заложенных в Стратегии пространственного развития города Екатеринбурга.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c6d20ecf-119c-4dd2-99eb-d5936ef92aa2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 426,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Градостроительная классификация улично-дорожной сети города Екатеринбург",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Градостроительная классификация улично-дорожной сети города Екатеринбург",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "91a01ae5-aa0d-466a-99f8-f747f4fef823",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В основу разработанной в рамках Стандарта типологии улично-дорожной сети города Екатеринбурга легли положения Проекта Генерального плана развития городского округа — муниципального образования «город Екатеринбург» на период до 2041 года.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В основу разработанной в рамках Стандарта типологии улично-дорожной сети города Екатеринбурга легли положения Проекта Генерального плана развития городского округа — муниципального образования «город Екатеринбург» на период до 2041 года.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5e54a4ba-a065-4cf7-b83c-c67d3d01cfd8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Материалы Генерального плана, используемые при разработке Стандарта",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Материалы Генерального плана, используемые при разработке Стандарта",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "15824066-bc13-45cf-84ed-752acb8981ef",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "карта развития транспортной инфраструктуры",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "карта развития транспортной инфраструктуры",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "a9159277-8286-4eb9-b846-df0d1d54e0ca",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "карта развития общественного транспорта",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "карта развития общественного транспорта",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "bf3789df-37d3-44d4-be9e-6db30b54304f",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "карта развития рекреационных и общественных пространств",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "карта развития рекреационных и общественных пространств",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "984c8cee-42e8-4500-a087-90afa794acd7",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "карта развития велосипедной инфраструктуры",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "карта развития велосипедной инфраструктуры",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "eac0a3fb-73ba-473d-87d9-801349e3372f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 427,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Текущие проблемы и особенности использования пространства улиц города Екатеринбург",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Текущие проблемы и особенности использования пространства улиц города Екатеринбург",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "19fde2ca-ec5d-448a-b5a1-c5bf624ca72d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Выявленные в результате предпроектного анализа проблемы и особенности улиц можно условно разделить на три блока: природно-климатические условия, характер использования, архитектурно-исторические особенности",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Выявленные в результате предпроектного анализа проблемы и особенности улиц можно условно разделить на три блока: природно-климатические условия, характер использования, архитектурно-исторические особенности",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1f6b79c7-3077-4fd2-bc37-9d7264b68596",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "При проведении исследований использовались данные, предоставленные Администрацией города Екатеринбург, полученные из публичных источников, собранные ранее в ходе научных исследований разработчиками.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "При проведении исследований использовались данные, предоставленные Администрацией города Екатеринбург, полученные из публичных источников, собранные ранее в ходе научных исследований разработчиками.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a864b1b0-f7c9-4b67-a4fb-c9e7eddb54d3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В ходе предпроектного анализа использовались следующие методы исследования: полевые исследования; обобщение данных литературных источников; изучение архивных материалов; картирование данных с помощью геоинформационных сервисов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В ходе предпроектного анализа использовались следующие методы исследования: полевые исследования; обобщение данных литературных источников; изучение архивных материалов; картирование данных с помощью геоинформационных сервисов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0c3e5e60-943d-4fab-8560-7075c95011bc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 428,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Природно-климатические условия",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Природно-климатические условия",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "59f4fbf1-0cfd-4ed1-8331-caf45ea11a1c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Для оценки природно-климатических условий были проанализированы следующие компоненты, формирующие природный каркас города:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Для оценки природно-климатических условий были проанализированы следующие компоненты, формирующие природный каркас города:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "e04c5998-97fc-411b-a349-6c22cd434ea1",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "озеленение территории города,",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "озеленение территории города,",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "f448717c-5732-4967-acaa-3be6ff2091eb",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "геоморфологические условия и рельеф,",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "геоморфологические условия и рельеф,",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "132b7e06-c6da-44ef-b13f-8f0a493d105a",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "места обитания животных и птиц,",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "места обитания животных и птиц,",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "13cca383-d92c-424e-844b-ed54eedc5717",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "разница температур поверхности земли территории города и его окрестностей.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "разница температур поверхности земли территории города и его окрестностей.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "8bd58a63-4490-4739-ab22-28219923856b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Анализ проведен на основе открытых данных сети Интернет и материалов МБУ «Мастерская генерального плана»",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Анализ проведен на основе открытых данных сети Интернет и материалов МБУ «Мастерская генерального плана»",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d20f0e0e-55bf-47a0-ac8c-3828d3918b93",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 429,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Карта зеленого каркаса",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Карта зеленого каркаса",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "abf282ba-639a-48cf-a12e-1f71053035f6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Карта зеленого каркаса была выполнена на основе открытых данных ресурса OpenStreetMap, данных дистанционного зондирования Земли, полевых исследований с учётом Карты развития зеленых рекреационных и общественных пространств.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Карта зеленого каркаса была выполнена на основе открытых данных ресурса OpenStreetMap, данных дистанционного зондирования Земли, полевых исследований с учётом Карты развития зеленых рекреационных и общественных пространств.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "63e29751-d1fe-4dce-83ac-2be1def362e8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Данная карта может стать основой для оценки потенциала в пространстве улично дорожной сети, который можно использовать при создании связной системы экологических и зеленых рекреационных пространств города. Были рассмотрены существующие озелененные и природные территории вне зависимости от статуса участка, а также внесены потенциальные и желательные для вхождения в зеленый городской каркас территории.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Данная карта может стать основой для оценки потенциала в пространстве улично дорожной сети, который можно использовать при создании связной системы экологических и зеленых рекреационных пространств города. Были рассмотрены существующие озелененные и природные территории вне зависимости от статуса участка, а также внесены потенциальные и желательные для вхождения в зеленый городской каркас территории.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a3c7192c-9835-42e8-9042-05e51ef75e7a",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/a3c7192c-9835-42e8-9042-05e51ef75e7a.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "9e774f51-e55b-4d16-922b-f90a25a16038",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 430,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Карта биологического разнообразия",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Карта биологического разнообразия",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8f68c4b5-20a2-4090-90dc-8cac2920b54d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Для оценки распределения флоры и фауны в пределах городских лесопарков и иных природных и урбанизированных территорий были использованы данные международного портала натуралистов ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Для оценки распределения флоры и фауны в пределах городских лесопарков и иных природных и урбанизированных территорий были использованы данные международного портала натуралистов ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Inaturalist.org",
+              "link": {
+                "url": "http://inaturalist.org/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Inaturalist.org",
+            "href": "http://inaturalist.org/"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f15eb1c4-e41b-4eb4-94cc-9196f7856e34",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/f15eb1c4-e41b-4eb4-94cc-9196f7856e34.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "00cd7093-274b-45fb-a81f-4c328477ecd3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 431,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Карта теплового острова",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Карта теплового острова",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e2494e6d-4fb7-4e84-bc4a-d811bb434856",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Для оценки разницы температур поверхности внутри города и за его пределами были использованы данные дистанционного зондирования Земли со спутника Sentinel-2. По результатам обработки данных в программах SNAP и QGIS были выявлены планировочные районы города, где данный эффект проявляется сильнее всего.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Для оценки разницы температур поверхности внутри города и за его пределами были использованы данные дистанционного зондирования Земли со спутника Sentinel-2. По результатам обработки данных в программах SNAP и QGIS были выявлены планировочные районы города, где данный эффект проявляется сильнее всего.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fcbd3712-1d23-4731-bc8e-05c66ef8315d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Городской остров тепла — феномен увеличения температуры воздуха в городе по сравнению с окружающей его местностью. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Городской остров тепла — феномен увеличения температуры воздуха в городе по сравнению с окружающей его местностью. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Ссылка на исследование",
+              "link": {
+                "url": "http://www.geogr.msu.ru/cafedra/karta/materials/heat_img/files/2/urbanizirovannye_territorii.htm"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ссылка на исследование",
+            "href": "http://www.geogr.msu.ru/cafedra/karta/materials/heat_img/files/2/urbanizirovannye_territorii.htm"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a1ff0ab1-9114-4a49-9330-ca4ec7869fa3",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/a1ff0ab1-9114-4a49-9330-ca4ec7869fa3.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "56ea08b1-493d-4aa2-9cc9-92a8edb289e1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 432,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Карта геоморфологии рельефа и ландшафтных особенностей территории города",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Карта геоморфологии рельефа и ландшафтных особенностей территории города",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c17a4528-bbeb-403b-814d-36a0c89f02f7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "На основе данных по рельефу местности, гидрографической сети, включая закрытую сеть дождевой канализации, а именно сведения о малых реках, заключенных в каналы, предоставленных МБУ «Мастерской генерального плана», с учётом архивных данных по положению уровня грунтовых вод и относительно поверхности земли, ранее заболоченных территориях, геологическом строении территории города был выполнен анализ геоморфологических условий территории, выделены бассейны стока, пойменные территории малых рек, которые в результате освоения территории города претерпели изменения и утратили естественные характеристики.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "На основе данных по рельефу местности, гидрографической сети, включая закрытую сеть дождевой канализации, а именно сведения о малых реках, заключенных в каналы, предоставленных МБУ «Мастерской генерального плана», с учётом архивных данных по положению уровня грунтовых вод и относительно поверхности земли, ранее заболоченных территориях, геологическом строении территории города был выполнен анализ геоморфологических условий территории, выделены бассейны стока, пойменные территории малых рек, которые в результате освоения территории города претерпели изменения и утратили естественные характеристики.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fc8cad98-7cf2-403c-86f9-1557d79acd71",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "С помощью открытых источников были собраны сведения и выделены участки улиц, на которых во время интенсивных дождей происходит затопление проезжей части улиц и тротуаров. Результатом анализа стало выявление взаимосвязи между положением участков улиц, склонных к затоплению во время дождя, в плане города и их расположением на рельефе, а также территорий, которые в силу своего расположения на рельефе имеют наибольшую природную ценность и могут быть рекомендованы к раскрытию их потенциала в части формирования водно-зеленого каркаса города.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "С помощью открытых источников были собраны сведения и выделены участки улиц, на которых во время интенсивных дождей происходит затопление проезжей части улиц и тротуаров. Результатом анализа стало выявление взаимосвязи между положением участков улиц, склонных к затоплению во время дождя, в плане города и их расположением на рельефе, а также территорий, которые в силу своего расположения на рельефе имеют наибольшую природную ценность и могут быть рекомендованы к раскрытию их потенциала в части формирования водно-зеленого каркаса города.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c4ba66b9-cf84-4440-ac30-0ca9a5673caa",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/c4ba66b9-cf84-4440-ac30-0ca9a5673caa.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "c13088cb-5c62-475d-bbe9-602e4463efc5",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cf1ae4de-db0f-462b-8958-8b25ded3b677",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f289c64d-c0d3-4599-a45b-1b3883c1292e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В результате оценки природно-климатических условий города Екатеринбург выявлено:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В результате оценки природно-климатических условий города Екатеринбург выявлено:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "71206609-2ca2-4f95-9621-86952ace6893",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "озеленение улиц, особенно в центре города, имеет фрагментарный характер либо полностью отсутствует, состояние крупномерных деревьев не позволяет реализовать защитный, регулирующий и эстетический потенциал озеленения;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "озеленение улиц, особенно в центре города, имеет фрагментарный характер либо полностью отсутствует, состояние крупномерных деревьев не позволяет реализовать защитный, регулирующий и эстетический потенциал озеленения;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "b9fbcdb8-9daa-4d4e-a825-df61b40df986",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "существующие парки и отдельные участки озеленения в городе являются местом обитания птиц различного видового состава, что создает предпосылки для развития биоразнообразия фауны за счет формирования связности ареалов обитания путём развития озеленения улиц;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "существующие парки и отдельные участки озеленения в городе являются местом обитания птиц различного видового состава, что создает предпосылки для развития биоразнообразия фауны за счет формирования связности ареалов обитания путём развития озеленения улиц;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "2200d945-1d9f-4415-a1fe-7e446acdb7e2",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "80 % территорий планировочных районов города в дневное время летних месяцев систематически перегревается на 4-8 градусов по Цельсию в сравнении с загородными территориями, что связано с переизбытком твердых покрытий улиц и иных общественных пространств и негативно сказывается на здоровье граждан и потреблении энергии;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "80 % территорий планировочных районов города в дневное время летних месяцев систематически перегревается на 4-8 градусов по Цельсию в сравнении с загородными территориями, что связано с переизбытком твердых покрытий улиц и иных общественных пространств и негативно сказывается на здоровье граждан и потреблении энергии;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "f78822b0-c3bb-486e-a7bf-6ec2c777fc71",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "затопление проезжих частей и тротуаров улиц во время сильных дождей, обмеление в маловодные периоды рек Исеть и Патрушиха является следствием избыточного использования не пропускающих влагу твердых покрытий для благоустройства улиц и иных территорий, в результате чего нарушается их водный баланс вследствие техногенного изменения природного ландшафта города, нарушения водного баланса, «запечатывания» большого количества поверхности земли в твердые покрытия;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "затопление проезжих частей и тротуаров улиц во время сильных дождей, обмеление в маловодные периоды рек Исеть и Патрушиха является следствием избыточного использования не пропускающих влагу твердых покрытий для благоустройства улиц и иных территорий, в результате чего нарушается их водный баланс вследствие техногенного изменения природного ландшафта города, нарушения водного баланса, «запечатывания» большого количества поверхности земли в твердые покрытия;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "e7a83f14-fe14-4e2e-bb89-6c05f0c41346",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "коллекторы большого сечения, в которые заключены малые реки городского центра, изношены на 100%, что поднимает вопрос о необходимости реконструкции участков сложившейся подземной гидрологической сети одновременно с реконструкцией улиц;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "коллекторы большого сечения, в которые заключены малые реки городского центра, изношены на 100%, что поднимает вопрос о необходимости реконструкции участков сложившейся подземной гидрологической сети одновременно с реконструкцией улиц;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "d24a6367-36f0-4f28-8fa6-0334d0547788",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "качество стока дождевой канализации требует повышения качества очистки поверхностных сточных вод;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "качество стока дождевой канализации требует повышения качества очистки поверхностных сточных вод;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "a6c730ef-31aa-4fe4-91f1-0431f3b6ce1c",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "расположение дождеприёмных колодцев требуется повышенного внимания, должно обеспечивать достаточную водоперехватывающую способность.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "расположение дождеприёмных колодцев требуется повышенного внимания, должно обеспечивать достаточную водоперехватывающую способность.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "eef86e5d-7a05-42d8-b834-9bfb1dd3c4d1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 433,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Анализ характера использования улиц",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Анализ характера использования улиц",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b0f60750-f33d-4d19-ade3-73966b30630b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В части анализа характера использования улично-дорожной сети города были проанализированы материалы Проекта Генерального плана развития городского округа – муниципального образования «город Екатеринбург» на период до 2041 года с распределением по группам пользователей — пешеходы, средства индивидуальной мобильности, общественный транспорт и личный транспорт.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В части анализа характера использования улично-дорожной сети города были проанализированы материалы Проекта Генерального плана развития городского округа – муниципального образования «город Екатеринбург» на период до 2041 года с распределением по группам пользователей — пешеходы, средства индивидуальной мобильности, общественный транспорт и личный транспорт.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "51b63628-1ebe-48b8-9c41-af996cd41b9d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Участки улиц рассматривались с точки зрения положения и значимости в системе рекреационных и общественных пространств, создания каркаса велоинфраструктуры, системы общественного транспорта и градостроительной категории. На основании данного анализа были выявлены различные комбинации групп пользователей на участках улиц и иерархия их значимости в пространстве улицы.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Участки улиц рассматривались с точки зрения положения и значимости в системе рекреационных и общественных пространств, создания каркаса велоинфраструктуры, системы общественного транспорта и градостроительной категории. На основании данного анализа были выявлены различные комбинации групп пользователей на участках улиц и иерархия их значимости в пространстве улицы.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "82bb1dc8-9f5a-4191-86a4-ca0df1d3feb6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Также был составлен каталог участков улиц с геометрическими параметрами элементов поперечного профиля для оценки потенциала перераспределения пространства между всеми группами пользователей согласно выявленным комбинациям.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Также был составлен каталог участков улиц с геометрическими параметрами элементов поперечного профиля для оценки потенциала перераспределения пространства между всеми группами пользователей согласно выявленным комбинациям.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3a8ef9bb-db61-4f7d-b6c7-8c3e9ec4a3ff",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ad2d4b32-7299-43d4-80b8-e9f8f1e127aa",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "По результатам оценки характера использования улиц Екатеринбурга были сделаны следующие выводы:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "По результатам оценки характера использования улиц Екатеринбурга были сделаны следующие выводы:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "2d303662-014f-41fc-911b-5b13f14b0af7",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "полосы для движения общественного транспорта имеют фрагментарное обособление, что приводит к его неэффективной работе вследствие задержек на не обособленных участках;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "полосы для движения общественного транспорта имеют фрагментарное обособление, что приводит к его неэффективной работе вследствие задержек на не обособленных участках;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "0ae5f05c-4628-4f7d-8394-50723fa903bd",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "существующее высотное и планировочное решение остановочных пунктов общественного транспорта в поперечном профиле и на плане участка улицы приводит к задержкам при посадке-высадке пассажиров;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "существующее высотное и планировочное решение остановочных пунктов общественного транспорта в поперечном профиле и на плане участка улицы приводит к задержкам при посадке-высадке пассажиров;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "5e784aff-9dd5-4bc3-8af7-8d851e7d83a3",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "задержки общественного транспорта перед перекрестками вследствие отсутствия системы обеспечения приоритетного проезда перекрестков на сети общественного транспорта;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "задержки общественного транспорта перед перекрестками вследствие отсутствия системы обеспечения приоритетного проезда перекрестков на сети общественного транспорта;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "85e0745a-665b-4d10-83b7-38d6ccbe34b2",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "транзитное движение личного транспорта по участкам улиц, не предназначенных для обслуживания транзита, приводит к транспортным заторам и увеличению интенсивности движения, что, в свою очередь, требует увеличения количества полос проезжей части, занимая пространство улицы;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "транзитное движение личного транспорта по участкам улиц, не предназначенных для обслуживания транзита, приводит к транспортным заторам и увеличению интенсивности движения, что, в свою очередь, требует увеличения количества полос проезжей части, занимая пространство улицы;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "f5b861da-3ceb-4b93-82b4-89ec19dfa7a6",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "ширина полос движения транспорта на улицах города избыточна, что провоцирует нарушение скоростного режима движения и не позволяет использовать пространство улицы более эффективно для комфорта и безопасности всех групп пользователей;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "ширина полос движения транспорта на улицах города избыточна, что провоцирует нарушение скоростного режима движения и не позволяет использовать пространство улицы более эффективно для комфорта и безопасности всех групп пользователей;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "793e7130-aefd-4fc9-8895-bd02f99a11b8",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "единая разрешенная скорость движения на улицах разных категорий и отсутствие планировочных мероприятий по снижению скорости движения снижает комфорт и безопасность всех групп пользователей;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "единая разрешенная скорость движения на улицах разных категорий и отсутствие планировочных мероприятий по снижению скорости движения снижает комфорт и безопасность всех групп пользователей;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "72895fff-8e48-4504-9caf-95f9adce7b05",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "существующая сеть велодорожек фрагментарна и не позволяет организовать движение велосипедистов между центром города и крупными районами города в режиме “дом-работа” и в рекреационных целях;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "существующая сеть велодорожек фрагментарна и не позволяет организовать движение велосипедистов между центром города и крупными районами города в режиме “дом-работа” и в рекреационных целях;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "4b411a5d-a3c6-41b9-aab8-b052ac311268",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "возникновение конфликтных ситуаций между велосипедистами и другими группами пользователей улицы вследствие отсутствия единых требований к размещению велодорожек и велополос в поперечном профиле улиц.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "возникновение конфликтных ситуаций между велосипедистами и другими группами пользователей улицы вследствие отсутствия единых требований к размещению велодорожек и велополос в поперечном профиле улиц.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "3587969c-cad6-4106-b390-9de7e5e48279",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 434,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Анализ функционально-архитектурных особенностей города",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Анализ функционально-архитектурных особенностей города",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "88a384aa-e611-4113-8782-b5d50e7ba4ae",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В процессе анализа оценивались предпосылки формирования рекомендаций для архитектурной стилизации элементов благоустройства в соответствии с историческими этапами развития города и поддержания специфических функциональных особенностей улично-дорожной сети. Полученные данные фиксировались с помощью тематических карт.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В процессе анализа оценивались предпосылки формирования рекомендаций для архитектурной стилизации элементов благоустройства в соответствии с историческими этапами развития города и поддержания специфических функциональных особенностей улично-дорожной сети. Полученные данные фиксировались с помощью тематических карт.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "830ad37a-dcf7-4ed8-9074-330e78fc3b30",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 435,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Карта архитектурно-исторического зонирования",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Карта архитектурно-исторического зонирования",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cd16a7f7-cee4-43c0-b12f-267c3397f07d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Карта архитектурно-исторического зонирования создавалась на основе сведений о годах постройки жилых зданий (открытые данные портала ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Карта архитектурно-исторического зонирования создавалась на основе сведений о годах постройки жилых зданий (открытые данные портала ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "reformagkh.ru",
+              "link": {
+                "url": "http://reformagkh.ru/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "reformagkh.ru",
+            "href": "http://reformagkh.ru/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "), о расположении объектов культурного наследия, исторических карт города (1888, 1910, 1932, 1947, 1958 гг.), геопривязанных исторических фотографий Екатеринбурга — Свердловска (данные сайта ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "), о расположении объектов культурного наследия, исторических карт города (1888, 1910, 1932, 1947, 1958 гг.), геопривязанных исторических фотографий Екатеринбурга — Свердловска (данные сайта ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "pastvu.com",
+              "link": {
+                "url": "http://pastvu.com/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "pastvu.com",
+            "href": "http://pastvu.com/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ") и полевых наблюдений.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ") и полевых наблюдений.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "50691d98-8228-4d39-a5e7-f154be93456f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Анализ данных позволил создать карту архитектурно-исторического зонирования города Екатеринбург и обосновать необходимость дальнейшего координатного описания выявленных зон, а также сформировать рекомендации по архитектурным решениям элементов комплексного благоустройства в архитектурно-исторических зонах.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Анализ данных позволил создать карту архитектурно-исторического зонирования города Екатеринбург и обосновать необходимость дальнейшего координатного описания выявленных зон, а также сформировать рекомендации по архитектурным решениям элементов комплексного благоустройства в архитектурно-исторических зонах.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "79bdf88d-ce93-4df8-82ed-4fb043667c7f",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/79bdf88d-ce93-4df8-82ed-4fb043667c7f.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "f3d0614a-b23a-4f86-815e-b8e139435f57",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 436,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Карта туристических улиц",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Карта туристических улиц",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ac9e8ab3-fe20-4f22-9f8d-693b2cf22e06",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "На основе данных о расположении объектов культурного наследия и важнейших видовых точек, тематических источников по туристическим маршрутам Екатеринбурга, публикаций местных СМИ и полевых исследований была выявлена специфика трассировки туристических улиц Екатеринбурга. Созданная карта отражает сеть участков улиц, используемых в целях пешего туризма в центре города, в районах и населенных пунктах.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "На основе данных о расположении объектов культурного наследия и важнейших видовых точек, тематических источников по туристическим маршрутам Екатеринбурга, публикаций местных СМИ и полевых исследований была выявлена специфика трассировки туристических улиц Екатеринбурга. Созданная карта отражает сеть участков улиц, используемых в целях пешего туризма в центре города, в районах и населенных пунктах.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a73ea3b8-94d8-416d-9eef-1531c4f026cb",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/a73ea3b8-94d8-416d-9eef-1531c4f026cb.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "eb32d1ee-9301-444b-bd8b-bfe6ec1df213",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 437,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Карта парадных улиц",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Карта парадных улиц",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e7a63256-b317-4710-8204-cad55a229b40",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Источниками данных послужили полевые исследования, публикации местных СМИ, геопривязанные исторические фотографии Екатеринбурга — Свердловска (данные с сайт ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Источниками данных послужили полевые исследования, публикации местных СМИ, геопривязанные исторические фотографии Екатеринбурга — Свердловска (данные с сайт ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "pastvu.com",
+              "link": {
+                "url": "http://pastvu.com/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "pastvu.com",
+            "href": "http://pastvu.com/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "). Карта отражает трассировку участков улиц, служащих основными путями для въезда в город, для транспортного и пешего передвижения между районами города, для расположения важнейших общественных зданий в центре города, в районах и населенных пунктах.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "). Карта отражает трассировку участков улиц, служащих основными путями для въезда в город, для транспортного и пешего передвижения между районами города, для расположения важнейших общественных зданий в центре города, в районах и населенных пунктах.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7b55ea5e-28b0-4976-a018-19c362ea9daa",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/7b55ea5e-28b0-4976-a018-19c362ea9daa.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "0dcc5ffd-cc44-479a-82b2-aaf904f83021",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7d26bdd6-4458-4e18-80b8-84c765e1b59c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 438,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Карта событийных улиц",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Карта событийных улиц",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b9a936cb-9abd-4fdb-a99f-d118e84eaa67",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Источниками данных послужили публикации местных СМИ, полевые исследования, геопривязанные исторические фотографии Екатеринбурга — Свердловска (данные с сайт ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Источниками данных послужили публикации местных СМИ, полевые исследования, геопривязанные исторические фотографии Екатеринбурга — Свердловска (данные с сайт ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "pastvu.com",
+              "link": {
+                "url": "http://pastvu.com/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "pastvu.com",
+            "href": "http://pastvu.com/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "). Карта отражает трассировку участков улиц, служащих местами массового скопления пешеходов в дни праздников (День Победы, Новый Год, День Города и т.п.) и спортивных мероприятий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "). Карта отражает трассировку участков улиц, служащих местами массового скопления пешеходов в дни праздников (День Победы, Новый Год, День Города и т.п.) и спортивных мероприятий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ddd212ed-aab9-45b1-9e02-f58094d9cfb6",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/ddd212ed-aab9-45b1-9e02-f58094d9cfb6.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "69e2c7f2-c90f-4a2f-a159-03bc9b79a743",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "853d8782-1a04-43fe-ae9b-1fb9f7164040",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "По результатам анализа функционально-архитектурных особенностей города Екатеринбург были сделаны следующие выводы:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "По результатам анализа функционально-архитектурных особенностей города Екатеринбург были сделаны следующие выводы:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "e658c96f-cfd4-4a70-9877-eb5287ce5faa",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "сформированная в 50-60-х гг. ХХ века иерархическая система благоустройства улиц городского, районного и местного значения, специфическое разнообразие городской среды в значительной степени утрачены в процессе обновления кварталов исторической застройки;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "сформированная в 50-60-х гг. ХХ века иерархическая система благоустройства улиц городского, районного и местного значения, специфическое разнообразие городской среды в значительной степени утрачены в процессе обновления кварталов исторической застройки;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "4bfd24b9-34a7-4e08-9e95-eec46d7b06b3",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "обоснование архитектурно-исторического зонирования города, регламентирующего стилистику элементов комплексного благоустройства, требует проведение работ по формированию координатного описания зон с учётом границ участков улиц, элементов природного каркаса, общественной и промышленной застройки на внутриквартальных территориях и территориях транспортной инфраструктуры;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "обоснование архитектурно-исторического зонирования города, регламентирующего стилистику элементов комплексного благоустройства, требует проведение работ по формированию координатного описания зон с учётом границ участков улиц, элементов природного каркаса, общественной и промышленной застройки на внутриквартальных территориях и территориях транспортной инфраструктуры;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "e2a35fb7-8d87-4563-866f-c7e4d9fc15f5",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "связная система рекреационных и общественных пространств и природных ландшафтов Екатеринбурга, как фиксирующая основа идентичности города отсутствует;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "связная система рекреационных и общественных пространств и природных ландшафтов Екатеринбурга, как фиксирующая основа идентичности города отсутствует;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "924dbb38-16c6-4bc2-acf8-8cc7c01923fa",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "фрагментарность навигационной сети и отсутствие официально утвержденной сети городских туристических маршрутов, формируемых вокруг объектов культурного наследия, ключевых элементов природного каркаса и важнейших общественных пространств города снижает привлекательность города для туристов;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "фрагментарность навигационной сети и отсутствие официально утвержденной сети городских туристических маршрутов, формируемых вокруг объектов культурного наследия, ключевых элементов природного каркаса и важнейших общественных пространств города снижает привлекательность города для туристов;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "5151398e-47bd-4914-bbdb-30480513b5bb",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "ограниченный доступ пешеходов к значимым городским ландшафтам и видовым точкам не в полной мере раскрывает туристический и рекреационный потенциал города.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "ограниченный доступ пешеходов к значимым городским ландшафтам и видовым точкам не в полной мере раскрывает туристический и рекреационный потенциал города.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "37c1a47b-4b11-4062-9efc-6167bf8db655",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 439,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Обоснование выбранной стратегии при разработке типологии улиц",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Обоснование выбранной стратегии при разработке типологии улиц",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9a37b6fb-57a1-4ae9-909a-e0d1d39ffea6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В современных условиях необходимо закладывать более гибкие и разнообразные подходы к комплексному благоустройству улиц, рассматривать улицы, как общественные пространства и источник городских преобразований. Помимо транзитной функции пространство улицы должно учитывать потребности всех групп пользователей, создавать условия для достижения более крупных социальных, экономических и экологических целей, учитывать локальную идентичность. Удачными примерами городов, прошедших трансформацию от «городов для автомобилей» к «доступным и зелёным городам» являются: Амстердам, Лондон, Нью-Йорк, Мадрид, Копенгаген, Москва, Стокгольм, Париж, Стамбул и многие другие.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В современных условиях необходимо закладывать более гибкие и разнообразные подходы к комплексному благоустройству улиц, рассматривать улицы, как общественные пространства и источник городских преобразований. Помимо транзитной функции пространство улицы должно учитывать потребности всех групп пользователей, создавать условия для достижения более крупных социальных, экономических и экологических целей, учитывать локальную идентичность. Удачными примерами городов, прошедших трансформацию от «городов для автомобилей» к «доступным и зелёным городам» являются: Амстердам, Лондон, Нью-Йорк, Мадрид, Копенгаген, Москва, Стокгольм, Париж, Стамбул и многие другие.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "59c522c2-30f6-414b-95d9-77bcf7c42605",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В результате предпроектного анализа улично-дорожной сети города Екатеринбурга были выявлены важные особенности улиц, проблемы технического плана и особенности характеристик природно-климатических условий, решение которых позволит повысить качество и комфорт городской среды для горожан и гостей Екатеринбурга, с учетом архитектурных, исторических и социокультурных особенностей городского пространства. Формирование линейных общественных пространств улично-дорожной сети города позволит объединить разрозненные в настоящий момент элементы в единый водно-зелёный каркас Екатеринбурга.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В результате предпроектного анализа улично-дорожной сети города Екатеринбурга были выявлены важные особенности улиц, проблемы технического плана и особенности характеристик природно-климатических условий, решение которых позволит повысить качество и комфорт городской среды для горожан и гостей Екатеринбурга, с учетом архитектурных, исторических и социокультурных особенностей городского пространства. Формирование линейных общественных пространств улично-дорожной сети города позволит объединить разрозненные в настоящий момент элементы в единый водно-зелёный каркас Екатеринбурга.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "40e1462c-1757-4b0c-a845-96511cd4d665",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В основу организации поверхностного водоотвода города заложены три принципа, которые направлены на создание благоприятных условий для передвижения пешеходов и транспорта, на поддержание комфортного водно-теплового баланса городской среды, а также на сокращение нагрузки на закрытую систему дождевой канализации и очистные сооружения:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В основу организации поверхностного водоотвода города заложены три принципа, которые направлены на создание благоприятных условий для передвижения пешеходов и транспорта, на поддержание комфортного водно-теплового баланса городской среды, а также на сокращение нагрузки на закрытую систему дождевой канализации и очистные сооружения:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d9eb9b81-97bc-483d-b51c-f2f1feb3b366",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "5e168809-3145-4bd4-ab31-215627e82e09",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.33333333333333337
+          },
+          "children": [
+            {
+              "id": "1e2127c6-661d-4794-9472-cf231d60862e",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Принцип скорейшего отвода поверхностных вод с территории улиц",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Принцип скорейшего отвода поверхностных вод с территории улиц",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "ac8df9df-e104-4a18-b897-a3f4ad2595cd",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "При интенсивных дождях необходимо обеспечивать скорейший отвод атмосферных осадков с территории улиц для исключения затопления тротуаров и проезжих частей.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "При интенсивных дождях необходимо обеспечивать скорейший отвод атмосферных осадков с территории улиц для исключения затопления тротуаров и проезжих частей.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7886c83d-3f32-4821-a508-4e11b3f2b4f5",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.33333333333333337
+          },
+          "children": [
+            {
+              "id": "6e445728-21b8-4d1d-8ed1-a2f700c92a89",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Принцип разделения поверхностного стока",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Принцип разделения поверхностного стока",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "59e1cc40-e2fa-42a4-a5d0-e055cde62a70",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Наиболее загрязненный сток с покрытий проезжих частей и парковок подлежит сбору и отводу в систему закрытой дождевой канализации и далее на очистные сооружения с последующим выпуском в водные объекты и на условно чистый сток с покрытий газонов, тротуаров и кровель.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Наиболее загрязненный сток с покрытий проезжих частей и парковок подлежит сбору и отводу в систему закрытой дождевой канализации и далее на очистные сооружения с последующим выпуском в водные объекты и на условно чистый сток с покрытий газонов, тротуаров и кровель.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "dd412569-11e7-4848-8291-cb979ea85a6c",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.3333333333333333
+          },
+          "children": [
+            {
+              "id": "e7f9954b-dc5c-4738-8777-2b7b7a0b1fda",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Принцип задержания условно чистого поверхностного стока",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Принцип задержания условно чистого поверхностного стока",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "0bd2c608-2ba3-445f-9310-56d7d6340d83",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Данный принцип предусматривает максимальное задержание условно чистого поверхностного стока, в том числе путём устройства специальных компенсационные водозадерживающих систем.",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Данный принцип предусматривает максимальное задержание условно чистого поверхностного стока, в том числе путём устройства специальных компенсационные водозадерживающих систем.",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bdaa119d-8f0a-4d60-a1aa-4f2e58fb895c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Трансформация понимания улицы не только как территории транзитного транспортного движения, но и как общественного пространства ставит вопрос обеспечения приоритета пешеходного движения. Транзитное велодвижение предусматривается на улицах, которые образуют связный велокаркас. Общественный транспорт по возможности обособляется для эффективного функционирования. Транзитное движение личных автомобилей через центральный планировочный район является нежелательным, транспортные коридоры предусматриваются по периметру центрального планировочного района, а также связывают административные районы города с центром и друг с другом, выходя на городские дороги. Для остальных типов движение личных автомобилей не является абсолютным приоритетом в связи с низкой провозной способностью, предусматриваются мероприятия по снижению скорости движения. Приоритетным способом передвижения между районами является общественный транспорт, внутри районов — общественный транспорт, передвижения на средствах индивидуальной мобильности, пешеходное движение.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Трансформация понимания улицы не только как территории транзитного транспортного движения, но и как общественного пространства ставит вопрос обеспечения приоритета пешеходного движения. Транзитное велодвижение предусматривается на улицах, которые образуют связный велокаркас. Общественный транспорт по возможности обособляется для эффективного функционирования. Транзитное движение личных автомобилей через центральный планировочный район является нежелательным, транспортные коридоры предусматриваются по периметру центрального планировочного района, а также связывают административные районы города с центром и друг с другом, выходя на городские дороги. Для остальных типов движение личных автомобилей не является абсолютным приоритетом в связи с низкой провозной способностью, предусматриваются мероприятия по снижению скорости движения. Приоритетным способом передвижения между районами является общественный транспорт, внутри районов — общественный транспорт, передвижения на средствах индивидуальной мобильности, пешеходное движение.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e4e3251a-2da8-4ed6-817b-f1f117af4f31",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Таким образом, пространство улицы рассматривается как среда, где взаимодействуют разные виды городской жизни, застройка, история места и окружающая среда.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Таким образом, пространство улицы рассматривается как среда, где взаимодействуют разные виды городской жизни, застройка, история места и окружающая среда.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6a623498-618c-4baf-9016-3575f0f0f184",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 526,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Типология улично-дорожной сети города Екатеринбург с учётом характера использования и существующих особенностей",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Типология улично-дорожной сети города Екатеринбург с учётом характера использования и существующих особенностей",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "bde69ab7-18bb-49a7-a159-fa2ef02218f0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Типология улично-дорожной сети города Екатеринбурга основывается на двух базовых параметрах",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Типология улично-дорожной сети города Екатеринбурга основывается на двух базовых параметрах",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "numbered_list_folder",
+      "children": [
+        {
+          "id": "ae19fd91-6141-4a90-9089-6313790c3f89",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "характеристика ландшафта",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "характеристика ландшафта",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "c11a6c0d-7122-4661-8e9d-75a70c85ebbd",
+          "type": "numbered_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "характер использования",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "характер использования",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "58ef2e2c-2607-46c8-9022-af46d2841efa",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 527,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Характеристика ландшафта участка улицы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Характеристика ландшафта участка улицы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "88e80c19-59cc-48e7-b16b-5e5c634fac00",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В зависимости от характеристики ландшафта, основанной на том, что геоморфологический элемент и положение того или иного участка улицы на рельефе является неизменной во времени характеристикой участка улицы, выделено три типа",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В зависимости от характеристики ландшафта, основанной на том, что геоморфологический элемент и положение того или иного участка улицы на рельефе является неизменной во времени характеристикой участка улицы, выделено три типа",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "129b6e7d-778b-4bdc-bf1e-7605f06be61f",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "d9e545f7-2648-4871-a1d1-eca6d37faa1b",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.6875
+          },
+          "children": [
+            {
+              "id": "afa78ade-b9f4-4970-9861-0ed15322aa2b",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/afa78ade-b9f4-4970-9861-0ed15322aa2b.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "10255889-dd78-45bb-947f-035c5899377d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.3125
+          },
+          "children": [
+            {
+              "type": "numbered_list_folder",
+              "children": [
+                {
+                  "id": "186685a2-0a21-43ee-a363-f0e7d16466e0",
+                  "type": "numbered_list_item",
+                  "content": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Собирающая улица",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Собирающая улица",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": []
+                },
+                {
+                  "id": "427e6890-308b-4a49-b13e-57db5f7c101f",
+                  "type": "numbered_list_item",
+                  "content": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Перехватывающая улица",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Перехватывающая улица",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": []
+                },
+                {
+                  "id": "79127a52-7c92-49e6-ba23-307e4c5d750c",
+                  "type": "numbered_list_item",
+                  "content": {
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Распределяющая улица",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Распределяющая улица",
+                        "href": null
+                      }
+                    ],
+                    "color": "default"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "99d6b702-be85-46c6-811b-4eedc96140b3",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fbbdc3f0-0d62-43e6-a11e-1371ce04b70d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Тип С — Собирающая",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Тип С — Собирающая",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f2f13e5e-6b6b-466c-a5f7-25c57c91ecc1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Участок улицы, положение которого на рельефе представляет наибольшую ландшафтную ценность, расположенный вдоль наиболее пониженных участков местности, пойм малых рек, в том числе заключенных в каналы. Такие участки являются приоритетными «экологическими коридорами» природного каркаса города.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Участок улицы, положение которого на рельефе представляет наибольшую ландшафтную ценность, расположенный вдоль наиболее пониженных участков местности, пойм малых рек, в том числе заключенных в каналы. Такие участки являются приоритетными «экологическими коридорами» природного каркаса города.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cc84adab-e1f1-4efa-aaf9-98f0f1c0bc38",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Тип П — Перехватывающая",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Тип П — Перехватывающая",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fdfe1318-766b-4311-a3d3-eeb60ed9ea00",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Участок улицы, расположенный ниже по рельефу, относительно прилегающей к нему нагорной территории, осуществляет перехват с неё поверхностного стока. Уклоны поверхности могут быть минимальными, направление уклона тяготеет в сторону зоны разгрузки — в направлении собирающей улицы.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Участок улицы, расположенный ниже по рельефу, относительно прилегающей к нему нагорной территории, осуществляет перехват с неё поверхностного стока. Уклоны поверхности могут быть минимальными, направление уклона тяготеет в сторону зоны разгрузки — в направлении собирающей улицы.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ba8d7b87-90e2-4d57-a766-55a69a892e6e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Тип Р — Распределяющая",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Тип Р — Распределяющая",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "13b2836c-fc93-48d5-be3c-19274f5f2c39",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Участок улицы, расположенный на водоразделах, склонах, не имеет способности перехватывать поверхностный сток с прилегающей территории",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Участок улицы, расположенный на водоразделах, склонах, не имеет способности перехватывать поверхностный сток с прилегающей территории",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c3f94a0a-a7a1-479f-85ac-1ad6912392a5",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "01c99af2-f6eb-402c-ace5-eae40093f4b6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Характеристика ландшафта участков улиц согласно предложенной типологии",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Характеристика ландшафта участков улиц согласно предложенной типологии",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "69e58434-a1fe-424c-ab9d-8ee7721ac207",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/69e58434-a1fe-424c-ab9d-8ee7721ac207.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "423b49fa-1e7f-4f1c-8f34-8dcfe7c7bbfc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3e6de76b-22b5-4d06-92f0-44d24e30d6a4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Схема типов участков улично-дорожной сети города Екатеринбург на основе характеристики ландшафта",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Схема типов участков улично-дорожной сети города Екатеринбург на основе характеристики ландшафта",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8ab456e8-72e3-4e4b-b0c5-c52752d420dd",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/8ab456e8-72e3-4e4b-b0c5-c52752d420dd.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "c5721ccb-ee38-4192-9af6-f199f965e28b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 564,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Характер использования",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Характер использования",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "703da9b8-cd92-48f5-bc4d-901393fcbd40",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В зависимости от распределение пространства участка улицы между различными пользователями на основании проведенного анализа выделяются 9 типов:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В зависимости от распределение пространства участка улицы между различными пользователями на основании проведенного анализа выделяются 9 типов:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9b6cac59-77e6-44b2-83cd-4d40fbe04994",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ТИП 1. Пешеходная улица",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ТИП 1. Пешеходная улица",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "758ec69d-bf61-43b9-959c-692fbe36df05",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Данный тип предусматривает транзитное пешеходное движение, передвижение в рекреационных целях, создание мест отдыха и проведения мероприятий. Характеризуется высокой активностью фронта застройки. К данному типу предъявляются повышенные эстетические требования, требуется чёткое функциональное зонирование, наличие разнообразного озеленения. Не предусматривается устройство велодорожек, проезда общественного транспорта, проезда и парковок личного автотранспорта.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Данный тип предусматривает транзитное пешеходное движение, передвижение в рекреационных целях, создание мест отдыха и проведения мероприятий. Характеризуется высокой активностью фронта застройки. К данному типу предъявляются повышенные эстетические требования, требуется чёткое функциональное зонирование, наличие разнообразного озеленения. Не предусматривается устройство велодорожек, проезда общественного транспорта, проезда и парковок личного автотранспорта.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "71a111c5-e7ed-42a3-b672-4b177441ec86",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ТИП 2. Улица совместного использования",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ТИП 2. Улица совместного использования",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8ee480af-46a4-4cb6-8a36-2f53e25746c7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Данный тип предполагает обеспечение приоритета для движения пешеходов. Движение личного автотранспорта предусматривается в одном уровне с тротуаром совместно с пешеходным. Допускается устройство односторонних велополос вдоль проезжей части.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Данный тип предполагает обеспечение приоритета для движения пешеходов. Движение личного автотранспорта предусматривается в одном уровне с тротуаром совместно с пешеходным. Допускается устройство односторонних велополос вдоль проезжей части.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "370994b6-1494-43e8-8f95-fe653b67bdef",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ТИП 3. Основная местная улица",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ТИП 3. Основная местная улица",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "67cb19a9-c4b1-4da6-9251-f1750bd0cdce",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Участки данного типа играют важную роль в формировании пешеходного каркаса города. Характеризуются высокой активностью фронта застройки, невысокой интенсивностью движения транспорта, отсутствием общественного транспорта.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Участки данного типа играют важную роль в формировании пешеходного каркаса города. Характеризуются высокой активностью фронта застройки, невысокой интенсивностью движения транспорта, отсутствием общественного транспорта.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8bf167da-0662-4dcd-9879-58849526feed",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ТИП 4. Основная районная улица",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ТИП 4. Основная районная улица",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "938e1a1e-4224-4fd8-938b-fda792a8f12a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Участки данного типа являются частью системы общественного транспорта, системы рекреационных и общественных пространств, велокаркаса. Характеризуется относительно невысокой суточной интенсивностью движения транспорта и наличием предприятий обслуживания в первых этажах зданий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Участки данного типа являются частью системы общественного транспорта, системы рекреационных и общественных пространств, велокаркаса. Характеризуется относительно невысокой суточной интенсивностью движения транспорта и наличием предприятий обслуживания в первых этажах зданий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "29c3b66f-8d29-4cf8-a7d5-41ba2713aea5",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ТИП 5. Главная улица",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ТИП 5. Главная улица",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "12ae3a4b-b3a6-488a-a2e4-dc58461b437f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Участки улиц данного типа являются комбинацией всех функций и групп пользователей и имеют важное значение в формировании имиджа и социокультурной программы города. К ним предъявляются повышенные эстетические требования, наличие понятной навигации, требования по разработке уникальных решений элементов благоустройства.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Участки улиц данного типа являются комбинацией всех функций и групп пользователей и имеют важное значение в формировании имиджа и социокультурной программы города. К ним предъявляются повышенные эстетические требования, наличие понятной навигации, требования по разработке уникальных решений элементов благоустройства.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e62c3cad-548e-4125-9282-9a9220bde3cc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ТИП 6. Городской транспортный коридор",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ТИП 6. Городской транспортный коридор",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b98b68c0-1c26-4d3c-b9e5-7eefa9e06f8f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Данный тип служит для связи районов города с центром. Характеризуются высокой интенсивностью движения автотранспорта, высокой частотой движения общественного транспорта, высокой активностью фронтов застройки и их низкой визуальной и физической связностью. Основная функция — транзитное движения всех групп пользователей.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Данный тип служит для связи районов города с центром. Характеризуются высокой интенсивностью движения автотранспорта, высокой частотой движения общественного транспорта, высокой активностью фронтов застройки и их низкой визуальной и физической связностью. Основная функция — транзитное движения всех групп пользователей.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3941fdfe-6abf-433a-8ebe-33ea54360446",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ТИП 7. Основной районный коридор",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ТИП 7. Основной районный коридор",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0a21cae0-273c-4263-96bd-148db201b6f9",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Данный тип служит для связи районов между собой и с центром города. Характеризуется наличием всех групп пользователей, широким поперечным профилем, наличием широких полос озеленения, умеренной активностью фронтов застройки и их низкой визуальной и физической связностью.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Данный тип служит для связи районов между собой и с центром города. Характеризуется наличием всех групп пользователей, широким поперечным профилем, наличием широких полос озеленения, умеренной активностью фронтов застройки и их низкой визуальной и физической связностью.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7eaea8e7-ae58-4182-bdd2-cbd599cd74be",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ТИП 8. Второстепенная местная улица",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ТИП 8. Второстепенная местная улица",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7c93c1ef-b2e4-41e2-bfd8-e75959adf871",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Участки данного типа служат для обеспечения транзитного пешеходного движения и движения автотранспорта. Обслуживают жилую застройку и производственные зоны.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Участки данного типа служат для обеспечения транзитного пешеходного движения и движения автотранспорта. Обслуживают жилую застройку и производственные зоны.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "28a98614-d409-4e2a-816f-7ebc78bfd8d8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ТИП 9. Городская дорога",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ТИП 9. Городская дорога",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4bd0b51c-bc67-4328-a451-6e99df613734",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Данный тип участка улиц служит для транзитного движения автотранспорта. Общественный транспорт на данных участках либо отсутствует, либо представлен маршрутами с небольшой частотой движения. Данные улицы не включены в велокаркас и не являются частью системы рекреационных и общественных пространств.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Данный тип участка улиц служит для транзитного движения автотранспорта. Общественный транспорт на данных участках либо отсутствует, либо представлен маршрутами с небольшой частотой движения. Данные улицы не включены в велокаркас и не являются частью системы рекреационных и общественных пространств.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "eac254f3-2fb8-4910-b9b8-c0547cfd9daa",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9d364177-9e03-4deb-8298-1cde9ee08aee",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Характер использования участков улиц согласно предложенной типологии",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Характер использования участков улиц согласно предложенной типологии",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "78e3cc52-d53a-4160-b262-e1159e88eb70",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/78e3cc52-d53a-4160-b262-e1159e88eb70.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "8000ab49-27b0-4c7c-afe0-224070f67daa",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "0 - функция отсутствует",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "0 - функция отсутствует",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3f6bf10f-95a8-4c96-9107-c3acb97cfd04",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "0,25 - функция является второстепенной для данного типа, мероприятия могут быть реализованы в минимальном объёме",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "0,25 - функция является второстепенной для данного типа, мероприятия могут быть реализованы в минимальном объёме",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b1720cba-16d4-4d4f-b6be-e5dfea2c0395",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "0,5 - функция выражена слабо, должна быть уточнена для данного типа, мероприятия могут быть реализованы не в полном объёме",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "0,5 - функция выражена слабо, должна быть уточнена для данного типа, мероприятия могут быть реализованы не в полном объёме",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9c818c3f-5d70-42f9-b69b-1018ebd3e30a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "0,75 - функция достаточно выражена, является основной для данного типа, мероприятия могут быть реализованы не в полном объёме",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "0,75 - функция достаточно выражена, является основной для данного типа, мероприятия могут быть реализованы не в полном объёме",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "45a7a543-d970-4b1a-bc28-777ab875d592",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1 - функция ярко выражена, является основной для данного типа, требует проведения мероприятий в полном объёме",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1 - функция ярко выражена, является основной для данного типа, требует проведения мероприятий в полном объёме",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9e0b78de-2594-48f9-a6f1-2cd68ca35a7f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "36e497e2-71f7-428c-8ac3-c25e38757d23",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Общий вывод по разделу",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Общий вывод по разделу",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "eacd74ae-9f62-4b57-8889-3a12bdbb8483",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Таким образом каждый участок улиц города относится к одному из 9 типов по характеру использования, что позволяет создать общественное пространство с учетом распределения пространства и учесть потребности жителей и гостей города, а также к 3 типам по характеристике ландшафта для учета особенностей положения улицы на рельефе для создания микроклиматического комфорта.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Таким образом каждый участок улиц города относится к одному из 9 типов по характеру использования, что позволяет создать общественное пространство с учетом распределения пространства и учесть потребности жителей и гостей города, а также к 3 типам по характеристике ландшафта для учета особенностей положения улицы на рельефе для создания микроклиматического комфорта.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Типология улично-дорожной сети города Екатеринбург",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Типология улично-дорожной сети города Екатеринбург",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 2
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "road-network"
+      }
+    },
+    "cover": null
+  }
+}

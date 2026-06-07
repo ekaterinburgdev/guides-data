@@ -1,0 +1,2779 @@
+{
+  "id": "aaf0eb40-ecb7-4836-9df5-e81f2e7f9f88",
+  "type": "page",
+  "content": {
+    "title": "Уличное коммунально-бытовое и техническое оборудование"
+  },
+  "children": [
+    {
+      "id": 702,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Урны",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Урны",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "881858df-d8b0-4279-b497-c4f832bdfad3",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "b94261c4-a8d7-47d9-bfdb-abd3ba445756",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "dd41c121-75e9-4c50-8f74-fa4a748b61ae",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Емкость для временного хранения мусора. В границах одной улицы рекомендуется применять единый тип урн монохромного колористического решения, допустимо применение древесины. Не рекомендуется устанавливать урны с замком ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Емкость для временного хранения мусора. В границах одной улицы рекомендуется применять единый тип урн монохромного колористического решения, допустимо применение древесины. Не рекомендуется устанавливать урны с замком ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f97a04bc-f418-4655-9d50-e3ec5edb0e29",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "a66d410e-d429-4d1c-ab33-933aa5eae7ee",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "улицы, площади, бульвары, набережные ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "улицы, площади, бульвары, набережные ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "15df9661-ea89-4b7a-b026-ed73ecbbf43e",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материалы\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материалы\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "металл, порошковое покрытие, древесина",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "металл, порошковое покрытие, древесина",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "121d0050-1484-4526-b8ee-7504a93f212d",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "ef3c7db9-a1e8-48a0-b868-2951a7dd7d61",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "ea69e84b-471c-4205-a428-0d471c05a0c5",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/ea69e84b-471c-4205-a428-0d471c05a0c5.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "358b1c3b-3294-41de-ac70-c4a980e4cab1",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b07149ba-afb7-4c4b-a8e4-67719a906084",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "0bb2f260-13d8-41df-b02b-ba3287af0fa2",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/0bb2f260-13d8-41df-b02b-ba3287af0fa2.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9cf9dd8d-ef4e-47cd-8f37-851f93f9655e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9f6c940b-1809-4186-a15b-6f1716c04d3a",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "ff6d96c7-f9d7-4b85-a9bf-8b2a74639959",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "cb455393-a5c4-43c8-96a1-1528ad83d39e",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "В границах одной улицы рекомендуется применять единый тип урн монохромного колористического решения. Окрашивание урн недопустимо ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "В границах одной улицы рекомендуется применять единый тип урн монохромного колористического решения. Окрашивание урн недопустимо ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "aa829edd-a2a4-4233-bfb0-b90277116941",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "21ab9d30-4e58-4b4b-9ae7-64edb8ef296d",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "улицы, площади, скверы, бульвары, набережные ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "улицы, площади, скверы, бульвары, набережные ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "7138c864-76cb-4605-a54f-619548209941",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материалы\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материалы\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "бетон, гранит",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "бетон, гранит",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "724f2ff1-a541-449b-9103-97d8382ba68d",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "ca28f21f-48a0-47db-b13c-7002682619c2",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "32237f87-995e-4d71-a8ea-b5a6a13471b9",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/32237f87-995e-4d71-a8ea-b5a6a13471b9.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9f552a28-3cfc-4275-a3f6-99088644cf38",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "f3dcaa27-cb79-4a12-8d3e-aa0d0973fada",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/f3dcaa27-cb79-4a12-8d3e-aa0d0973fada.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7594eb8-89fa-4a43-9919-16e65c399aa2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "03c30448-e34f-4e41-b98d-e5139f188690",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "2a82dd29-4be6-47ef-b1cd-4a7f062ccdc8",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "cd9d2823-59ca-41e8-b60b-a1be7245cf09",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Урны с включением деревянных элементов рекомендуется применять в озелененных пространствах ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Урны с включением деревянных элементов рекомендуется применять в озелененных пространствах ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7a866828-fa92-4dd0-8421-61666c9a2794",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "f8a5f768-dcc2-4701-ab74-f67c3a450d7a",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "парки, скверы, бульвары, набережные ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "парки, скверы, бульвары, набережные ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "659ac85c-e69d-4baa-b4dc-6c8561f99bbd",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материалы\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материалы\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "металл, древесина",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "металл, древесина",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b18078ae-6edf-49fe-87de-bfeaa738b889",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "5adc9022-954e-4b50-bfa8-089587f1aa50",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "15b7fa11-ff92-47a9-b53b-2802254462d9",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/15b7fa11-ff92-47a9-b53b-2802254462d9.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5e1feddc-d346-43cb-a8cd-50e2b786ac15",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "0aa9a9fb-56e0-43d0-849f-2ffea7686671",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/0aa9a9fb-56e0-43d0-849f-2ffea7686671.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b8bf4e52-c56f-4f1c-9714-2d12635fd7bf",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cc1e0b21-f4e5-49e1-994b-524abf5eaa25",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "bd2885af-3180-4381-84d1-8057bd9be35d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "67f9a002-016d-40c8-b1d6-ab6d7a14b697",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Элементы в классическом стиле рекомендуется применять вблизи исторических объектов, в том числе объектов культурного наследия, отражающих эпоху стиля ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Элементы в классическом стиле рекомендуется применять вблизи исторических объектов, в том числе объектов культурного наследия, отражающих эпоху стиля ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "fb6fcdbb-6cdd-47cb-8b23-1361387a9c80",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "74203fa3-e10a-46cf-8476-65a143b30874",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "улицы, площади, парки, скверы, бульвары, набережные ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "улицы, площади, парки, скверы, бульвары, набережные ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "ac1ee6a1-a787-4f22-82cf-9f916b7b1be3",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материалы\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материалы\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "металл, чугун",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "металл, чугун",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "42954eea-9293-42a1-8e82-db5ff6cfccae",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "f83817dc-fd1f-4631-8e91-9ec5aef7a855",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "f533e755-ec30-4d7c-b4fe-e778eb875bdf",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/f533e755-ec30-4d7c-b4fe-e778eb875bdf.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "24f8c3e6-080f-4225-877c-0afc62091676",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "c1d2dc1c-ab2c-46d4-aa53-1cd6f101a9f5",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/c1d2dc1c-ab2c-46d4-aa53-1cd6f101a9f5.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07bd1deb-ec15-4e28-b2e2-61cbe1be0e6a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 704,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Контейнеры для раздельного сбора мусора",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Контейнеры для раздельного сбора мусора",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "512127ee-91d6-40b5-9e65-7cd9dd198d8a",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "28c50db5-c71f-4354-924a-a7b5a1271f9e",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "a2ee2bc3-fe41-4dce-aa8a-e3053e1bd7e9",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Контейнер для сбора и сортировки мусора с учётом его происхождения и пригодности к переработке или использованию. Раздельный сбор мусора позволяет отделить перерабатываемые отходы от неперерабатываемых, а также выделить отдельные типы отходов, пригодные для вторичного использования ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Контейнер для сбора и сортировки мусора с учётом его происхождения и пригодности к переработке или использованию. Раздельный сбор мусора позволяет отделить перерабатываемые отходы от неперерабатываемых, а также выделить отдельные типы отходов, пригодные для вторичного использования ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7f16ae4e-a648-4a3e-bfbb-e0deb6926cf4",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "904f0ae4-bcaa-4397-b943-7eb9164355b6",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "улицы, парки, скверы, набережные ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "улицы, парки, скверы, набережные ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "1c5aa77b-d8d9-42ed-9224-f7975eb29d4a",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материалы\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материалы\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "металл, пластик, древесина",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "металл, пластик, древесина",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9880cd3-45a4-45c3-a0c6-c1429925bfb7",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "21c3e4e0-c5a2-4c53-8da7-fc0971d38353",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "ab4e7f7b-dae3-4d4d-b7f9-6bb82f817566",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/ab4e7f7b-dae3-4d4d-b7f9-6bb82f817566.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "6de26cd5-7c31-41f9-9c20-f157b595f61c",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "ef1f7ab1-759b-4b0d-b926-4b3f1aff87b8",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/ef1f7ab1-759b-4b0d-b926-4b3f1aff87b8.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ddba7a0c-7c1b-44b2-b1d3-90e38df99198",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 705,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Контейнеры для ухода за животными",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Контейнеры для ухода за животными",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e7a0cb34-49d0-4d39-9e2f-feb27daec1c6",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "b2f6a36e-2de9-49ca-89e6-85ab65bedd58",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "2f2ed526-ca31-497c-814c-ad2d2f230391",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Контейнер с пакетами и урна с закрывающейся крышкой. Рекомендуется размещать вблизи площадок для выгула собак",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Контейнер с пакетами и урна с закрывающейся крышкой. Рекомендуется размещать вблизи площадок для выгула собак",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "7bb85c78-394e-4411-b422-817ad1bf3cc4",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "e23d38cb-7c99-4f35-b97b-e545ebf4160f",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "парки, скверы, бульвары, набережные ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "парки, скверы, бульвары, набережные ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "7005e9cc-d029-415f-bbc9-286eb9a86ad7",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материалы\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материалы\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "металл, пластик",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "металл, пластик",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17c6a390-99a1-4ed9-8e1a-434d05b07271",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "107c82f9-e2ee-4ede-80ac-68d7cbc9a59b",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "9bed6e1f-3bb0-42b9-98c8-8138c8326b09",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/9bed6e1f-3bb0-42b9-98c8-8138c8326b09.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "20f14598-6b86-4765-917d-a2dfb86ffdd9",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "46c32aee-52ac-4f58-a5cd-e9e32c1bb57b",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/46c32aee-52ac-4f58-a5cd-e9e32c1bb57b.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "960d7663-742a-42eb-aa71-17a4cdc5297c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 706,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Элементы водоотведения",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Элементы водоотведения",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 707,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Открытый лоток водоотведения",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Открытый лоток водоотведения",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0e67733b-fa06-4ae3-8914-531904b2730b",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "7bb333d3-253b-497f-98de-a5ea64fafd04",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "1380f61f-a1a4-4d85-892f-fbfb679f6307",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Конструкция с пологим скругленным профилем, состоящая из сборных элементов, дождеприемных решеток ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Конструкция с пологим скругленным профилем, состоящая из сборных элементов, дождеприемных решеток ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0680416c-5cd6-41d6-889d-9e52a0ba6797",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "cb505a2b-c5e9-474e-a78a-dd6f729b962f",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "улицы, площади, бульвары ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "улицы, площади, бульвары ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "f765a7b5-1eb7-40e8-82ec-12170a2fb351",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материалы\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материалы\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "гранит, полимербетон",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "гранит, полимербетон",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86559b7e-7b79-4cb6-8a58-574440656162",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "6016a0e9-c795-4777-bf8b-d92ed4841efa",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "7b13c59d-77ec-46de-8cb8-be45d505c798",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/7b13c59d-77ec-46de-8cb8-be45d505c798.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e34a6333-4f11-4f83-937f-f15ab3245d16",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "87d07a7b-f562-419a-88f5-c31aa7471425",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/87d07a7b-f562-419a-88f5-c31aa7471425.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a6b701ae-0914-41cf-a6bf-326774da7037",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 708,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Закрытый лоток водоотведения",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Закрытый лоток водоотведения",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "86bd6c7c-6f2e-469e-8c66-4772d58b30a8",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "6c9865e0-747d-4060-a1bc-2ca37ffb8452",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "c633b2a0-2283-4f88-880f-ee8330271ad5",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Конструкция состоит из лотка и ячеистой решетки, дополнительно оборудуется пескоуловителем",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Конструкция состоит из лотка и ячеистой решетки, дополнительно оборудуется пескоуловителем",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d68889f7-fdac-4dc5-98ae-a0e172c0b6f1",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "4c8b5ed0-3af2-4375-b23d-6366f492cf26",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "улицы, площади, бульвары",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "улицы, площади, бульвары",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "43d5f794-4c97-43fa-9297-8e67bbdf29e9",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материалы\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материалы\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "полимербетон, решетка",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "полимербетон, решетка",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7545887-d7a9-4318-aa79-36e5bec01e78",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "d8fccfdb-ceb6-479b-ae26-3eedb560c437",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "20b6f2c2-a9ee-42d1-b4e7-c44fb8a4361f",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/20b6f2c2-a9ee-42d1-b4e7-c44fb8a4361f.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e657f784-c4d3-4575-bc52-dfdfa78a5a61",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "c4396315-161d-4138-9381-e7d2a3ed9b04",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/c4396315-161d-4138-9381-e7d2a3ed9b04.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4712151-76c4-4272-98d7-e572052fbafa",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 709,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Дождеприемник",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Дождеприемник",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "13ba4b3d-bdf0-4a3d-8d94-d0883fba0377",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "209554d9-51d0-4eb2-b2b5-652f2bb059d5",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "d1d4709d-f4a0-4566-9ab7-7cd59a50e68a",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Конструкция состоит из рамы с решеткой, устанавливается на крыше дождеприемного колодца. На проезжей части рекомендуется применять прямоугольные дождеприемники плавающего типа ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Конструкция состоит из рамы с решеткой, устанавливается на крыше дождеприемного колодца. На проезжей части рекомендуется применять прямоугольные дождеприемники плавающего типа ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "9d3a9966-4f70-46cf-86f6-504233569710",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "ab203152-b946-4abd-a14e-686caa898b36",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "улицы, площади, парки, скверы, бульвары, набережные ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "улицы, площади, парки, скверы, бульвары, набережные ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "473ad33a-b762-4148-bc84-0c8c5daebfd9",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материалы\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материалы\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "чугун, полимер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "чугун, полимер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c82834ed-7e8e-48dd-a454-e7e81030b464",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "c70057c2-246d-470c-8ae1-8ab4885dcdd8",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "7e592c91-192c-4aec-a1e6-c7ece89262b7",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/7e592c91-192c-4aec-a1e6-c7ece89262b7.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f34012a5-c8fd-4904-b512-5dad28088848",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "b86d1611-7933-44e8-bba6-412fa1ff6c7a",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/b86d1611-7933-44e8-bba6-412fa1ff6c7a.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8d1b007a-b1bf-464e-8ec0-13f081e0193f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 711,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Щелевой лоток",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Щелевой лоток",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9a22bd76-212f-44c5-876f-8056cab931d1",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "4b2b2786-b9dd-4ce5-9165-50efd688baee",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "baa94a7d-c41c-4c8f-af09-44f36ec4a081",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Конструкция состоит из лотка и щелевой рамы в виде объединенных Г-образных профилей ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Конструкция состоит из лотка и щелевой рамы в виде объединенных Г-образных профилей ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3b124c37-cd6e-4dc9-9ee0-bdc3390e8850",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "633a0dfb-16c3-4e67-9537-fb96871c0ced",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "улицы, площади, парки, скверы, бульвары, набережные ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "улицы, площади, парки, скверы, бульвары, набережные ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "dade5f72-328f-4119-a7c4-3b91e91bdb69",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материал\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материал\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "нержавеющая сталь",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "нержавеющая сталь",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc6401cc-274b-4d35-895c-dee17159cf9e",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "2652d6c4-4c2c-4332-a22c-e66114e92f1b",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "3aa5fad2-49af-4ee3-8420-8afb76d96699",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/3aa5fad2-49af-4ee3-8420-8afb76d96699.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c877a636-2375-40fb-96ae-8bde6e180913",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "18687a23-0b12-47ea-8528-ed1268d3d64d",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/18687a23-0b12-47ea-8528-ed1268d3d64d.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acf02602-8211-4985-86b9-3bee498620fb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 712,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Коммунально-бытовые элементы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Коммунально-бытовые элементы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 713,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Люк для устройства на пешеходных зонах",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Люк для устройства на пешеходных зонах",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "051631b9-9565-482f-a1d5-88984f4a66ec",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "4bd90f28-a170-468e-b366-b378de866cc3",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "8d77b2c4-04c9-4e8b-802c-34df21e3b3ad",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Конструкция оборудована крышкой и запорным устройством. Рекомендуется применять люк с квадратной обоймой (обечайкой) и логотипом «Екатеринбург». Особое внимание необходимо обращать на сопряжение покрытия с конструкцией люка. Рекомендуется предусматривать раскладку плитки от люка. Также рекомендуется применять скрытый люк с заполнением плиткой ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Конструкция оборудована крышкой и запорным устройством. Рекомендуется применять люк с квадратной обоймой (обечайкой) и логотипом «Екатеринбург». Особое внимание необходимо обращать на сопряжение покрытия с конструкцией люка. Рекомендуется предусматривать раскладку плитки от люка. Также рекомендуется применять скрытый люк с заполнением плиткой ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f8c1725b-1814-4ef5-b178-2c59a3beab1a",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "d1571c0d-c906-487d-9bb1-2b9584d37660",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "улицы, площади, парки, скверы, бульвары, набережные ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "улицы, площади, парки, скверы, бульвары, набережные ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "2fadcca9-3989-4ddc-b66a-56411955b568",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материал\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материал\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "металл",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "металл",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "710c9bb9-4ad0-4fd4-953d-87623cb727f4",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "45841f63-78e1-49b3-8e72-08a04f634bad",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "86d43364-0f67-42c1-9f2b-a9fc6364ee6d",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/86d43364-0f67-42c1-9f2b-a9fc6364ee6d.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "66a94187-a2f0-402b-9622-9882e7b14bcc",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "e4eb4bfa-5e32-4611-9b0c-01d347e1ae10",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/e4eb4bfa-5e32-4611-9b0c-01d347e1ae10.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ae273eb9-2493-4379-827b-c99083bfcc5b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 714,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Люк для устройства на газонах",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Люк для устройства на газонах",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9ae81291-ebd3-4a9d-88c3-ef067dd9d9eb",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "9f81c5f4-2d00-4bd1-8d4b-fc0ef9730cf8",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "e431554b-55de-42ca-bf48-c3117143803b",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Конструкция оборудована крышкой и запорным устройством. Рекомендуется применять люк с круглой обоймой (обечайкой) ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Конструкция оборудована крышкой и запорным устройством. Рекомендуется применять люк с круглой обоймой (обечайкой) ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "671a7d44-c752-42d0-9345-9efd904d6bca",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "bf68b700-635f-47cd-9ea1-22d6450b43c7",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Применение\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Применение\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "улицы, площади, парки, скверы, бульвары, набережные ",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "улицы, площади, парки, скверы, бульвары, набережные ",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "33d5af30-02fa-4d75-be5a-afdf3dff0325",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Материал\n",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Материал\n",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "металл",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "металл",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aaa53844-730d-4463-8eb0-01a3df331bdc",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "07041df5-228f-41ff-ae0f-5da80efb4b4c",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "f9ccd4c0-fea8-407b-b26f-1ecb87a213ab",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/f9ccd4c0-fea8-407b-b26f-1ecb87a213ab.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8301a5d5-ad3f-46e9-83f0-4c306e4c6182",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "1f470b82-0cfa-4798-af61-f18b2ee023ea",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/1f470b82-0cfa-4798-af61-f18b2ee023ea.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Уличное коммунально-бытовое и техническое оборудование",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Уличное коммунально-бытовое и техническое оборудование",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 9
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "street-equipment"
+      }
+    },
+    "cover": null
+  }
+}

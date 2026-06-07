@@ -1,0 +1,33 @@
+{
+  "id": "9d480691-5268-44ce-8e8e-fa39ac419e9f",
+  "type": "page",
+  "content": {
+    "title": "Без названия"
+  },
+  "children": [
+    {
+      "id": "d7e7afea-58cc-4833-a11b-5eb08348e461",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d3760abc-9c30-4b44-83dc-b12a4dfd2381",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {},
+    "cover": null
+  }
+}

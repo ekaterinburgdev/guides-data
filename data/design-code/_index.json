@@ -1,0 +1,2049 @@
+{
+  "id": "9e78d220-0491-4509-8cc1-1aa5b0c428ab",
+  "type": "page",
+  "content": {
+    "title": "Общие положения"
+  },
+  "children": [
+    {
+      "id": "e9de9217-bd00-4fe7-88c2-8828d76247c0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Для упрощения понимания художественно-исторической специфики объектов капитального строительства предлагаем следующее деление архитектурных стилей города Екатеринбурга и соответствующих им решений:\n✅ Рекомендуется к использованию\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Для упрощения понимания художественно-исторической специфики объектов капитального строительства предлагаем следующее деление архитектурных стилей города Екатеринбурга и соответствующих им решений:\n✅ Рекомендуется к использованию\n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "❌ ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "❌ ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Не рекомендуется к использованию\nИспользование данной таблицы позволит избежать наиболее распространенных нарушений правил сохранения архитектурного облика города Екатеринбурга.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Не рекомендуется к использованию\nИспользование данной таблицы позволит избежать наиболее распространенных нарушений правил сохранения архитектурного облика города Екатеринбурга.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "291852e0-ae39-46d8-9d91-58d98eb1908f",
+      "type": "table",
+      "content": {
+        "table_width": 5,
+        "has_column_header": true,
+        "has_row_header": true
+      },
+      "children": [
+        {
+          "id": "32377872-e89d-422c-865d-74dc560d701b",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Историческая архитектура (1723 — 1923 годы)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Историческая архитектура (1723 — 1923 годы)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Архитектура индустриализации (1924 — 1956 годы)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Архитектура индустриализации (1924 — 1956 годы)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Архитектура развитого социализма (1957 — 1990 годы)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Архитектура развитого социализма (1957 — 1990 годы)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Современная архитектура (с 1991 годы)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Современная архитектура (с 1991 годы)",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "af3d631c-273b-44b0-b0ea-dba0a3e7b7a3",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Вывеска на крыше",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Вывеска на крыше",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "fae0177c-55ea-4911-ad27-86ff9c2f7075",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Настенная вывеска без подложки",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Настенная вывеска без подложки",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "de01286a-8e2c-4b3d-8f9e-35cd31500c5d",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Настенная вывеска с подложкой",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Настенная вывеска с подложкой",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "bf12f4e5-c839-4b6f-93cf-48d2893e14f7",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Световой короб",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Световой короб",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "1608cbed-54ce-4dac-b1d9-2ea5b8324571",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Вывески на остеклении",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Вывески на остеклении",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "21844415-dfd1-47b2-8e33-a572d00a1185",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Консольная вывеска на расстоянии от стены",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Консольная вывеска на расстоянии от стены",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "5a441cce-9474-491f-91cc-85a8c64dd18a",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Консольная вывеска вплотную к стене",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Консольная вывеска вплотную к стене",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "cf0e4e9e-5f8b-44bf-896a-5127f575986d",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Навигационные вывески",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Навигационные вывески",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "091f55f2-604e-452b-94be-50cc4964435e",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Размещение маркиз",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Размещение маркиз",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "617a7b43-57d1-4610-b60f-89c80898e57b",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Размещение входных групп",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Размещение входных групп",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "8540df52-3b41-4097-9f6d-21dc11188507",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Балконное остекление",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Балконное остекление",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "e1a0125a-74a1-4b66-ae62-f6e995d31735",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4ff5f507-a441-4d07-8f61-9078d9960c02",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Настоящее руководство является графическим приложением к Постановлению Администрации города Екатеринбурга от 02.12.2015 №3517 «Об утверждении требований к содержанию отдельных конструктивных элементов фасадов, к дополнительному оборудованию, дополнительным элементам и устройствам, размещаемым на фасадах зданий, строений, сооружений».",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Настоящее руководство является графическим приложением к Постановлению Администрации города Екатеринбурга от 02.12.2015 №3517 «Об утверждении требований к содержанию отдельных конструктивных элементов фасадов, к дополнительному оборудованию, дополнительным элементам и устройствам, размещаемым на фасадах зданий, строений, сооружений».",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3f1fc6a1-bbd6-4993-929b-47627255659a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Постановление запрещает любые самовольные изменения облика фасада и предъявляет основные требования к согласуемым изменениям. Методическое руководство содержит иллюстрированные рекомендации, следование которым позволит разработать проект, соответствующий этим требованиям.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Постановление запрещает любые самовольные изменения облика фасада и предъявляет основные требования к согласуемым изменениям. Методическое руководство содержит иллюстрированные рекомендации, следование которым позволит разработать проект, соответствующий этим требованиям.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a819f12e-1c6b-47f8-b583-89af3c569e4d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В случае отсутствия в руководстве рекомендаций, поясняющих специфические особенности отдельных проектов следует стремиться к сохранению первоначального облика фасада и руководствоваться принципом разумной достаточности.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В случае отсутствия в руководстве рекомендаций, поясняющих специфические особенности отдельных проектов следует стремиться к сохранению первоначального облика фасада и руководствоваться принципом разумной достаточности.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "dde5b0ab-08be-4bcc-871f-bc26181afde8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Руководство направлено на гармонизацию архитектурного облика и дополнительных элементов на фасадах зданий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Руководство направлено на гармонизацию архитектурного облика и дополнительных элементов на фасадах зданий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2f82bb79-0c02-41cc-b148-8b0dc240051c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Руководство рассчитано на лиц, ответственных за эксплуатацию зданий; собственников и арендаторов помещений; застройщиков объектов капитального строительства, проектировщиков.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Руководство рассчитано на лиц, ответственных за эксплуатацию зданий; собственников и арендаторов помещений; застройщиков объектов капитального строительства, проектировщиков.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 269,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Процедура согласования",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Процедура согласования",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "da3a500e-f61b-4597-b206-8b04a559e47b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Департамент архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Департамент архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "dcc33d15-aa83-4027-b870-6207ce555b3a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Екатеринбург, пр-т Ленина, д. 24 А, каб. 200 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Екатеринбург, пр-т Ленина, д. 24 А, каб. 200 ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4186005f-c46a-47f0-a664-e536a77c3967",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Телефон: +7 (343) 354-56-19 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Телефон: +7 (343) 354-56-19 ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7c71188a-e670-4e6b-a58a-af3b1d00c80b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Сайт: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Сайт: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "екатеринбург.рф",
+              "link": {
+                "url": "http://xn--80acgfbsl1azdqr.xn--p1ai/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "екатеринбург.рф",
+            "href": "http://xn--80acgfbsl1azdqr.xn--p1ai/"
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6c2e9d81-b814-4898-a0bb-2cb9aaa942f7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d099995e-792c-4bec-9528-31ce6a587bac",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "График работы",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "График работы",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6be672ba-81d5-40ea-848b-b0872b4cc237",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "С понедельника по четверг с 09:00 до 18:00",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "С понедельника по четверг с 09:00 до 18:00",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d9271c99-0a32-488c-bf12-eab2a976bd46",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пятница с 09:00 до 17:00",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Пятница с 09:00 до 17:00",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1f341446-bcb5-4ad5-8446-e6cfdc1d7f4d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Перерыв с 13:00 до 14:00",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Перерыв с 13:00 до 14:00",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a0236c57-e725-47e0-8f00-338876c794e2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a6dc3a07-b93e-43ac-b218-735936d5f358",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Согласование вывески",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Согласование вывески",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " производится на основании обращения от физических или юридических лиц, направленного в Департамент архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " производится на основании обращения от физических или юридических лиц, направленного в Департамент архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8e56d127-ffee-4354-ba6c-38115a5eb23d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "К обращению прикладываются эскизный проект внешнего вида и размещения вывески на фасаде, а также копии правоустанавливающих документов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "К обращению прикладываются эскизный проект внешнего вида и размещения вывески на фасаде, а также копии правоустанавливающих документов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3b57faaa-f5ed-4b84-b95a-155f86b3b58e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cca165f5-f3d5-4785-8f7c-03b214659773",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Изменения внешнего вида фасадов:",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Изменения внешнего вида фасадов:",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " устройство входных групп, изменение колористических решений и подсветки фасадов, размещение дополнительного оборудования, элементов, устройств на фасадах необходимо вносить в паспорта фасадов и согласовывать в составе паспорта",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " устройство входных групп, изменение колористических решений и подсветки фасадов, размещение дополнительного оборудования, элементов, устройств на фасадах необходимо вносить в паспорта фасадов и согласовывать в составе паспорта",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "055004ba-22e4-4097-b544-c1bdd3fe0d96",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Процедура согласования паспортов фасадов установлена административным регламентом предоставления муниципальной услуги «Предоставление решения о согласовании архитектурно-градостроительного облика существующего здания, строения, сооружения», утвержденным Постановлением Администрации города Екатеринбурга от 16.08.2016 № 1695.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Процедура согласования паспортов фасадов установлена административным регламентом предоставления муниципальной услуги «Предоставление решения о согласовании архитектурно-градостроительного облика существующего здания, строения, сооружения», утвержденным Постановлением Администрации города Екатеринбурга от 16.08.2016 № 1695.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "11ebbdbd-8285-49d8-afc6-d2c9d5fcdbb7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Форма паспорта фасадов утверждена Постановлением Администрации города Екатеринбурга от 09.11.2015 № 3198.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Форма паспорта фасадов утверждена Постановлением Администрации города Екатеринбурга от 09.11.2015 № 3198.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f0e9edb1-cfb7-4a38-ac3b-4f05b7e87ef3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Все указанные муниципальные нормативно-правовые акты опубликованы на ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Все указанные муниципальные нормативно-правовые акты опубликованы на ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "официальном сайте Администрации города Екатеринбурга",
+              "link": {
+                "url": "https://xn--80acgfbsl1azdqr.xn--p1ai/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "официальном сайте Администрации города Екатеринбурга",
+            "href": "https://xn--80acgfbsl1azdqr.xn--p1ai/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e92bcc2d-5c4f-4676-bc2e-08262aa4bf7d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Общие положения",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Общие положения",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 1
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "_index"
+      }
+    },
+    "cover": null
+  }
+}

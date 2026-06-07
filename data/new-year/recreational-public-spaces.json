@@ -1,0 +1,318 @@
+{
+  "id": "db95cbbc-3961-416f-a81e-d514441ede45",
+  "type": "page",
+  "content": {
+    "title": "Рекомендации по оформлению рекреационных и общественных пространств"
+  },
+  "children": [
+    {
+      "id": 253,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Скверы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Скверы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b4494fef-6ef9-44d4-8acf-a25a2d8d67d2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Иллюминация древесно-кустарниковых групп, установка и подсветка малых архитектурных форм.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Иллюминация древесно-кустарниковых групп, установка и подсветка малых архитектурных форм.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "70e2a841-1808-41af-a253-f128d95c9df2",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/70e2a841-1808-41af-a253-f128d95c9df2.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "57c0da46-2a28-4b57-af48-e90b87b5f939",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 254,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Бульвары",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Бульвары",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4b7b0448-ff1c-4af9-a74b-0716656e5dea",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Акцентирование входных зон проекционными светильниками, размещение мотивов на опорах освещения, иллюминация деревьев, установка и подсветка малых архитектурных форм.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Акцентирование входных зон проекционными светильниками, размещение мотивов на опорах освещения, иллюминация деревьев, установка и подсветка малых архитектурных форм.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ab13fc54-4064-4428-9486-d540f66bfe46",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "00eb7599-0549-49ac-93f3-0c17318ff4dd",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5625
+          },
+          "children": [
+            {
+              "id": "7cd43181-d866-4759-b0ce-8c47e1f03326",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/7cd43181-d866-4759-b0ce-8c47e1f03326.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "027c0dfe-f2df-48b4-8342-b0dcdfe4bb19",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.43749999999999994
+          },
+          "children": [
+            {
+              "id": "1601fbe3-6e13-4a6d-85d6-56cb53d47d5c",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/1601fbe3-6e13-4a6d-85d6-56cb53d47d5c.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "39081f60-87c5-4026-8bce-917c72784e92",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 255,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Площади",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Площади",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c5a26882-c1e1-49a2-b720-326a90140edd",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Установка новогодней ели, устройство иллюминации по направляющим на подобии шатра, иллюминация деревьев, установка и подсветка малых архитектурных форм, ледяных скульптур, горок.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Установка новогодней ели, устройство иллюминации по направляющим на подобии шатра, иллюминация деревьев, установка и подсветка малых архитектурных форм, ледяных скульптур, горок.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ed3b3868-9394-4d42-bc1e-16b9c045232a",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/ed3b3868-9394-4d42-bc1e-16b9c045232a.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "58b2cccf-788f-461f-b2e3-487b453f2597",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендации по оформлению рекреационных и общественных пространств",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендации по оформлению рекреационных и общественных пространств",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 3
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "recreational-public-spaces"
+      }
+    },
+    "cover": null
+  }
+}

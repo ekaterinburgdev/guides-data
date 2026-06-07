@@ -1,0 +1,587 @@
+{
+  "id": "f40d809d-d601-4c6f-9e2c-29004a9224bd",
+  "type": "page",
+  "content": {
+    "title": "Типология"
+  },
+  "children": [
+    {
+      "id": "d4ed6619-e9cd-480c-a325-28e4f837d4fc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Иерархия + плавный переход от естественных ландшафтов к высокоурбанизированной среде",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Иерархия + плавный переход от естественных ландшафтов к высокоурбанизированной среде",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 182,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Перечень типов",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Перечень типов",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 183,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекреационные и общественные пространства",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекреационные и общественные пространства",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "43c48080-4bec-44d1-9a90-b2fcb890c1f8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Городские леса",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Городские леса",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – природная территория в пределах городской черты, занятая зелеными насаждениями, выполняющая средообразующие функции, режим использования которой направлен на обеспечение средозащитных и средорегулирующих функций.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – природная территория в пределах городской черты, занятая зелеными насаждениями, выполняющая средообразующие функции, режим использования которой направлен на обеспечение средозащитных и средорегулирующих функций.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3c9c7acf-2a4c-40d1-9a78-13c738704275",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Лесной парк (лесопарк) ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Лесной парк (лесопарк) ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "– часть озелененной территории города, используемая в целях организации массового отдыха населения, режим использования которой направлен на сохранение, создание и формирование устойчивых лесных ландшафтов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "– часть озелененной территории города, используемая в целях организации массового отдыха населения, режим использования которой направлен на сохранение, создание и формирование устойчивых лесных ландшафтов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fd2424f7-f7be-43ad-8290-de9af371e870",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Парк",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Парк",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – озелененная территория общего пользования, представляющая собой самостоятельный архитектурноландшафтный объект многофункционального или специализированного направления рекреационной деятельности, предназначенная для отдыха населения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – озелененная территория общего пользования, представляющая собой самостоятельный архитектурноландшафтный объект многофункционального или специализированного направления рекреационной деятельности, предназначенная для отдыха населения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "dfc85a1e-6e45-420d-b7ac-470684057cc4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Сквер",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Сквер",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – компактная озелененная территория общего пользования, являющаяся элементом архитектурнохудожественного оформления отдельных частей города, городских площадей, общественных и административных зданий, монументов, используемая для повседневного кратковременного отдыха населения и пешеходного транзитного движения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – компактная озелененная территория общего пользования, являющаяся элементом архитектурнохудожественного оформления отдельных частей города, городских площадей, общественных и административных зданий, монументов, используемая для повседневного кратковременного отдыха населения и пешеходного транзитного движения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5f665ab3-c501-49e3-8127-61e51e3b15bf",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Бульвар",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Бульвар",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – озелененная территория общего пользования вдоль магистралей, набережных либо в зоне жилой или общественной застройки в виде полосы различной ширины, предназначенная для пешеходного транзитного движения и кратковременного отдыха.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – озелененная территория общего пользования вдоль магистралей, набережных либо в зоне жилой или общественной застройки в виде полосы различной ширины, предназначенная для пешеходного транзитного движения и кратковременного отдыха.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c2f2799c-50f2-4a7a-a0d9-62a78a95a21b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Набережная",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Набережная",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – линейное открытое общественное пространство, примыкающее к водному объекту (ручью, реке, озеру, пруду), предназначенное для отдыха или пешеходного транзитного движения.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – линейное открытое общественное пространство, примыкающее к водному объекту (ручью, реке, озеру, пруду), предназначенное для отдыха или пешеходного транзитного движения.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2781d6f6-558e-4b35-b7b8-ccb9c1521bc0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Площадь",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Площадь",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – примыкающее к улицам плоскостное открытое общественное пространство, озеленение которого не превышает 50% поверхности территории.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – примыкающее к улицам плоскостное открытое общественное пространство, озеленение которого не превышает 50% поверхности территории.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e2d45497-3a21-45f8-a32e-540a1474fcff",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Улица – линейное открытое общественное пространство для движения различных видов транспорта и пешеходов, ограниченное красной линией, застройкой или другими искусственными и естественными рубежами.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Улица – линейное открытое общественное пространство для движения различных видов транспорта и пешеходов, ограниченное красной линией, застройкой или другими искусственными и естественными рубежами.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "2811942c-6b27-4d3e-a1e5-2716b04fccdc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Двор",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Двор",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " – озелененная территория, примыкающая к многоквартирным жилым домам, обслуживающая социальные и бытовые потребности собственников и арендаторов жилых помещений.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " – озелененная территория, примыкающая к многоквартирным жилым домам, обслуживающая социальные и бытовые потребности собственников и арендаторов жилых помещений.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 184,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Типологическая схема",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Типологическая схема",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 185,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Иерархия рекреационных и общественных пространств",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Иерархия рекреационных и общественных пространств",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1290fe50-bf98-454e-b01f-7c0da62bbb85",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/1290fe50-bf98-454e-b01f-7c0da62bbb85.webp"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Типология",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Типология",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 6
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "typology"
+      }
+    },
+    "cover": null
+  }
+}

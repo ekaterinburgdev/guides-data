@@ -1,0 +1,1360 @@
+{
+  "id": "b6e8e893-f572-4dce-a081-482001a38402",
+  "type": "page",
+  "content": {
+    "title": "Таблица\nрекомендаций"
+  },
+  "children": [
+    {
+      "id": "a9fc55dc-f39e-441b-b522-931383e164a8",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Для упрощения понимания художественно-исторической специфики объектов капитального строительства предлагаем следующее деление архитектурных стилей города Екатеринбурга и соответствующих им решений:\n✅ Рекомендуется к использованию\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Для упрощения понимания художественно-исторической специфики объектов капитального строительства предлагаем следующее деление архитектурных стилей города Екатеринбурга и соответствующих им решений:\n✅ Рекомендуется к использованию\n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "❌ ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "❌ ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Не рекомендуется к использованию\nИспользование данной таблицы позволит избежать наиболее распространенных нарушений правил сохранения архитектурного облика города Екатеринбурга.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Не рекомендуется к использованию\nИспользование данной таблицы позволит избежать наиболее распространенных нарушений правил сохранения архитектурного облика города Екатеринбурга.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "706e2211-0451-4780-a800-50871b4df649",
+      "type": "table",
+      "content": {
+        "table_width": 5,
+        "has_column_header": true,
+        "has_row_header": true
+      },
+      "children": [
+        {
+          "id": "96337a14-c156-4bd7-92be-2743e45ade15",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Историческая архитектура (1723 — 1923 годы)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Историческая архитектура (1723 — 1923 годы)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Архитектура индустриализации (1924 — 1956 годы)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Архитектура индустриализации (1924 — 1956 годы)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Архитектура развитого социализма (1957 — 1990 годы)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Архитектура развитого социализма (1957 — 1990 годы)",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Современная архитектура (с 1991 годы)",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Современная архитектура (с 1991 годы)",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "9a827f11-0d32-4df4-a0d6-5cd94d2aa58a",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Вывеска на крыше",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Вывеска на крыше",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "5e058bc3-7d0a-48ee-9a48-73823f5a0824",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Настенная вывеска без подложки",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Настенная вывеска без подложки",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "72de4d03-ae99-4df4-a6b4-d2337589314e",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Настенная вывеска с подложкой",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Настенная вывеска с подложкой",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "25202490-b645-4e1b-8f4c-25cc3c0cd491",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Световой короб",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Световой короб",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "a63e340b-1314-4166-8558-8bd847896ad7",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Вывески на остеклении",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Вывески на остеклении",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "a2632905-c6c3-44e7-a71c-94f3a1cd0fd3",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Консольная вывеска на расстоянии от стены",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Консольная вывеска на расстоянии от стены",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "b3be8772-7706-4b71-a5da-db084f4629cf",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Консольная вывеска вплотную к стене",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Консольная вывеска вплотную к стене",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "fb01e8ad-d01f-4832-874c-88a6965d6fb1",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Навигационные вывески",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Навигационные вывески",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "17e847b2-4589-4a52-85b8-c4affefebe3b",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Размещение маркиз",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Размещение маркиз",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "30389779-4bfd-4ad3-887d-cef8cde4ad3a",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Размещение входных групп",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Размещение входных групп",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "fd9adb97-2b91-4bfb-83c8-cb0adadb8105",
+          "type": "table_row",
+          "content": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Балконное остекление",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Балконное остекление",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "❌ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": true,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "❌ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "✅ ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "✅ ",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "83e1211c-12c2-43e6-808e-95cfee22fd9e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Таблица\nрекомендаций",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Таблица\nрекомендаций",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 2
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "recommendation"
+      }
+    },
+    "cover": null
+  }
+}

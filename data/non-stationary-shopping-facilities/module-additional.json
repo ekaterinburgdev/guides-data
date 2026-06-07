@@ -1,0 +1,187 @@
+{
+  "id": "3a0c5c02-d6f5-4417-9d11-060069294c2d",
+  "type": "page",
+  "content": {
+    "title": "Дополнительные материалы к модулям"
+  },
+  "children": [
+    {
+      "id": "c75315df-3d2d-4035-a006-ea9a72f0495a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Варианты стыковки модулей",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Варианты стыковки модулей",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "89ed470d-3d42-465f-af62-bf8d4c758c29",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/89ed470d-3d42-465f-af62-bf8d4c758c29.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "a963d7b7-d647-417d-9b1e-31a8853f0e96",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5c035f09-5112-435f-aa6d-c02eeb658af7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Оформление вывесок и иных информационных материалов",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Оформление вывесок и иных информационных материалов",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "46c5d0d9-1342-4d54-9786-03bd56397b69",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/46c5d0d9-1342-4d54-9786-03bd56397b69.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "924a5335-bbaf-4ce3-9ee2-3c168730f60f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "abbcf6be-ec6d-4aec-b3bb-f3ba871ba307",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Места установки дополнительного оборудования",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Места установки дополнительного оборудования",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "86d30084-1849-4918-93da-6968e6fb027c",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/86d30084-1849-4918-93da-6968e6fb027c.webp"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Дополнительные материалы к модулям",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Дополнительные материалы к модулям",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 4
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "module-additional"
+      }
+    },
+    "cover": null
+  }
+}

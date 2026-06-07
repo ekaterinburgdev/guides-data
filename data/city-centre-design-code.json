@@ -1,0 +1,57 @@
+{
+  "id": "5f2b88c4-f21f-4bdf-b14a-19dc132f67d1",
+  "type": "page",
+  "content": {
+    "title": "Дизайн-код фасадов в туристском центре"
+  },
+  "children": [
+    {
+      "id": "d13a1887-67b8-4264-9608-b1f24e712c24",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Дизайн-код фасадов в туристском центре",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Дизайн-код фасадов в туристском центре",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "SaHT",
+        "type": "number",
+        "number": 90
+      },
+      "pageUrl": {
+        "id": "%3Ez%7DR",
+        "type": "url",
+        "url": "city-centre-design-code"
+      }
+    },
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/b58e66a4-d31e-4085-be12-e8a4238316ec/00968858-db58-487f-abf2-c9a197b5ab02/city-centre-design-code.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4667T65GBA3%2F20260607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260607T211735Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCWDxTP6cyEOWC2WkSTZMlQTS7Hf4bmyv1S4Mf23cdKRQIgHkXbwWu6a1kAD1KEpfWgudc2PZQbwZSOza8gg9ThwUUqiAQIo%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDPKADtJbqViefcqlayrcA5G2w8osuR7zPW7e8PfCVKS7xPeyOuPM2eOBn5cUMrhrYeB7mzP5tPeKKHRhLIeKZ6SnRX25Uk%2Fnn5JzfP7ST7BW8hglDCP8VXMpwj441BRPb7yZufiYRe%2BOeZE7zGlhgnYiWADFaBsAjcX1L4Jhc6JChe714iR58TlMeK5Vqt1PX%2FNMAhZIzezNDzKD4XERMmQS6ZLfDsJPQp1NQ5uqWITUMVOOltZPyE53C0iIAjioytKbSsh8ZeH1XCYCfPkD6L6fS%2BOEW8em6uUECTnI8TfxjDtPHot0VugHsH9ET7C9XzUdW63Saly%2BKqHMvRaQ9PU9KYoRw2LFHx5jI9Cp5SvyKndzLqg0hTYlqS0GHj%2FCf9Tgkf505dwEscEJ8dU6Nf6vNXIFJc2HeoGkGBJn%2B9Z%2FdmOUwdxBWBdDye%2By%2BsIjmA%2FdAbr74bfHvo4E46TbFnXO%2FcqulOYsLWgCycKzKsTsElxvjGBLfEdijcI%2Fmq125LflV%2FxbUB0jCu2Ds2pQAyg7AfcPKnBdFWgRu560hFlU9O%2F1MY8%2B%2FvWg7JZzrpLJaKQ3faiS91K1vGF8OM0QB7UUL1jb0AOlmvuey3KK2mBgMvcGT%2FmbvzEj4zf2449l%2BrkPjNOmS2V7oDhvMPLgltEGOqUB8IZCDbwwtXflmET2di3BCyBTa4PzDYwSjriEoheDokLbAf0vf4auGt2QuKlLOhSabNLBqID7Y2yAcBgbPtRJIqXHfcLJTn%2B1aI0AUgNb7%2BF7mQ40mxsJyLYkklRW5hk5m75lIUeExWrqwWulTOi7KPSD8c3CApCaPHsq8HWBntHuD5cARwOPFVLBoNqr%2FYG1YfWSawQ0uN8V%2BwdvFr91OspBPYln&X-Amz-Signature=4b041386cdda1b20caa9c82c8f3a1b70cbc4d21270195a884403ddb40746918b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+  }
+}

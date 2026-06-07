@@ -1,0 +1,1574 @@
+{
+  "id": "dd3e3088-1410-47b6-b49a-2282ea48a277",
+  "type": "page",
+  "content": {
+    "title": "Авторы"
+  },
+  "children": [
+    {
+      "id": "11cf1e3a-3745-4e2b-b2ef-10c57a954002",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Методические рекомендации разработала команда ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Методические рекомендации разработала команда ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "«Дизайн-код Екатеринбурга»",
+              "link": {
+                "url": "https://ekaterinburg.design/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "«Дизайн-код Екатеринбурга»",
+            "href": "https://ekaterinburg.design/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " по заказу Департамента архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " по заказу Департамента архитектуры, градостроительства и регулирования земельных отношений Администрации города Екатеринбурга.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 1,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Над методическими рекомендациями работали",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Над методическими рекомендациями работали",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "32ddc383-fd96-4665-a857-99dc46fb0d4c",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "171b628d-ff4d-4c77-bd17-3b889ba1faa1",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.2500000000000001
+          },
+          "children": [
+            {
+              "id": "1df8d09d-7719-454d-9cd5-6a0be11197d1",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/1df8d09d-7719-454d-9cd5-6a0be11197d1.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "6e2042d8-f244-47ad-86ca-05ac62fe80f0",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Дарья Абросимова",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Дарья Абросимова",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "088971c3-6863-431d-b32e-e48c08860af0",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25000000000000006
+          },
+          "children": [
+            {
+              "id": "24dac651-78bf-4a37-8481-9f16c2167507",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/24dac651-78bf-4a37-8481-9f16c2167507.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "3ee55804-7ca0-4730-9e00-c93b343fdfa1",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Яна Бакши",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Яна Бакши",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5226687b-9641-452d-b419-53e4199f3a76",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.2500000000000001
+          },
+          "children": [
+            {
+              "id": "e072336c-fe15-4134-b954-99f0b2fe23d0",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/e072336c-fe15-4134-b954-99f0b2fe23d0.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "955075be-2f0d-4b6b-9909-7b65bec18b1a",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Саша Братчикова",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Саша Братчикова",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b62ac255-7d6a-45cc-9fc5-87d26c0e8ae6",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.2500000000000001
+          },
+          "children": [
+            {
+              "id": "c665a387-2485-47ee-9ac4-a7a5805b9ab8",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/c665a387-2485-47ee-9ac4-a7a5805b9ab8.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "82aed3de-48f6-44c0-a6b1-ebde22cbf2e1",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Юлия Васюнина",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Юлия Васюнина",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nменеджер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nменеджер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "db1592d1-446d-473e-b767-b40852944641",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "dd2157ab-08e6-4e9e-8f73-04f67d72da0d",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.2500000000000002
+          },
+          "children": [
+            {
+              "id": "4ac87dda-2992-4469-a5aa-8726be85d1fe",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/4ac87dda-2992-4469-a5aa-8726be85d1fe.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "f589d5b8-2f08-4618-8882-21f6a8fd98e3",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Анастасия Дубровина",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Анастасия Дубровина",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "c7af21fe-e637-46ed-b6a4-dcdb119a6438",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "1e7d8d3a-e3b5-4ee3-ac60-fc39a6078d71",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/1e7d8d3a-e3b5-4ee3-ac60-fc39a6078d71.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "d11629b0-40e6-46a8-8248-36e461825645",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Алина Евдокимова",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Алина Евдокимова",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2ad0e4f9-5fa9-4b35-9120-fea49d5ff5f9",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "b563f266-f3b2-4a5d-b730-a6309d1929b3",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/b563f266-f3b2-4a5d-b730-a6309d1929b3.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "badd837f-bcce-47bd-b405-55d07c685b3e",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Полина Кетова",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Полина Кетова",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "d58ca5cc-3c50-4027-9b9f-3786a2acc098",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25000000000000033
+          },
+          "children": [
+            {
+              "id": "1e8280e2-3a86-44af-b851-e281e8d3a583",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/1e8280e2-3a86-44af-b851-e281e8d3a583.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "c711b09c-d67a-4da2-af0c-1ed71f8d6368",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Алина Когтева",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Алина Когтева",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13804789-3189-43b4-9d5e-3451211d98fd",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "c7afed9c-08b9-4d8e-9b6b-3147394ee785",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "3674eba4-95ee-4705-8c66-47e71b0579d0",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/3674eba4-95ee-4705-8c66-47e71b0579d0.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "07f1d181-5601-4b7b-9e0d-68830e4de099",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Дарья Коробкина",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Дарья Коробкина",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "5682685d-123f-482b-ac82-48ecc7cdfd4c",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "d1cc1603-030a-4ca0-9820-42335545f09f",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/d1cc1603-030a-4ca0-9820-42335545f09f.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "7cc7c59d-6488-40a9-803f-982c437b2f89",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Виктория Моторина",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Виктория Моторина",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e6b48576-84de-4535-848c-8a7055f572fa",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "6e65e64d-302f-4b32-9bbd-86552be798d6",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/6e65e64d-302f-4b32-9bbd-86552be798d6.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "4d0b1800-495d-42c1-a138-a5e1128cd3b5",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Алёна Никулина",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Алёна Никулина",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b1af7fe1-1c43-4ebd-b875-c61a97d88bce",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "48357d6c-870e-4899-a579-42b2d83bf39b",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/48357d6c-870e-4899-a579-42b2d83bf39b.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "c6cc81ad-98ab-45bf-b74f-7964594a8a79",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Паша Омелёхин",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Паша Омелёхин",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nкуратор и дизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nкуратор и дизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e6c2fe16-6d02-4148-abdc-0af90cb6fe4a",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "578bcf6b-3582-4802-ad73-99491ed50a31",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25000000000000006
+          },
+          "children": [
+            {
+              "id": "bdc6c048-8b9e-42b4-8fa5-2136916d7b74",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/bdc6c048-8b9e-42b4-8fa5-2136916d7b74.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "1fbee757-7bb9-4221-a679-3e784e2b0663",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Мирослава Петухова",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Мирослава Петухова",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b3762afa-a847-48f9-8ab6-6f33db502695",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25000000000000017
+          },
+          "children": [
+            {
+              "id": "a3081bd4-70e8-40c5-98fe-c62d22f09cf4",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/a3081bd4-70e8-40c5-98fe-c62d22f09cf4.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "276b578c-63c3-42c9-9c00-36b851a637ff",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Алина Пирмаматова",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Алина Пирмаматова",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "04b34e69-7e33-43e7-98a2-7a6820f28274",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.2500000000000001
+          },
+          "children": [
+            {
+              "id": "b7fea753-7e72-417d-9991-1d562ad4a8ff",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/b7fea753-7e72-417d-9991-1d562ad4a8ff.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "e7411227-ee59-4f73-8365-63fd69e30544",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Варвара Плохих",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Варвара Плохих",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3139bb54-35cd-4c9f-85a2-06afd0b0f50a",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25000000000000017
+          },
+          "children": [
+            {
+              "id": "9d2e60cd-b4c1-4c98-b0f0-e5c78ae7b54d",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/9d2e60cd-b4c1-4c98-b0f0-e5c78ae7b54d.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "57ab25da-c74c-4311-8d56-2a78179c91bf",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Мария Сисигина",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Мария Сисигина",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "328a3274-bef7-4463-a041-c87a140a9a38",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "5d64baa3-a8a8-40b3-81c2-ec0e1f042446",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "5a6895ad-ddce-4d70-b85b-4cbbd1d51266",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/5a6895ad-ddce-4d70-b85b-4cbbd1d51266.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "03bbb85c-cb1f-4462-ba04-5cad5e90bc22",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Софья Старкова",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Софья Старкова",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "20c56cfc-4a43-4dc6-8410-c44432dbb0b2",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "1674a0cd-4c25-4dc5-9970-7b49d6806c12",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/1674a0cd-4c25-4dc5-9970-7b49d6806c12.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "ecf91a9d-8728-4818-b78f-54830fffae97",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Анастасия Тимофеева",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Анастасия Тимофеева",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nначальник отдела архитектуры и дизайна городской среды",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nначальник отдела архитектуры и дизайна городской среды",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0ab9a914-6ad7-421b-a9cc-0944037e8d6b",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "72fa2b20-a9bc-4a4a-a11c-937db0eb84bc",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/72fa2b20-a9bc-4a4a-a11c-937db0eb84bc.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "cae335c9-0d16-4130-ad4f-38bec7fa70dd",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Настя Туманова",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Настя Туманова",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nдизайнер",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nдизайнер",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "4458dca8-b6ff-4aa8-8049-9b45b510f2b5",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25
+          },
+          "children": [
+            {
+              "id": "4c6e4072-72f9-4291-9afa-3ed2f2cf2ef6",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/4c6e4072-72f9-4291-9afa-3ed2f2cf2ef6.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "44d66414-3e1f-4719-9fb4-033793674913",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Дмитрий Фогель",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": true,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Дмитрий Фогель",
+                    "href": null
+                  },
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "\nкуратор",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "\nкуратор",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c8c9720f-36df-4de2-ac53-7bd54a233223",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1aeee63d-d912-4765-a22d-a99b8d814f6c",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "addd8256-a610-4e13-ab23-7a35de3aff79",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.3333333333333333
+          },
+          "children": [
+            {
+              "id": "1b0ed410-d6a5-4275-86a5-39fedeb67652",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/1b0ed410-d6a5-4275-86a5-39fedeb67652.svg"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "b038ff8c-45cb-4b1e-8bcb-d1ca726ba686",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.33333333333333337
+          },
+          "children": [
+            {
+              "id": "f22c47aa-7be0-472d-9213-e0766f7d7ae6",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/f22c47aa-7be0-472d-9213-e0766f7d7ae6.svg"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "0454261a-49e2-4ca0-abac-f833c26f63c0",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.33333333333333337
+          },
+          "children": [
+            {
+              "id": "a327f96e-1fff-4903-b60f-c9e47ea872c4",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/a327f96e-1fff-4903-b60f-c9e47ea872c4.svg"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Авторы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Авторы",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 7
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "authors"
+      }
+    },
+    "cover": null
+  }
+}

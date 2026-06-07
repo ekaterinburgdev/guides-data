@@ -1,0 +1,278 @@
+{
+  "id": "31490634-a5a1-41d0-bb78-067fb1894c16",
+  "type": "page",
+  "content": {
+    "title": "Онлайн-генератор"
+  },
+  "children": [
+    {
+      "id": "e35ba8c2-a111-4e50-88b0-57e250e38bfc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Чтобы все смогли получить правильные макеты, разработан онлайн-генератор. Создавать макеты для печати допускается только с помощью данного генератора.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Чтобы все смогли получить правильные макеты, разработан онлайн-генератор. Создавать макеты для печати допускается только с помощью данного генератора.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4040be7d-26c8-4eb8-a4f5-d5579945f968",
+      "type": "callout",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Генератор доступен по ссылке:\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "Генератор доступен по ссылке:\n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "ekaterinburg.design/street-plates-generator",
+              "link": {
+                "url": "https://ekaterinburg.design/street-plates-generator"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "ekaterinburg.design/street-plates-generator",
+            "href": "https://ekaterinburg.design/street-plates-generator"
+          }
+        ],
+        "icon": {
+          "type": "icon",
+          "icon": {
+            "name": "link",
+            "color": "blue"
+          }
+        },
+        "color": "yellow"
+      },
+      "children": []
+    },
+    {
+      "id": "e21651c6-ba40-4754-b104-47d33a06d07b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cdebafd5-0708-4949-8791-176b70d20246",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Как пользоваться генератором",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Как пользоваться генератором",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "\nВыберите тип таблички, укажите наименование улицы на русском (английский подставится автоматически), укажите номер дома, а также крайние номера квартала или номер корпуса/строения, если нужно.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\nВыберите тип таблички, укажите наименование улицы на русском (английский подставится автоматически), укажите номер дома, а также крайние номера квартала или номер корпуса/строения, если нужно.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "cd3632b6-8978-4fe7-8d72-dc7411e7b285",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Если улицы нет в генераторе или возникли трудности с номером дома, напишите на ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Если улицы нет в генераторе или возникли трудности с номером дома, напишите на ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "mail@ekaterinburg.design",
+              "link": {
+                "url": "/635f7357ce854e31b15a3623fbd354cc"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "mail@ekaterinburg.design",
+            "href": "/635f7357ce854e31b15a3623fbd354cc"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " и мы доработаем генератор и пришлём вам готовый макет таблички в течение 24 часов.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " и мы доработаем генератор и пришлём вам готовый макет таблички в течение 24 часов.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d0633b04-dd62-4716-82be-a8863dcbacac",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fc808b7c-cb0f-4ba6-84f2-42c2e85e7fc4",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/fc808b7c-cb0f-4ba6-84f2-42c2e85e7fc4.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "78709d47-75e6-4b01-b55c-068c01d83a00",
+      "type": "embed",
+      "content": {
+        "caption": [],
+        "url": "https://ekaterinburg.design/street-plates-generator"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Онлайн-генератор",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Онлайн-генератор",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "dx%3FB",
+        "type": "number",
+        "number": 5
+      },
+      "pageUrl": {
+        "id": "cFkb",
+        "type": "url",
+        "url": "generator"
+      }
+    },
+    "cover": null
+  }
+}

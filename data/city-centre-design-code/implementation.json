@@ -1,0 +1,527 @@
+{
+  "id": "40054fc1-b65f-45b6-a436-8816f73752d8",
+  "type": "page",
+  "content": {
+    "title": "Рекомендации по внедрению дизайн-кода фасадов зданий и вывесок"
+  },
+  "children": [
+    {
+      "id": 2,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Разработать правовую основу для внедрения новых правил",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Разработать правовую основу для внедрения новых правил",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "ef313f3f-ffc1-4c90-b666-bf7be7606e49",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Провести исследование и анализ существующих нормативных документов, законодательных актов и правил регуляции относительно фасадов и вывесок, чтобы определить необходимые изменения и дополнения.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Провести исследование и анализ существующих нормативных документов, законодательных актов и правил регуляции относительно фасадов и вывесок, чтобы определить необходимые изменения и дополнения.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "d9e6af24-6cca-449f-bfee-5827843e11fe",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Разработать законодательные акты или нормативные документы, которые устанавливают обязательные стандарты для дизайна фасадов и вывесок.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Разработать законодательные акты или нормативные документы, которые устанавливают обязательные стандарты для дизайна фасадов и вывесок.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "7ed38026-3055-4d16-865f-87690bda6ccb",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Разработать механизмы для контроля и санкций за нарушение дизайн-кода, чтобы обеспечить его соблюдение со стороны предпринимателей.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Разработать механизмы для контроля и санкций за нарушение дизайн-кода, чтобы обеспечить его соблюдение со стороны предпринимателей.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "c91b93b7-3a05-4cee-bea6-58965d68e9ff",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Разработать механизмы поощрения за более раннее внедрение стандартов дизайн-кода.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Разработать механизмы поощрения за более раннее внедрение стандартов дизайн-кода.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "75633453-b343-4fdc-a898-0eeb3d45f849",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 3,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Провести мероприятия, направленные на вовлечение бизнеса в процесс внедрения нового дизайн-кода и объяснить, почему это важно для предпринимателей",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Провести мероприятия, направленные на вовлечение бизнеса в процесс внедрения нового дизайн-кода и объяснить, почему это важно для предпринимателей",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "7be03bdd-6681-4ac3-bee3-88bf3d772051",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Сотрудникам Администрации города Екатеринбурга с привлечением стороннего модератора провести 5 встреч с количеством участников не менее 45 человек на каждой. Пригласить представителей разных сфер деятельности: администрации, малого, среднего и крупного бизнеса, а также лидеров общественного мнения в сферах туризма, развития городской среды, сохранения культурного наследия, независимых художников или кураторов. Также провести консультации, семинары и рабочие группы для обсуждения предлагаемых изменений и сбора обратной связи.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Сотрудникам Администрации города Екатеринбурга с привлечением стороннего модератора провести 5 встреч с количеством участников не менее 45 человек на каждой. Пригласить представителей разных сфер деятельности: администрации, малого, среднего и крупного бизнеса, а также лидеров общественного мнения в сферах туризма, развития городской среды, сохранения культурного наследия, независимых художников или кураторов. Также провести консультации, семинары и рабочие группы для обсуждения предлагаемых изменений и сбора обратной связи.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "e9abb2cc-ba6e-41e1-94e5-47e53dfca2b5",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "На встречах подчеркнуть преимущества и выгоды внедрения нового дизайн-кода, такие как улучшение имиджа бизнеса, привлекательность для клиентов, улучшение общей атмосферы в городе и увеличение потока посетителей, поделиться положительными примерами из практики других регионов.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "На встречах подчеркнуть преимущества и выгоды внедрения нового дизайн-кода, такие как улучшение имиджа бизнеса, привлекательность для клиентов, улучшение общей атмосферы в городе и увеличение потока посетителей, поделиться положительными примерами из практики других регионов.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "dc7b0d1b-c5d7-46ba-815b-2dc54ca391da",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 4,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Разработать инструменты для предпринимателей в целях упрощения подготовки дизайн-проектов, а также их согласования",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Разработать инструменты для предпринимателей в целях упрощения подготовки дизайн-проектов, а также их согласования",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "2a780e7c-1909-41c4-83be-aa11740a6ac5",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Создать руководства, шаблоны и инструменты, которые помогут предпринимателям легко и быстро разрабатывать дизайн-проекты согласно новому дизайн-коду.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Создать руководства, шаблоны и инструменты, которые помогут предпринимателям легко и быстро разрабатывать дизайн-проекты согласно новому дизайн-коду.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "a23a563f-91f1-496e-952a-ee7af6f695cc",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Предоставить поддержку и консультации предпринимателям при разработке и подаче дизайн-проектов на согласование.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Предоставить поддержку и консультации предпринимателям при разработке и подаче дизайн-проектов на согласование.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "bfbbcb76-bbee-46cc-8081-f37a6536bf2d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 5,
+      "type": "heading_3",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Провести информационную кампанию о пользе внедрения нового дизайн-кода",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Провести информационную кампанию о пользе внедрения нового дизайн-кода",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "90d5268f-5465-46dc-967a-3d7eae3025db",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Использовать разнообразные коммуникационные каналы, такие как веб-сайты, социальные сети, буклеты и публичные мероприятия, чтобы распространить информацию о значимости и выгодах нового дизайн-кода.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Использовать разнообразные коммуникационные каналы, такие как веб-сайты, социальные сети, буклеты и публичные мероприятия, чтобы распространить информацию о значимости и выгодах нового дизайн-кода.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "083a4114-6f59-4d89-bd97-a0560c588875",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Включить в кампанию примеры успешной реализации дизайн-кода в Екатеринбурге и других городах, чтобы продемонстрировать его эффективность и положительные результаты.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Включить в кампанию примеры успешной реализации дизайн-кода в Екатеринбурге и других городах, чтобы продемонстрировать его эффективность и положительные результаты.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "591ef286-8468-47a0-9ee5-8c41c4128ef3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "263ceeae-19fe-41c3-b6bb-8a5f5b4eb5f3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Сочетание этих рекомендаций поможет успешно внедрить дизайн-код фасадов и вывесок, создав привлекательную и единообразную городскую среду, способствующую развитию бизнеса и повышению качества жизни жителей.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Сочетание этих рекомендаций поможет успешно внедрить дизайн-код фасадов и вывесок, создав привлекательную и единообразную городскую среду, способствующую развитию бизнеса и повышению качества жизни жителей.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "89f4fb2f-bdf1-4a17-98be-b4d7f61bd6b7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендации по внедрению дизайн-кода фасадов зданий и вывесок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендации по внедрению дизайн-кода фасадов зданий и вывесок",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 5
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "implementation"
+      }
+    },
+    "cover": null
+  }
+}

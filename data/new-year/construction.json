@@ -1,0 +1,134 @@
+{
+  "id": "4a481405-ab8a-45ce-a739-09b984cf34c6",
+  "type": "page",
+  "content": {
+    "title": "Рекомендации по оформлению строительных площадок"
+  },
+  "children": [
+    {
+      "id": "5be97c11-7b0c-431f-990a-0cc798cb2e0a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Подсветка башенных кранов, иллюминация ограждений, подсветка архитектурных конструкций.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Подсветка башенных кранов, иллюминация ограждений, подсветка архитектурных конструкций.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1fc2684c-87eb-4388-a544-9ce9c4939bd2",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "dbb399d5-0cfd-4f8a-bdee-c391a167ddff",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.625
+          },
+          "children": [
+            {
+              "id": "5e8bcc8f-29d0-46ce-941b-86dfe3d1e3b5",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/5e8bcc8f-29d0-46ce-941b-86dfe3d1e3b5.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bbaf71dd-c791-4eca-ad52-a46b157f9710",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.37499999999999994
+          },
+          "children": [
+            {
+              "id": "b4e5a38a-6617-4495-9fde-f8f53b7cd348",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/b4e5a38a-6617-4495-9fde-f8f53b7cd348.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "f166c575-b37e-4ad8-807a-fc2ad590aab7",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендации по оформлению строительных площадок",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендации по оформлению строительных площадок",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 4
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "construction"
+      }
+    },
+    "cover": null
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "ff9c00f9-eaa6-4cbc-abc4-398212953cb2",
+  "type": "page",
+  "content": {
+    "title": "Рекомендации по оформлению современных жилых комплексов"
+  },
+  "children": [
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "29832fb7-126d-40c0-8328-7f0eab2e52cb",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Архитектурно-художественная подсветка фасадов зданий",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Архитектурно-художественная подсветка фасадов зданий",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "e8f9459e-bee1-4026-920a-1cf6978c6a33",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Иллюминация двора, деревьев",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Иллюминация двора, деревьев",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "f2b42749-e631-4be9-a7ce-a689817302cd",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Установка ели, ледяных горок",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Установка ели, ледяных горок",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "82a88af9-6767-4020-9580-77f583b581d7",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Организация катка",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Организация катка",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "20751943-f50e-4549-a227-f5fd72373ae0",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/20751943-f50e-4549-a227-f5fd72373ae0.webp"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендации по оформлению современных жилых комплексов",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендации по оформлению современных жилых комплексов",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 5
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "residential-complexes"
+      }
+    },
+    "cover": null
+  }
+}

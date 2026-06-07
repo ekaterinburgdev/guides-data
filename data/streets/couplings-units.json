@@ -1,0 +1,4049 @@
+{
+  "id": "0c3c96d6-a88a-4e54-ad68-6c3ee32e6415",
+  "type": "page",
+  "content": {
+    "title": "Типовые решения сопряжений и узлов"
+  },
+  "children": [
+    {
+      "id": "228dfa9a-5232-41e6-be9f-e853500fc9ab",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "В настоящем разделе Стандарта приведены основные конструкции покрытий, принципиальные схемы узлов сопряжений покрытий, детали устройства элементов озеленения и обводнения ландшафта, детали ограждений, городской мебели, инженерных систем и средств организации движения, которые могут комбинироваться в зависимости от требований проекта. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "В настоящем разделе Стандарта приведены основные конструкции покрытий, принципиальные схемы узлов сопряжений покрытий, детали устройства элементов озеленения и обводнения ландшафта, детали ограждений, городской мебели, инженерных систем и средств организации движения, которые могут комбинироваться в зависимости от требований проекта. ",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "f6889207-2dd3-4d7c-aee5-4c26168d42e9",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Раздел выполнен при поддержке Проект жилой район Солнечный, Форум Групп.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Раздел выполнен при поддержке Проект жилой район Солнечный, Форум Групп.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "37d7d383-1b37-439e-8d3d-2e92e8f4643f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 308,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Общие положения",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Общие положения",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "88469847-fac6-4317-8a5d-4d0e65a30950",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Решение по конструкции и сопряжению покрытий должны быть продиктованы общей ландшафтной организацией участков улиц конкретного типа. Выбор дизайна того или иного элемента, МАФ должен соответствовать общей концепции проекта участка улицы.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Решение по конструкции и сопряжению покрытий должны быть продиктованы общей ландшафтной организацией участков улиц конкретного типа. Выбор дизайна того или иного элемента, МАФ должен соответствовать общей концепции проекта участка улицы.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ef352b99-f0fe-4fd4-ad13-6353cbfd6ad2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "При разработке проекта необходимо учитывать эстетические особенности работы с мощением. Размер, цвет, рисунок позволяют разделить функциональные зоны пешеходной части, например, прифасадную и транзитную, а также средствами благоустройства соединить разнородную по материалам, фактуре и цвету архитектуру фасадов зданий.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "При разработке проекта необходимо учитывать эстетические особенности работы с мощением. Размер, цвет, рисунок позволяют разделить функциональные зоны пешеходной части, например, прифасадную и транзитную, а также средствами благоустройства соединить разнородную по материалам, фактуре и цвету архитектуру фасадов зданий.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c8da9ea5-f735-4698-b081-a1c7ad5a034c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ширина зон тротуаров должна учитывать размер применяемой плитки и швов для исключения подрезки элементов мощения при производстве работ.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ширина зон тротуаров должна учитывать размер применяемой плитки и швов для исключения подрезки элементов мощения при производстве работ.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "869b8daa-ce73-4b71-93c3-77367ddb57fd",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Плиточное покрытие велодорожек должно выполняться плиткой с минимизацией швов, с повышенными требованиями по шероховатости.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Плиточное покрытие велодорожек должно выполняться плиткой с минимизацией швов, с повышенными требованиями по шероховатости.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4875ebbe-395b-4cce-a533-a4589567ffbc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Средствами достижения условий для безопасного передвижения людей с ограниченными возможностями являются предупредительные тактильные элементы, которые создаются путём комбинации и смены типа покрытий. Линейным ориентиром может служить повышенный бортовой камень тротуара, кустарниковая растительность.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Средствами достижения условий для безопасного передвижения людей с ограниченными возможностями являются предупредительные тактильные элементы, которые создаются путём комбинации и смены типа покрытий. Линейным ориентиром может служить повышенный бортовой камень тротуара, кустарниковая растительность.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "51624753-9f35-4922-8ad1-45d40516f837",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "На проезжих частях в пределах уличнодорожной сети города применяется гранитный бортовой камень.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "На проезжих частях в пределах уличнодорожной сети города применяется гранитный бортовой камень.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e07c5686-c523-44dc-bd8b-2fb6fd0bf7ef",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Сопряжения проезжей части и тротуара в одном уровне выполняется в местах устройства понижения тротуара перед пешеходными переходами. Втопленный бортовой камень является визуальной направляющей для участников движения на улицах совместного использования.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Сопряжения проезжей части и тротуара в одном уровне выполняется в местах устройства понижения тротуара перед пешеходными переходами. Втопленный бортовой камень является визуальной направляющей для участников движения на улицах совместного использования.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ed47758b-4768-47fa-a4b4-5769b491a9ee",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Приоритетным решением примыкания проезжей части к озеленению является устройство технического тротуара с последующим формированием живой изгороди или плотно посаженного кустарника высотой 0,8 м и шириной 1м. Для обеспечения треугольника видимости на перекрестках высота кустарников должна составлять не более 0,5 м.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Приоритетным решением примыкания проезжей части к озеленению является устройство технического тротуара с последующим формированием живой изгороди или плотно посаженного кустарника высотой 0,8 м и шириной 1м. Для обеспечения треугольника видимости на перекрестках высота кустарников должна составлять не более 0,5 м.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "58002316-27df-415d-a15e-681920fd2d09",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Несмотря на то, что приоритет при ограждении проезжей части отдается применению древесно-кустарниковой растительности, на отдельных участках возможна установка перильных ограждений.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Несмотря на то, что приоритет при ограждении проезжей части отдается применению древесно-кустарниковой растительности, на отдельных участках возможна установка перильных ограждений.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "fe13bfc7-6c7d-4e68-abc9-3e9ea77b4952",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Сопряжение тротуара с озеленением через полосу из металла, то есть без устройства бортового камня, применяется из эстетических особенностей работы с мощением и задач конкретного проекта.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Сопряжение тротуара с озеленением через полосу из металла, то есть без устройства бортового камня, применяется из эстетических особенностей работы с мощением и задач конкретного проекта.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "34107f05-b9b7-4fc7-8b96-189cbd6905e4",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Необходимо исключать использование отсева. содержащего пылеватые частицы, в конструкциях покрытий, в качестве основания плитки. В качестве альтернативы может применяться щебень фракции 5…10 мм, песок, фракционированный из отсевов от дробления 1...5 мм или песчано-цементная смесь.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Необходимо исключать использование отсева. содержащего пылеватые частицы, в конструкциях покрытий, в качестве основания плитки. В качестве альтернативы может применяться щебень фракции 5…10 мм, песок, фракционированный из отсевов от дробления 1...5 мм или песчано-цементная смесь.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e61223a4-802d-4055-b45a-da2d431db13a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Детальные конструкции элементов обводнения ландшафта и условия их применения разрабатывать отдельным рекомендательным документом. В том числе решения по применению дренажа мелкого заложения, конструкций открытых каналов, элементов специальных водозадерживающих систем, по устройству дождеприёмных колодцев в зоне озеленения и пр.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Детальные конструкции элементов обводнения ландшафта и условия их применения разрабатывать отдельным рекомендательным документом. В том числе решения по применению дренажа мелкого заложения, конструкций открытых каналов, элементов специальных водозадерживающих систем, по устройству дождеприёмных колодцев в зоне озеленения и пр.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "84c78500-47d5-49a3-8773-c876fd687f54",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Установка дорожных знаков должна выполняться по ГОСТ Р 52290-2004 «Технические средства организации дорожного движения. Знаки дорожные» и т.п. 3.503.0-80 вып.1 «Опоры дорожных знаков на автомобильных дорогах», устройство дорожной разметки проезжей части — по ГОСТ Р 51256-99 «Разметка дорожная» и т. п. 3.503-79 вып. 0 «Дорожная разметка».",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Установка дорожных знаков должна выполняться по ГОСТ Р 52290-2004 «Технические средства организации дорожного движения. Знаки дорожные» и т.п. 3.503.0-80 вып.1 «Опоры дорожных знаков на автомобильных дорогах», устройство дорожной разметки проезжей части — по ГОСТ Р 51256-99 «Разметка дорожная» и т. п. 3.503-79 вып. 0 «Дорожная разметка».",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "99328ace-68ac-42d9-b6e6-13c9021ec00a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Для поддержания дизайн-кода города на пешеходных, туристических, парадных и событийных улицах города необходимо устраивать чугунные люки с айдентикой «ЕКАТЕРИНБУРГ».",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Для поддержания дизайн-кода города на пешеходных, туристических, парадных и событийных улицах города необходимо устраивать чугунные люки с айдентикой «ЕКАТЕРИНБУРГ».",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1067e14a-6d89-48fb-a8bc-9f0a4eebdcd6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 309,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальные конструкции покрытий",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальные конструкции покрытий",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 310,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Проезжая часть",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Проезжая часть",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "db334907-5f29-4eb4-a095-c36dfb1aab5b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Состав конструкции и толщина слоев дорожной одежды проезжей части определяется расчётом.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Состав конструкции и толщина слоев дорожной одежды проезжей части определяется расчётом.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8a7fdfc4-8ff5-4aaa-b125-ba1665395a44",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/8a7fdfc4-8ff5-4aaa-b125-ba1665395a44.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "09029293-cc50-4f78-bda0-21e82ed36d04",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 311,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Автомобильная парковка",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Автомобильная парковка",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "431dc39c-8315-4975-bbba-ee04f5930fa3",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/431dc39c-8315-4975-bbba-ee04f5930fa3.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "b4b5a540-e970-49e2-8a09-0efe6d333f21",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 312,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Велодорожка",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Велодорожка",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d2bb4681-433a-459a-b95c-bc91e1b1d6d1",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/d2bb4681-433a-459a-b95c-bc91e1b1d6d1.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "edbc1a8b-d1dd-46ac-8e2a-27927a456748",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "50413908-6294-4428-a65a-c461946e0823",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/50413908-6294-4428-a65a-c461946e0823.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "56a7c54b-a1bb-4a99-b8dd-1cca43f46451",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 313,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Тротуар",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Тротуар",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b551415e-d2e9-4895-a0fa-5adfe25a9aab",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/b551415e-d2e9-4895-a0fa-5adfe25a9aab.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "23177f2b-9c87-4db9-aec2-06b33b939d52",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d20c06bc-3760-4468-855f-32efee863940",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/d20c06bc-3760-4468-855f-32efee863940.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "72c381d0-2af4-4c55-8813-859aa2fd302a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "feb927df-b53d-4b25-94fa-9f3f181ca2ab",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/feb927df-b53d-4b25-94fa-9f3f181ca2ab.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "e1823aab-e1b4-4796-88fc-0e0fb0badbb1",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6f4b2b93-5469-4af9-aca9-33c614563960",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/6f4b2b93-5469-4af9-aca9-33c614563960.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "a9f6b4ab-1010-4452-9444-7fd3dd43475a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c5a8b4b2-27a4-437c-a9ff-d4bb31360362",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/c5a8b4b2-27a4-437c-a9ff-d4bb31360362.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "4b0fa2a4-c13f-4e6f-9be1-8f1b29bb6aad",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Резиновое покрытие и деревянный настил применяются в зоне размещения уличной мебели и оборудования. Плиточное покрытие тротуара может быть из бетонной плитки разных видов, гранитной плитки, колотой гранитной брусчатки, применяемой в качестве тактильного покрытия.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Резиновое покрытие и деревянный настил применяются в зоне размещения уличной мебели и оборудования. Плиточное покрытие тротуара может быть из бетонной плитки разных видов, гранитной плитки, колотой гранитной брусчатки, применяемой в качестве тактильного покрытия.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e9316431-6db2-4c35-a0df-5d1a9f66862c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 314,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Озеленение",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Озеленение",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4f9f9ae5-4ecb-4576-9751-00c49d4548f9",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/4f9f9ae5-4ecb-4576-9751-00c49d4548f9.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "c64b86a7-d548-4930-92b9-6c983dc7efcf",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 315,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Выделенные трамвайные пути",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Выделенные трамвайные пути",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e9248702-9236-4258-ad34-cdcc3c783dc4",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "da26869f-62e3-41c7-97e3-f6c3e9d4e011",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "b336179f-0a4f-473e-a944-721c430bd595",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/b336179f-0a4f-473e-a944-721c430bd595.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "82ad92e0-30b7-4bb7-a891-f13da8b539a1",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "f569ba0d-92f4-46a2-8139-3ba5b7bafbfc",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/f569ba0d-92f4-46a2-8139-3ba5b7bafbfc.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0123ad03-03b5-4401-91c9-bfa44690bec2",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/0123ad03-03b5-4401-91c9-bfa44690bec2.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "183565be-2cce-46cf-81d0-2cc000aee5c3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 316,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Узлы сопряжения покрытий",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Узлы сопряжения покрытий",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 317,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема сопряжения покрытия проезжей части / автомобильной парковки с тротуаром / озеленением",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема сопряжения покрытия проезжей части / автомобильной парковки с тротуаром / озеленением",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "91319790-afbb-4109-8c92-49134e2d3817",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/91319790-afbb-4109-8c92-49134e2d3817.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "69c3718b-242a-479e-8769-c72efc4d8c14",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 318,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема сопряжения покрытия проезжей части с озеленением с устройством технического тротуара",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема сопряжения покрытия проезжей части с озеленением с устройством технического тротуара",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "34d0b1ce-5be6-4c7e-aadb-bb4af47c487f",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/34d0b1ce-5be6-4c7e-aadb-bb4af47c487f.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "0c87242e-65a4-44e0-9c34-75b3b5b561f6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 319,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема сопряжения покрытия проезжей части и автомобильной парковки",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема сопряжения покрытия проезжей части и автомобильной парковки",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "bc885546-d200-4d94-826a-8de1c3cc1d33",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/bc885546-d200-4d94-826a-8de1c3cc1d33.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "d55722b0-70c9-40d9-b517-baa856eff6fb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 320,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема сопряжения покрытия тротуара и велодорожки через буфер озеленения",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема сопряжения покрытия тротуара и велодорожки через буфер озеленения",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a250372d-7082-4d8c-afe7-8c4d71258b5d",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/a250372d-7082-4d8c-afe7-8c4d71258b5d.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "c201c04a-0c6f-46da-aa91-773e72e4d96e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 321,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема сопряжения покрытия тротуара и озеленения",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема сопряжения покрытия тротуара и озеленения",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8a439e06-51e7-4f25-8426-bf7f391f6943",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/8a439e06-51e7-4f25-8426-bf7f391f6943.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "1374dfea-f27d-45da-bfd6-b68a474b18ec",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 322,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства продольного лотка тротуара за счет изменения отметок плиток мощения",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства продольного лотка тротуара за счет изменения отметок плиток мощения",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6e2e184a-39a7-42cf-a92e-211ca6379a60",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/6e2e184a-39a7-42cf-a92e-211ca6379a60.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "314cb40e-9a70-452e-9db3-95570408b33c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 323,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема сопряжения покрытия тротуара с озеленением через тротуарную плитку и уголок (для увеличения объёма плодородного грунта)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема сопряжения покрытия тротуара с озеленением через тротуарную плитку и уголок (для увеличения объёма плодородного грунта)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "dfde87df-723a-4e55-bce1-f6dfd25d8905",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/dfde87df-723a-4e55-bce1-f6dfd25d8905.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "4cb71c16-e616-4322-83c9-49317bc69615",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 324,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема сопряжения покрытия тротуара с озеленением через втопленную или невтопленную относительно тротуара полосу из металла",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема сопряжения покрытия тротуара с озеленением через втопленную или невтопленную относительно тротуара полосу из металла",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ac7c2df9-6b23-4e75-bd9b-cb5b6ac799a4",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/ac7c2df9-6b23-4e75-bd9b-cb5b6ac799a4.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "78673cca-20e2-4b48-8c99-d26f455ba7af",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 325,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема сопряжения озеленения из кустарников / многолетников с газоном через деревянную доску",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема сопряжения озеленения из кустарников / многолетников с газоном через деревянную доску",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "8626a8aa-acdd-4325-8109-3e253175da40",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/8626a8aa-acdd-4325-8109-3e253175da40.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "03f5f880-fdcc-4b54-b766-9e511e3df1b6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 326,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема сопряжения проезжей части и тротуара на участках приподнятых перекрестков через полый щелевой водооотводной бордюр",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема сопряжения проезжей части и тротуара на участках приподнятых перекрестков через полый щелевой водооотводной бордюр",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a44d50dd-79eb-4e43-9ac7-9f65938f33f2",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/a44d50dd-79eb-4e43-9ac7-9f65938f33f2.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "82e712d7-e6de-4c16-8157-8f93fe4baaf3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "ea915ad5-ee8d-44d3-886b-aa0858669868",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/ea915ad5-ee8d-44d3-886b-aa0858669868.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "84479f45-0d06-4b95-8c5f-a64bfb5e1d9d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 327,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства приподнятой проезжей части до уровня тротуара",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства приподнятой проезжей части до уровня тротуара",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "df87b75d-c987-4217-b9df-8e9866c48891",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/df87b75d-c987-4217-b9df-8e9866c48891.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "7a0b76ee-a680-4fe4-81a7-0d6e8ce2a29f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 328,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема сопряжения покрытия проезжей части и тротуара в одном уровне через бортовой камень / гранитный лоток",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема сопряжения покрытия проезжей части и тротуара в одном уровне через бортовой камень / гранитный лоток",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "152a303b-3ffc-4edc-acca-59ed823bd664",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/152a303b-3ffc-4edc-acca-59ed823bd664.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "48c40c4f-fe96-4885-b350-8f254fe672a6",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 329,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства понижения тротуара до уровня проезжей части",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства понижения тротуара до уровня проезжей части",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "54be57f8-2b49-427b-b5e0-a3e18ebb1cf2",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/54be57f8-2b49-427b-b5e0-a3e18ebb1cf2.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "cb362b84-724c-48df-9e16-46aa29886c28",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "69fcbe50-1168-47bf-9d24-a6c88a478a27",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/69fcbe50-1168-47bf-9d24-a6c88a478a27.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "c9156daf-15ba-423a-bc95-b2a9583cd435",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 330,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства попутного и продольного лотка тротуара для организации стока с крыш",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства попутного и продольного лотка тротуара для организации стока с крыш",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "06601c65-a1a8-4dc5-8b82-d73543a5e7e5",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/06601c65-a1a8-4dc5-8b82-d73543a5e7e5.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "33f498c8-c798-4cb0-8025-56e103ed8243",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5df82b74-42df-45bb-af0f-5f4e6b44d83a",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/5df82b74-42df-45bb-af0f-5f4e6b44d83a.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "ed61d3f7-5d24-4eca-9eeb-ba034dd79108",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 331,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства лотка проезжей части путём срезки фрезой",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства лотка проезжей части путём срезки фрезой",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0bf14c75-5d8c-4296-a1bd-80d39637fd76",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/0bf14c75-5d8c-4296-a1bd-80d39637fd76.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "1c347743-b59e-4f18-9aaa-63da7e2fd06b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "53d78196-01b9-4ade-833d-416f49efe2c0",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/53d78196-01b9-4ade-833d-416f49efe2c0.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "f49a77fa-60c9-46a6-88f3-4ad370d8d024",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 332,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства лотка проезжей части из колотой гранитной брусчатки",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства лотка проезжей части из колотой гранитной брусчатки",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "db811c83-dbdc-4374-a323-603da26865e5",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/db811c83-dbdc-4374-a323-603da26865e5.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "2c44021c-3264-46d7-a36b-8d95de4d86d0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "389478c4-3640-4e34-b32a-bcb8f92af907",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/389478c4-3640-4e34-b32a-bcb8f92af907.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "28e99af0-4853-413b-af93-fba6585a6705",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 333,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства попутного гранитного лотка тротуара",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства попутного гранитного лотка тротуара",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "019e596b-60fd-4b62-aa83-c0101642f734",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/019e596b-60fd-4b62-aa83-c0101642f734.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "e50328fe-f0e2-4067-8906-e4b220fe556d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "72952fce-5e97-4c3d-95e4-2ce7717ab180",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/72952fce-5e97-4c3d-95e4-2ce7717ab180.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "3ba596b6-7e8b-40cc-8f56-3310b35ebaa0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 334,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства попутного лотка тротуара из колотой гранитной брусчатки",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства попутного лотка тротуара из колотой гранитной брусчатки",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "51f0c891-9d4e-4406-815e-69392b5a5b3b",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/51f0c891-9d4e-4406-815e-69392b5a5b3b.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "209a8209-27db-407b-b5f2-5058ca4cd425",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b19bc04a-3b22-4bff-9c2b-b164595c6ba8",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/b19bc04a-3b22-4bff-9c2b-b164595c6ba8.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "a0ea0f97-4557-4b77-99a7-aa13a05c55dc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 335,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Детали устройства элементов озеленения и обводнения ландшафта",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Детали устройства элементов озеленения и обводнения ландшафта",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "248b3cf4-bc92-455e-964a-f456bbdb873d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Настоящим стандартом определяются минимальные требования к озеленению:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Настоящим стандартом определяются минимальные требования к озеленению:",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "type": "bulleted_list_folder",
+      "children": [
+        {
+          "id": "249f75dd-f277-405c-b2e4-8c7d414e930e",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "аллейные крупномерные деревья с ровным штамбом высотой не менее 2 м , обхватом штабма 20-25см, ровной симметричной кроной.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "аллейные крупномерные деревья с ровным штамбом высотой не менее 2 м , обхватом штабма 20-25см, ровной симметричной кроной.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "44ec60d5-db4a-4dbe-9fac-5a63cdeee029",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "многоштамбные деревья и солитеры высотой не менее 5 м.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "многоштамбные деревья и солитеры высотой не менее 5 м.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "5e6f257f-5412-4d36-93d8-93a3b395c32d",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "солитерные кустарники высотой не менее 2,5 м.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "солитерные кустарники высотой не менее 2,5 м.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "2c127251-8f1d-449a-8be8-173038574e1b",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "живые изгороди высотой не менее 0,6 м.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "живые изгороди высотой не менее 0,6 м.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "4dda2c17-3a34-4da9-9da9-8d4ec356db15",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "кустарник с объемом горшка 2л , высотой 0,6м, количеством ветвей 3-4 штуки. минимальная плотность посадки 5шт/м.кв. посадка должна быть хаотичной(нерегулярной, не в шахматном порядке).",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "кустарник с объемом горшка 2л , высотой 0,6м, количеством ветвей 3-4 штуки. минимальная плотность посадки 5шт/м.кв. посадка должна быть хаотичной(нерегулярной, не в шахматном порядке).",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "5eeb9c91-ae41-46c6-9086-7178a0019735",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "многолетники с объемом горшка 2л, минимальная плотность посадки 8шт/м.кв.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "многолетники с объемом горшка 2л, минимальная плотность посадки 8шт/м.кв.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "002d379f-771a-4cc1-8b39-c2fba310e755",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "открытый грунт под озеленением должен быть мульчирован перегнившей корой хвойных пород фракцией 20-50 мм (например кора сосны), толщина слоя 50мм.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "открытый грунт под озеленением должен быть мульчирован перегнившей корой хвойных пород фракцией 20-50 мм (например кора сосны), толщина слоя 50мм.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "40b3d4f9-8ee3-4dd4-a207-71f5d3d2bbe0",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "для вновь посаженных деревьев должна быть предусмотрена стабилизационная конструкция.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "для вновь посаженных деревьев должна быть предусмотрена стабилизационная конструкция.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "e72a0a3b-ec1c-4de5-8da0-682317baacea",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "должна быть выполнена предпосадочная обрезка растений (крона деревьев, ветви кустарников) для установления равновесия между корневой системой и кроной.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "должна быть выполнена предпосадочная обрезка растений (крона деревьев, ветви кустарников) для установления равновесия между корневой системой и кроной.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "7aaec01c-791f-42d5-ae5f-e6f5490909bb",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "штамб деревьев должен быть закрыт обвязкой из легкого натурального материала защищая кору от прямых солнечных лучей.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "штамб деревьев должен быть закрыт обвязкой из легкого натурального материала защищая кору от прямых солнечных лучей.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        },
+        {
+          "id": "e041c153-6891-49de-92ce-ba9dbad4e40f",
+          "type": "bulleted_list_item",
+          "content": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "устройство сопряжения озеленения из кустарники/многолетники с газоном через деревянную доску служит для предотвращения «переползание» газона и его развитие под кустарник.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "устройство сопряжения озеленения из кустарники/многолетники с газоном через деревянную доску служит для предотвращения «переползание» газона и его развитие под кустарник.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "a4a5fabb-224f-4a6e-bf69-e3f90dabc8c7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 336,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема посадки крупномера и укрепления ствола",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема посадки крупномера и укрепления ствола",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "be2478a4-835c-455a-9f46-cd30e2b1febd",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/be2478a4-835c-455a-9f46-cd30e2b1febd.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "76d238d0-e9be-431e-affc-fdeb48ae69ea",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 337,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства решетки для защиты корней",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства решетки для защиты корней",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9e4eb1fc-0b45-4df6-905f-5ce74329949b",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/9e4eb1fc-0b45-4df6-905f-5ce74329949b.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "971a9033-0d62-40a8-8ba7-8960aca1adff",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 338,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема защиты в мощении",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема защиты в мощении",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e3c4c7bd-2c4c-4520-b6f3-fed23bd7d59b",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/e3c4c7bd-2c4c-4520-b6f3-fed23bd7d59b.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "7e9e3658-d4c9-4619-ad64-639b177fcfeb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 339,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема посадки крупномера в плантер. (конструкция подпорной стенки определяется по расчету)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема посадки крупномера в плантер. (конструкция подпорной стенки определяется по расчету)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "64a4e821-ce05-49c4-9eb3-ea86160f486d",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/64a4e821-ce05-49c4-9eb3-ea86160f486d.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "2186ce2d-4632-47d4-ac0d-c050d690fe6f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 340,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема посадки растений в переносной кадке",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема посадки растений в переносной кадке",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "38445d93-07bb-4bd3-8855-4b2b1a2f7f4d",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/38445d93-07bb-4bd3-8855-4b2b1a2f7f4d.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "68266bd8-4414-4ace-aaab-11b967031396",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 341,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства вертикального озеленение. Вариант 1",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства вертикального озеленение. Вариант 1",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1c0be5b7-7d39-4523-9116-fe8ca14611ac",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/1c0be5b7-7d39-4523-9116-fe8ca14611ac.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "a2fcba3c-4057-4e94-8ad8-2e4c57a2b1c3",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/a2fcba3c-4057-4e94-8ad8-2e4c57a2b1c3.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "e1d9778e-cfdd-4fc0-819d-cf3e29dbd16c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 342,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства вертикального озеленение. Вариант 2",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства вертикального озеленение. Вариант 2",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "77141bb8-c61d-42ec-8b98-64848c211309",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/77141bb8-c61d-42ec-8b98-64848c211309.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "943b5084-4cb4-4df5-83cd-979baf8e7d1c",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/943b5084-4cb4-4df5-83cd-979baf8e7d1c.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "5423d4e8-b019-44ad-b912-0d0e5607e066",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 343,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства противокорневой защиты",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства противокорневой защиты",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5e97a601-4082-43ba-bfb9-147622474b0a",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/5e97a601-4082-43ba-bfb9-147622474b0a.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "d8cedb5e-d4a6-4147-a241-678e8e52942c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 344,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема посадки дерева на склоне",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема посадки дерева на склоне",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9b277cc5-00f2-4f46-8575-02b798f1b722",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/9b277cc5-00f2-4f46-8575-02b798f1b722.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "706a2f88-ec1c-4110-9926-29ebc0f27d09",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 345,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема защиты дерева при изменении уровня почвы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема защиты дерева при изменении уровня почвы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "0c703346-c5ed-4cc5-9c0b-375f85f94370",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/0c703346-c5ed-4cc5-9c0b-375f85f94370.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "3d020069-24ea-40d1-af43-84e207d93978",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 346,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства биодренажной канавы",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства биодренажной канавы",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "542720e8-c720-48a7-b649-b7a94227b2e7",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/542720e8-c720-48a7-b649-b7a94227b2e7.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "c7cf6f61-9d4d-40c4-ab21-b28f687a9c10",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 347,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема устройства открытого канала",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема устройства открытого канала",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "796a4961-0a2a-4bba-8536-9d12fbd09221",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/796a4961-0a2a-4bba-8536-9d12fbd09221.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "e261b2b2-b12e-4440-904f-a836162b03f0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 348,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Детали ограждений, городской мебели, освещения, инженерных систем, средств организации движения",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Детали ограждений, городской мебели, освещения, инженерных систем, средств организации движения",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 349,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Проезжая часть принципиальная схема монтажа скамьи в мощении",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Проезжая часть принципиальная схема монтажа скамьи в мощении",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c7a9998f-194c-4ee8-b4ed-fcaa354c8949",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вид спереди",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вид спереди",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "249e7174-4978-442f-9182-335d37ee4056",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/249e7174-4978-442f-9182-335d37ee4056.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "ba97ba4a-d140-4670-bacc-1cf910ea0d1b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b2d0e1e7-4250-4948-857a-149b6770b95c",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вид сверху",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вид сверху",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a92eccc0-ad7f-4e15-bcd8-8adca5f4b572",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/a92eccc0-ad7f-4e15-bcd8-8adca5f4b572.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "78e22dac-6ac1-4af2-938b-c00774a11d95",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "71df59e6-fc28-40e7-a078-e5d6d6b31b7f",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "7a5a9a6b-200f-433b-87dc-b3e15308e820",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "2a0832e5-43e0-4e7e-9b37-f3968980b173",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Вид сбоку",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Вид сбоку",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "7af438a3-75b8-469a-8ba8-741c16be8e9a",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/7af438a3-75b8-469a-8ba8-741c16be8e9a.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "dcccaf70-f4fd-410e-a752-3a3869443831",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.5
+          },
+          "children": [
+            {
+              "id": "869d28d9-a2c2-4fa2-9427-aea11710f630",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Деталь А",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Деталь А",
+                    "href": null
+                  }
+                ],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            },
+            {
+              "id": "d9296588-91ce-4eec-9bb4-c6a341002a41",
+              "type": "image",
+              "content": {
+                "caption": [],
+                "type": "file",
+                "file": {
+                  "url": "/assets/d9296588-91ce-4eec-9bb4-c6a341002a41.webp"
+                }
+              },
+              "children": []
+            },
+            {
+              "id": "99adc43f-a2d8-4afb-b1cb-37c4ba3f23e6",
+              "type": "paragraph",
+              "content": {
+                "rich_text": [],
+                "icon": null,
+                "color": "default"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e8bdb262-94f5-41e4-98a7-a21e4c5334bc",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 350,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема монтажа скамьи на подпорной стенке",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема монтажа скамьи на подпорной стенке",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "778c5f49-aabd-4201-98c5-c905cc769988",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вид спереди",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вид спереди",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b775fad5-67d2-4939-abda-9566d6d9a76b",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/b775fad5-67d2-4939-abda-9566d6d9a76b.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "afa545c1-62c6-4e41-8c5b-33cd87410c17",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a3a5820e-f6c0-4892-b4b2-d5b677672988",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вид сверху",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вид сверху",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b98e3d7a-6247-46ef-a79b-37c2ba5f7673",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/b98e3d7a-6247-46ef-a79b-37c2ba5f7673.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "608bfe6d-caea-47b4-8332-b3a9a4ceff79",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "66839a14-d9cc-4397-85f4-9b95c5254e9a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Вид сбоку",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Вид сбоку",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "b987e72c-7725-4c2d-afe1-4a8366f08c6e",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/b987e72c-7725-4c2d-afe1-4a8366f08c6e.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "85d34260-ae82-45bf-9f61-b188cc6bf8f3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 351,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема монтажа урны в мощении",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема монтажа урны в мощении",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "9c335206-6084-42d1-878f-ba72d61bb255",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/9c335206-6084-42d1-878f-ba72d61bb255.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "8136165d-be37-47ad-a982-e1f63efd61e2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 352,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема монтажа велопарковки в мощении",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема монтажа велопарковки в мощении",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "5a5bd985-11c5-4c67-85a2-290a5682d05f",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/5a5bd985-11c5-4c67-85a2-290a5682d05f.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "2e3a6054-10bd-4206-ae46-3f12b58c20fb",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 353,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема монтажа оградительного столбика в мощении",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема монтажа оградительного столбика в мощении",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c9fed758-2447-43f4-b865-012b0f44c5c6",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/c9fed758-2447-43f4-b865-012b0f44c5c6.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "358be092-d541-4daa-b204-7aff2712279e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 354,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема установки опор освещения с декорированием фланца",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема установки опор освещения с декорированием фланца",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "629913db-46bd-44a8-bce9-c63441c9a639",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/629913db-46bd-44a8-bce9-c63441c9a639.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "5f0e42c6-0ec2-469d-b37c-60159a0d56a2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 355,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема крепления оборудования (камер), дорожных знаков к опорам освещения. Принципиальная схема монтажа стойки для дорожного знака",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема крепления оборудования (камер), дорожных знаков к опорам освещения. Принципиальная схема монтажа стойки для дорожного знака",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6532e044-4da0-4dbe-99b5-ee744deff4c7",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Разработана на основе чертежей СМЭП ГИБДД, крепление знаков к стойке осуществляется на хомуты.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Разработана на основе чертежей СМЭП ГИБДД, крепление знаков к стойке осуществляется на хомуты.",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4d376b8e-a341-4ddb-bc6b-1d4d7c6b3425",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/4d376b8e-a341-4ddb-bc6b-1d4d7c6b3425.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "63a03278-806b-47f4-81c3-d08947fdb21e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1bd7b741-52b9-4ff3-82fc-0ca90c479497",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/1bd7b741-52b9-4ff3-82fc-0ca90c479497.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "7466eea6-16d4-46b4-b5f9-0b4d634bd096",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 356,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема монтажа опоры Г-образной для светофора и солнечной батареи",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема монтажа опоры Г-образной для светофора и солнечной батареи",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "4b6cc006-3b6e-448e-b36a-34c2c066369b",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Разработана на основе чертежей ООО «Белгородский Завод Стальных Конструкций».",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Разработана на основе чертежей ООО «Белгородский Завод Стальных Конструкций».",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "1eae163a-7448-4124-bd3c-aec8d468b11a",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/1eae163a-7448-4124-bd3c-aec8d468b11a.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "139841e9-84fa-4d71-86d5-b351bd2c8df0",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 357,
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Принципиальная схема крепления шкафов электрических",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Принципиальная схема крепления шкафов электрических",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "d86a2a8e-d9a0-4dfd-9df0-fec2d943ac4c",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/d86a2a8e-d9a0-4dfd-9df0-fec2d943ac4c.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "6552fb0a-f09e-4934-960c-5cb7dc424349",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/6552fb0a-f09e-4934-960c-5cb7dc424349.webp"
+        }
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Типовые решения сопряжений и узлов",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Типовые решения сопряжений и узлов",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 5
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "couplings-units"
+      }
+    },
+    "cover": null
+  }
+}

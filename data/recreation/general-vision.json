@@ -1,0 +1,99 @@
+{
+  "id": "2238c7eb-d4ec-4aa7-b31c-9e9e26fbe5a5",
+  "type": "page",
+  "content": {
+    "title": "Общее видение комплексного благоустройства"
+  },
+  "children": [
+    {
+      "id": "f7ed0f27-f028-49d7-ac8d-753f94e3a864",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/f7ed0f27-f028-49d7-ac8d-753f94e3a864.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "29d6ca9e-e43b-4fdf-b724-bc0db6a0db91",
+      "type": "image",
+      "content": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "/assets/29d6ca9e-e43b-4fdf-b724-bc0db6a0db91.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "766e1a12-5a26-4c4f-a960-8286cf94a39d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Процесс трансформации городской среды, основанный на взаимодействии городских субъектов, руководствующихся общими принципами и ценностями",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Процесс трансформации городской среды, основанный на взаимодействии городских субъектов, руководствующихся общими принципами и ценностями",
+            "href": null
+          }
+        ],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Общее видение комплексного благоустройства",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Общее видение комплексного благоустройства",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 4
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "general-vision"
+      }
+    },
+    "cover": null
+  }
+}

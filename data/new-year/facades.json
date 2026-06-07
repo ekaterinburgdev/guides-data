@@ -1,0 +1,687 @@
+{
+  "id": "125d6a8c-96ff-4559-b57a-e176703a645e",
+  "type": "page",
+  "content": {
+    "title": "Рекомендации по внешнему оформлению фасадов"
+  },
+  "children": [
+    {
+      "id": 257,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Единый световой ансамбль",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Единый световой ансамбль",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "6d0b5484-025d-46ac-9983-4f3e79ec0caa",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "b35fcfbd-e12d-4593-9fcd-b43df7100bc4",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.75
+          },
+          "children": [
+            {
+              "id": "fac2ecd6-7a77-455d-b8e1-224da46660d4",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Схема размещения",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Схема размещения",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/fac2ecd6-7a77-455d-b8e1-224da46660d4.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "8c80654c-5463-44ec-9501-f6180a019dba",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25000000000000006
+          },
+          "children": [
+            {
+              "id": "eecb71a7-5487-4425-bf62-22d602ed4190",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Пример",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Пример",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/eecb71a7-5487-4425-bf62-22d602ed4190.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c1409eb-230f-43e7-8b69-04618748b507",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "120fa19d-2f50-4f8b-87b5-210ef0b870c9",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 258,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение деревьев",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение деревьев",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "47afe294-9749-4a6a-a175-a208c5db53df",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "f6844b13-3670-430c-ad43-92c862b547f9",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.75
+          },
+          "children": [
+            {
+              "id": "bac6236a-9459-4edf-bc36-7b9c06a35ec5",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Схема размещения",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Схема размещения",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/bac6236a-9459-4edf-bc36-7b9c06a35ec5.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "321bc635-83d8-41e4-b578-bb26351a687e",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.25000000000000006
+          },
+          "children": [
+            {
+              "id": "eb5a1e43-8f17-4699-bcb4-89e16cf05ff9",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Пример",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Пример",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/eb5a1e43-8f17-4699-bcb4-89e16cf05ff9.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe11bf75-1cf1-473e-9d57-e171d8d14cf2",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c6e47617-8e2d-4c19-82ee-3b202b977f24",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 259,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Прогулочный коридор",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Прогулочный коридор",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "7bc9ad79-bf27-4150-b12a-b728e9f135e5",
+      "type": "image",
+      "content": {
+        "caption": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Схема размещения",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Схема размещения",
+            "href": null
+          }
+        ],
+        "type": "file",
+        "file": {
+          "url": "/assets/7bc9ad79-bf27-4150-b12a-b728e9f135e5.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "b2a7e4f0-92fd-45a2-85ee-b5a159b0cd3e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "68939213-5cf4-4334-a534-ee61c2d7c777",
+      "type": "image",
+      "content": {
+        "caption": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Пример",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Пример",
+            "href": null
+          }
+        ],
+        "type": "file",
+        "file": {
+          "url": "/assets/68939213-5cf4-4334-a534-ee61c2d7c777.webp"
+        }
+      },
+      "children": []
+    },
+    {
+      "id": "beb479b8-d2b3-4006-8ad9-8fab444718ef",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 260,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Оформление фасада гирляндами",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Оформление фасада гирляндами",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "3a273333-5910-4229-9195-525eab8ba126",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "e2a02b80-9071-4c87-8928-d1914768d2b2",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.6875
+          },
+          "children": [
+            {
+              "id": "12e29384-1a1e-4696-8897-3bb18cc23aab",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Схема размещения",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Схема размещения",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/12e29384-1a1e-4696-8897-3bb18cc23aab.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "af8d02aa-e12c-4cc9-ad1e-0625f20adfca",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.3125
+          },
+          "children": [
+            {
+              "id": "244f6378-fafd-4fb5-9326-ba10e4750438",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Пример",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Пример",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/244f6378-fafd-4fb5-9326-ba10e4750438.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0157cab7-1ae8-423a-844a-e572524ebf6e",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": 262,
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Размещение гирлянд по контурам дверей и оконных проёмов",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Размещение гирлянд по контурам дверей и оконных проёмов",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "e6ca9e1c-95a2-4e84-949f-8a8aa814d2b4",
+      "type": "column_list",
+      "content": {},
+      "children": [
+        {
+          "id": "6d52655d-24a9-406e-bd0d-6ab2bf112133",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.6875
+          },
+          "children": [
+            {
+              "id": "2019e5a3-18d7-4be6-95b7-c280c834d0c2",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Схема размещения",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Схема размещения",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/2019e5a3-18d7-4be6-95b7-c280c834d0c2.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "e2dd9251-85d4-48dd-9e82-4356a0d76bfe",
+          "type": "column",
+          "content": {
+            "width_ratio": 0.3125
+          },
+          "children": [
+            {
+              "id": "03c013c1-d345-4f05-b469-9f039c6b1af2",
+              "type": "image",
+              "content": {
+                "caption": [
+                  {
+                    "type": "text",
+                    "text": {
+                      "content": "Пример",
+                      "link": null
+                    },
+                    "annotations": {
+                      "bold": false,
+                      "italic": false,
+                      "strikethrough": false,
+                      "underline": false,
+                      "code": false,
+                      "color": "default"
+                    },
+                    "plain_text": "Пример",
+                    "href": null
+                  }
+                ],
+                "type": "file",
+                "file": {
+                  "url": "/assets/03c013c1-d345-4f05-b469-9f039c6b1af2.webp"
+                }
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ea1934e7-384c-4c1c-9ad3-fe54f3c8aa70",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "c4b07e71-7271-41d1-bfa7-d42fde67b519",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    },
+    {
+      "id": "a3f8141a-5ebc-4519-938d-ac1f82f68f9d",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Рекомендации по внешнему оформлению фасадов",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Рекомендации по внешнему оформлению фасадов",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "cbcq",
+        "type": "number",
+        "number": 2
+      },
+      "pageUrl": {
+        "id": "VfY_",
+        "type": "url",
+        "url": "facades"
+      }
+    },
+    "cover": null
+  }
+}

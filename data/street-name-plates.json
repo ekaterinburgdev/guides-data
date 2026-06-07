@@ -1,0 +1,57 @@
+{
+  "id": "19816cba-dfd2-4588-adcc-a7069f40486b",
+  "type": "page",
+  "content": {
+    "title": "Адресные таблички"
+  },
+  "children": [
+    {
+      "id": "eae4cff3-cc5e-4cb0-93ca-5ea91cbbb1e3",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [],
+        "icon": null,
+        "color": "default"
+      },
+      "children": []
+    }
+  ],
+  "node_properties": {
+    "properties": {
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Адресные таблички",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Адресные таблички",
+            "href": null
+          }
+        ]
+      },
+      "order": {
+        "id": "SaHT",
+        "type": "number",
+        "number": 80
+      },
+      "pageUrl": {
+        "id": "%3Ez%7DR",
+        "type": "url",
+        "url": "street-name-plates"
+      }
+    },
+    "cover": "https://prod-files-secure.s3.us-west-2.amazonaws.com/b58e66a4-d31e-4085-be12-e8a4238316ec/ba1b1a40-8982-452a-af49-5c0d87dcd1bb/white-plate-sketch-2-white.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664HGF6SFG%2F20260607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260607T211759Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIAhWdeY8M1YewUbOyypsZAy1%2BO3UVWYp%2FyqHo6cVp4C6AiEA%2BpzbUbVdhK2OfJDEWA3fL92A1Ek6ysbk1JnRw6xJWzAqiAQIo%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDHMHoiNwf7PjA3851yrcA6l7K3p0fyd1GDqpIYkCIL3Q4UjUWuvRXev5PfiuEmAA%2BdkLcLU6AZHOveQu4dMVji3i1YMRqZblaei3Fdgv2ik2A7M%2BOMHZ%2FR7eaTTzbicTCah6Xr0QncaWQhCIxiZgeNG2XZND0AOVLIwmF2LFYp1soYUeOo6xNUF%2FdIrGTM45pt0JqMlej09RG3flrpPpyihrJWF31eGtEc5c2YLlxMMbkvcJ%2B23VvkhD3fGAMPY5c5on1bZYUtGE73sLrpkWD%2FeVbPZF6%2FH4FrFI3Gch20mfzI9cWgKQAK2DgxXJ0Dsk5AVX6ZGW7aXTazWAoHrNBOv%2FbJZlXM0U1SHLiAwYP9EiKPzCdX8cOzM4FxxUuXi7cyzShvWekbyXATFUqA5SII%2B6aS938KhqMUi%2BlcliiBdZcDBffyVEmVk8CR06NZr4MWcECOOpDBhdbagoyjCXIpKYeIDOOVdgj%2F9fLjbHYj4sT839IiqGFgUBXytbgwhD4pxWAvGQMlg92MfBWpyD%2BtL9BVKO%2FL8p%2Fh0cEW10pLqIt%2FSpkj8Sve8z8P4%2FRO9XGwvRwqfKAnck%2FnexPUxLk3DdK9T9NNqTrTqhH54b0ALTlZe3XjBP5h9wW6DR3WQ5bsLodoZ%2F514%2Brzk9MPLgltEGOqUBiVzcoah%2FBvr%2F7xwAKgUGqJGN9QM23GKph%2BH5K69zIGQZRRi%2BQLIRATehgPLjLhToYH1cAR1QW6oUR1vJI%2BZFA5MJFjBmlN5kL762vpMYZDM3HZft3a7KOB%2FuwWzwez1oMLKqVNj%2BXlOK3Jaqg%2BttNoZQVfktgbKDjjJp2kqhHHzaPkOkGqk3zAh9CK0PruZ1%2FxgNxs16qRPODe8EzJhaNqNHsbbM&X-Amz-Signature=6058c52c9f8d2980de9e1bac2d4af0bf2572197556ef4d867971aa40fb0f970d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+  }
+}
