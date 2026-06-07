@@ -1,0 +1,19 @@
+{
+  "name": "guides-static-exporter",
+  "version": "1.0.0",
+  "description": "Notion static JSON and assets exporter for Guides",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "build": "node index.ts",
+    "build-full": "BUILD_MODE=full node index.ts"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.3.0",
+    "dotenv": "^17",
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "@types/node": "^25"
+  }
+}
