@@ -1,24 +1,22 @@
 # Guides Data
 
-Статические Notion JSON страницы и медиафайлы для сайта **[guides.ekaterinburg.city](https://guides.ekaterinburg.city)**.
+Static JSON & assets for [guides.ekaterinburg.city](https://guides.ekaterinburg.city).
 
-* `/_notion-updated` — Node.js клиент для выгрузки из Notion.
-* `/assets` — папка со ссылками на медиафайлы.
-* `/data` — дерево структуры с блоками данных из Notion и ссылками на медиафайлы.
+- `/_notion-updater` — Node.js Notion client
+- `/assets` — folder with assets links
+- `/data` - tree structure with Notion blocks data and assets links
 
-## Разработка
+## Development
 
-1. Установите Node.js.
+1. Install Node.js
 
-2. Создайте файл `.env` и добавьте в него ваш токен: `NOTION_TOKEN=<ваш_токен>`.
+2. Create `.env` with `NOTION_TOKEN=<token>`
 
-3. Запустите скрипт сборки:
+3. Run build script:
 
 ```sh
-# Обычная сборка (инкрементальная)
-npm run build:fast
-
-# Полная сборка (с перекачкой всех активов)
 npm run build
 
+# Or force update data mode
+npm run build-full
 ```
